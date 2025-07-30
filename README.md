@@ -5,7 +5,7 @@ This repository space is my **code vault**: everything I build or tweak for Word
 ---
 
 ## 🚀 Elevator Pitch
-* **10+ years** deep inside the WordPress ecosystem: Core, Gutenberg/FSE, WooCommerce, multisite, high‑traffic optimisation.
+* Deep knowledge of the Wordpress ecosystem: Core, Gutenberg/FSE, WooCommerce, multisite, high‑traffic optimisation.
 * **Performance‑first**: Core Web Vitals 90 +, Cloudflare APO/Workers, HTTP/3, Redis, critical CSS, AVIF & WebP pipelines.
 * **DevOps DNA**: Docker‑ised stacks, GitHub Actions CI/CD, zero‑downtime deploys, fully scripted environments.
 * **API‑centric**: Crafting REST & GraphQL endpoints, integrating Stripe, SendGrid, Google Maps, CRM/ERP back offices.
