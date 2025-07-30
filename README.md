@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **[Your Name]** — Full‑Stack Web Engineer & WordPress Architect
+# 👋 Hi, I’m **[Thanos]** — Full‑Stack Web Engineer & WordPress Architect
 
 This repository space is my **code vault**: everything I build or tweak for WordPress sites—plugins, themes, DevOps scripts, HTML/JS/CSS snippets, Python helpers—lives here for backup and re‑use.
 
@@ -37,9 +37,9 @@ This repository space is my **code vault**: everything I build or tweak for Word
 * [mavrommatisantonios.gr](https://www.mavrommatisantonios.gr)  
 * [orabydm.com](https://www.orabydm.com)  
 * [kooba.gr](http://www.kooba.gr)  
-* …and many others → **[More at Entercity Digital ›](https://entercity.gr/erga)**
+* …and many others → **[More at Entercity Web ›](https://entercity.gr/erga)**
 
-_Partnered with **Entercity Digital** for enterprise hosting & digital strategy._
+_Partnered with **Entercity Web** for enterprise hosting & digital strategy._
 
 ---
 
@@ -54,13 +54,4 @@ _Partnered with **Entercity Digital** for enterprise hosting & digital strategy
 | `python-*` | Scrapers, bulk image optimisers, Lighthouse reporters |
 | `sql-*` | Migration scripts, WP‑CLI search‑replace helpers, slow‑query tuning |
 
----
 
-## 🤝 Let’s Collaborate
-* **Need a bespoke WordPress plugin, theme, or integration?** I build clean, documented, maintainable code.  
-* **Chasing green Core Web Vitals?** I deliver < 2 s LCP and pass CWV on real devices.  
-* **Migrating or scaling?** I architect Docker‑ised, auto‑scaling stacks with GitHub‑driven CI/CD pipelines.
-
-📬 hello @ yourdomain.com · [LinkedIn](https://linkedin.com/in/your-handle)
-
-> _“Ship fast, stay secure, keep it blazing.”_
