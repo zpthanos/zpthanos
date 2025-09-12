@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **[Thanos]** — Full‑Stack Web Engineer & WordPress Architect
+# 👋 Hi, I’m **[Thanos]** — A WordPress Architect
 
 This repository space is my **code vault**: everything I build or tweak for WordPress sites—plugins, themes, DevOps scripts, HTML/JS/CSS snippets, Python helpers—lives here for backup and re‑use.
 
