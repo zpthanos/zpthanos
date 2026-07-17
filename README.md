@@ -1,57 +1,87 @@
-# 👋 Hi, I’m **[Thanos]** — A WordPress Architect
+# Hi, I'm Thanos 👋
 
-This repository space is my **code vault**: everything I build or tweak for WordPress sites—plugins, themes, DevOps scripts, HTML/JS/CSS snippets, Python helpers—lives here for backup and re‑use.
+**WordPress Support Engineer | PHP, WooCommerce & Hosting**
 
----
+I build, maintain and troubleshoot WordPress websites for businesses. Over the last three years, I have worked on more than 60 production sites, handling everything from the first customer request to development, testing, launch and ongoing support.
 
-## 🚀 Elevator Pitch
-* Deep knowledge of the Wordpress ecosystem: Core, Gutenberg/FSE, WooCommerce, multisite, high‑traffic optimisation.
-* **Performance‑first**: Core Web Vitals 90 +, Cloudflare APO/Workers, HTTP/3, Redis, critical CSS, AVIF & WebP pipelines.
-* **DevOps DNA**: Docker‑ised stacks, GitHub Actions CI/CD, zero‑downtime deploys, fully scripted environments.
-* **API‑centric**: Crafting REST & GraphQL endpoints, integrating Stripe, SendGrid, Google Maps, CRM/ERP back offices.
-* **UX & Front‑End**: Tailwind CSS, SCSS/BEM, Vanilla JS (ES2022), React/Next, Alpine.js, GSAP, accessibility by default.
-* **Automation**: Python & Bash scripts for audits, scraping, bulk optimisation, Lighthouse batch reporting.
+My strongest area is solving real-world WordPress problems: broken plugins, checkout issues, DNS and SSL errors, slow websites, caching problems, migrations, malware incidents and hosting-related failures.
 
----
+## What I work with
 
-## 🛠 Tech Arsenal
+### WordPress & WooCommerce
+- Custom plugin development
+- WooCommerce stores and checkout customisation
+- Payment gateway and API integrations
+- Themes, child themes, hooks, filters and custom post types
+- Site migrations, staging and production support
 
-| Area | Keywords |
-|------|----------|
-| **WordPress** | Core internals, Hooks API, WP‑CLI, Gutenberg blocks, FSE, Theme.json, Multisite |
-| **E‑Commerce** | WooCommerce REST & Store API, Subscriptions, custom gateways, B2B pricing, ERP sync |
-| **Performance** | Cloudflare APO, Workers KV, Redis object cache, NGINX micro‑caching, Brotli, Critical‑CSS |
-| **Security** | CSP, HSTS, 2FA, nonce & CSRF, fail2ban, WP hardening scripts |
-| **DevOps / CI** | Docker Compose, GitHub Actions, SSH deploy keys, rsync/Deployer, Composer, Bedrock |
-| **Databases** | MySQL 8, MariaDB, query profiling, index tuning, reporting views |
-| **Front‑End** | HTML5, Tailwind CSS, SCSS, ES2022, Alpine.js, React, SVG/Lottie animations |
-| **APIs** | REST‑WP/v2, WP GraphQL, Stripe, SendGrid, Google Maps, Algolia, Laravel‑Zero micro‑services |
-| **Automation** | Python (BeautifulSoup, Selenium, Lighthouse CLI), Bash, Makefiles |
+### Hosting & Infrastructure
+- cPanel and Plesk
+- Linux, SSH, Apache and Nginx
+- DNS, SSL, backups and cron jobs
+- Cloudflare and Imperva
+- Redis, caching and performance troubleshooting
 
----
+### Development
+- PHP
+- JavaScript and jQuery
+- HTML and CSS
+- SQL
+- REST APIs, webhooks and AJAX
+- Git and GitHub
 
-## 🌐 Production Websites
-* [kokosalis.gr](https://kokosalis.gr)  
-* [tampakakis.gr](https://tampakakis.gr)  
-* [citynestliving.gr](https://citynestliving.gr)  
-* [mavrommatisantonios.gr](https://www.mavrommatisantonios.gr)  
-* [orabydm.com](https://www.orabydm.com)  
-* [kooba.gr](http://www.kooba.gr)  
-* …and many others → **[More at Entercity Web ›](https://entercity.gr/erga)**
+### Testing & Support
+- Functional and regression testing
+- Cross-browser and responsive testing
+- Jira issue tracking
+- Bug reproduction and documentation
+- Customer training and technical support
+- Figma for planning and prototypes
 
-_Partnered with **Entercity Web** for enterprise hosting & digital strategy._
+## Selected Work
 
----
+- [kokosalis.gr](https://kokosalis.gr)
+- [tampakakis.gr](https://tampakakis.gr)
+- [citynestheraklion.gr](https://www.citynestheraklion.gr)
+- [mavrommatisantonios.gr](https://www.mavrommatisantonios.gr)
+- [zakasfoods.gr](https://www.zakasfoods.gr)
+- [chatzikonstantinou.gr](https://www.chatzikonstantinou.gr)
+- [mpampoulakis.gr](https://www.mpampoulakis.gr)
+- [lapissolis.gr](https://www.lapissolis.gr)
+- [drs953.gr](https://www.drs953.gr)
 
-## 📁 Repository Map
+## Project Highlights
 
-| Prefix / Folder | Contents |
-|-----------------|----------|
-| `wp-plugin-*` | Utility plugins: GDPR helpers, coupon schedulers, custom REST endpoints |
-| `wp-theme-*` | Child themes & FSE starters (Tailwind / SCSS‑based) |
-| `snippet-*` | Stand‑alone HTML / JS / CSS components |
-| `api-*` | Slim / Laravel‑Zero micro‑services, Stripe webhooks, JWT auth |
-| `python-*` | Scrapers, bulk image optimisers, Lighthouse reporters |
-| `sql-*` | Migration scripts, WP‑CLI search‑replace helpers, slow‑query tuning |
+### WooCommerce Payment Integration
+Implemented and supported a production payment integration with Piraeus Bank. Worked directly with the bank during validation and resolved a payment status synchronisation issue between the provider and WooCommerce.
 
+### WordPress Booking Workflows
+Built custom booking functionality with availability, time slots, guest numbers, email notifications and admin controls.
 
+### Security Incident Recovery
+Helped restore and secure a compromised WordPress and cPanel environment after malware affected core files and backups.
+
+### Performance Optimisation
+Improved production websites using caching, CDN configuration, image optimisation, database cleanup and front-end changes.
+
+### Accessibility & Compliance
+Worked on GDPR and WCAG improvements using Lighthouse, WAVE, axe and manual keyboard testing.
+
+## What you'll find here
+
+This profile contains practical WordPress code and tools I have built or adapted during production work, including:
+
+- WordPress plugins and reusable PHP components
+- WooCommerce customisations
+- API and webhook examples
+- HTML, CSS and JavaScript snippets
+- Hosting and deployment helpers
+- Testing, migration and troubleshooting utilities
+
+## Contact
+
+- Email: [a.zaprios@gmail.com](mailto:a.zaprios@gmail.com)
+- Location: Greece
+- Languages: Greek and English
+
+Currently open to fully remote roles in WordPress support, hosting support, WooCommerce and web operations.
