@@ -1,6 +1,6 @@
 # Hi, I'm Thanos
 
-**Technical Customer Support Specialist | Web Operations | Jira, SQL, REST APIs, WordPress & WooCommerce**
+**Software Developer & Technical Support Specialist**
 
 I build, test, maintain and troubleshoot production WordPress and WooCommerce websites for businesses. Over the last three years, I have worked across more than 60 live sites, supporting the full delivery lifecycle: requirements, development, integrations, quality assurance, launch, training and post-launch support.
 
