@@ -2,7 +2,7 @@
 
 **Software Developer & Technical Support Specialist**
 
-I build, test, maintain and troubleshoot production WordPress and WooCommerce websites for businesses. Over the last three years, I have worked across more than 60 live sites, supporting the full delivery lifecycle: requirements, development, integrations, quality assurance, launch, training and post-launch support.
+I build, test, maintain and troubleshoot production WordPress and WooCommerce websites for businesses. Over the last three years, I have worked across more than 30 live sites, supporting the full delivery lifecycle: requirements, development, integrations, quality assurance, launch, training and post-launch support.
 
 My strongest area is solving real production problems. This includes checkout failures, plugin conflicts, API and webhook issues, DNS and SSL errors, slow pages, caching problems, migrations, security incidents, accessibility barriers and hosting-related faults.
 
