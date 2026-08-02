@@ -20,7 +20,13 @@
 
 > I turn unclear partner requests and production issues into defined requirements, verified releases, and documented outcomes. My work combines WordPress/WooCommerce administration, delivery coordination, incident response, regression testing, user training, and long-term support.
 
-**Target roles:** Technical Account Manager · Technical Support Engineer · Solutions Engineer · QA / Release Engineer
+<p align="center"><strong>Target roles:</strong> Technical Account Manager · Technical Support Engineer · Solutions Engineer · QA / Release Engineer</p>
+
+## Delivery impact
+
+<div align="center">
+  <img src="./assets/delivery-impact-graph.svg" width="100%" alt="Delivery workflow and production impact graph showing clarify, coordinate, verify and enable stages, supported by 60 plus live sites, 30 client engagements, a 2,000 plus product catalogue and 3 plus years of client-facing technical delivery." />
+</div>
 
 ## Featured work
 
@@ -100,5 +106,3 @@ Remote from Greece · EMEA time zone
 **Email:** [a.zaprios@gmail.com](mailto:a.zaprios@gmail.com)  
 **GitHub:** [github.com/zpthanos](https://github.com/zpthanos)  
 **Production stories:** [github.com/zpthanos/production-stories](https://github.com/zpthanos/production-stories)
-
-<!-- refreshed via authenticated GitHub App installation 150325229 -->
