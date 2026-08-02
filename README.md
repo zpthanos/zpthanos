@@ -12,25 +12,27 @@
   <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=2DD4BF" alt="Featured work" /></a>
   <a href="#capability-matrix"><img src="https://img.shields.io/badge/CAPABILITIES-07111F?style=for-the-badge&amp;logo=stackshare&amp;logoColor=818CF8" alt="Capabilities" /></a>
   <a href="#selected-production-impact"><img src="https://img.shields.io/badge/IMPACT-07111F?style=for-the-badge&amp;logo=target&amp;logoColor=A78BFA" alt="Production impact" /></a>
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/PRODUCTION_STORIES-07111F?style=for-the-badge&amp;logo=readme&amp;logoColor=2DD4BF" alt="Production stories" /></a>
   <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-07111F?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=F8FAFC" alt="Contact" /></a>
 </div>
 
-<h1 align="center">Web Application Support &amp; QA Engineer</h1>
+<h1 align="center">Technical Account Management · Web Application Support &amp; QA</h1>
 
 <p align="center">
-  <strong>WordPress / WooCommerce · Production Operations · Release Assurance</strong><br />
+  <strong>WordPress / WooCommerce · Partner Delivery · Production Operations · Release Assurance</strong><br />
   Greece · Open to fully remote roles
 </p>
 
-> I solve the messy middle between “something is broken” and “it is safely back in production.” My work combines technical investigation, clear stakeholder communication, controlled fixes, regression testing, documentation, and user handover.
+> I own the partner journey from an unclear request to a safe, verified production outcome. My work combines WordPress/WooCommerce administration, requirements discovery, delivery coordination, incident response, regression testing, documentation, training, and long-term support.
 
 ## Recruiter snapshot
 
 | Signal | Evidence |
 | --- | --- |
-| **Immediate fit** | Web Application Support · WordPress/WooCommerce Operations · QA & Release Support |
+| **Immediate fit** | Technical Account Management · WordPress/WooCommerce Partner Support · Web Application Support · QA & Release |
 | **Production scale** | Support, maintenance, troubleshooting, QA, migrations, and launch work across **60+ live websites and applications** |
-| **Ownership model** | Clarify → reproduce → gather evidence → coordinate the fix → retest → document → hand over |
+| **Partner scope** | Approximately **30 client website engagements** with growing ownership across requirements, delivery, QA, launch, training, and support |
+| **Ownership model** | Understand → define → prioritize → coordinate → verify → enable → support |
 | **Education** | BSc (Hons) Computing — Software Development, **2:1**, graduated 2026 |
 | **Working profile** | Based in Greece · fully remote · Greek native · English at full professional working proficiency |
 
@@ -54,14 +56,14 @@
 
 **[Browse every public repository →](https://github.com/zpthanos?tab=repositories)**
 
-## How I work
+## Partner delivery and support lifecycle
 
-| 01 / Clarify | 02 / Reproduce | 03 / Investigate | 04 / Coordinate | 05 / Verify | 06 / Hand over |
+| 01 / Understand | 02 / Define | 03 / Prioritize | 04 / Coordinate | 05 / Verify | 06 / Enable |
 | --- | --- | --- | --- | --- | --- |
-| Translate symptoms into a testable problem | Confirm conditions, scope, and impact | Inspect logs, requests, data, configuration, and recent change | Align the safest fix, owner, risk, and rollback | Retest the issue plus critical regression paths | Document the outcome and support the user after release |
+| Learn the business goal, user impact, and technical context | Turn ambiguous input into concrete, testable requirements | Balance urgency, dependencies, capacity, timeline, and risk | Align partners, developers, providers, and the safest delivery path | Test the outcome, critical regressions, and production health | Document decisions, train users, capture feedback, and continue support |
 
 <details>
-<summary><strong>Open the production support playbook</strong></summary>
+<summary><strong>Open the partner delivery and production support playbook</strong></summary>
 
 <br />
 
@@ -79,11 +81,12 @@
 
 | Area | Tools and practices | Outcome I focus on |
 | --- | --- | --- |
-| **Application support** | Case ownership, incident reproduction, log review, stakeholder updates, retesting, documentation | Restore service with a clear evidence trail and predictable handover |
-| **WordPress / WooCommerce** | Configuration, integrations, checkout/account troubleshooting, staging, backups, migrations | Stable customer journeys and lower-risk operational changes |
-| **QA & releases** | Functional/regression testing, Playwright, accessibility checks, browser/responsive coverage | Detect release risk before users do and verify the real business outcome |
-| **Technical analysis** | SQL/MySQL, REST APIs, webhooks, JSON, HTML/CSS, JavaScript/TypeScript, PHP error logs | Move from a vague symptom to a specific, testable cause |
-| **Production operations** | Linux, Apache, Nginx, cPanel, Plesk, Cloudflare, Redis, caching, DNS, SSL | Reliable, secure, recoverable web operations |
+| **Partner and account delivery** | Discovery, onboarding, ambiguous requirements, prioritization, timelines, stakeholder updates, training | Build trust, drive adoption, and carry requests through to a verified outcome |
+| **WordPress / WooCommerce** | Advanced administration, Site Editor, plugins/themes, catalogue, orders, payments, staging, backups | Maintainable sites and reliable customer and editor journeys |
+| **Launches and integrations** | DNS, migrations, payment and email services, REST APIs, webhooks, hosting providers, rollback planning | Coordinated delivery with clear ownership, risk control, and communication |
+| **Quality and incident response** | Urgent triage, root-cause investigation, functional/regression testing, accessibility, browser/responsive coverage | Restore critical journeys and verify solutions before closure |
+| **Technical analysis** | SQL/MySQL, JSON, HTML/CSS, JavaScript/TypeScript, PHP errors, logs, performance, technical SEO | Move from an unclear symptom or goal to concrete next steps |
+| **Documentation and responsible AI** | Developer-ready tasks, runbooks, training material, checklists, ChatGPT and Claude with source validation | Increase delivery capacity while retaining accuracy, confidentiality, and accountability |
 
 <details>
 <summary><strong>Application and integration toolkit</strong> — inspect the layers behind the interface</summary>
@@ -147,7 +150,7 @@ I have supported more than 60 production websites and web applications. Responsi
 <table>
   <tr>
     <td><strong>Target roles</strong></td>
-    <td>Web Application Support · WordPress/WooCommerce Operations · QA &amp; Release Support</td>
+    <td>Technical Account Management · WordPress/WooCommerce Partner Support · Web Application Support · QA &amp; Release</td>
   </tr>
   <tr>
     <td><strong>Location</strong></td>
@@ -155,7 +158,7 @@ I have supported more than 60 production websites and web applications. Responsi
   </tr>
   <tr>
     <td><strong>Start here</strong></td>
-    <td><a href="https://github.com/zpthanos">GitHub profile</a> · <a href="https://github.com/zpthanos?tab=repositories">All repositories</a></td>
+    <td><a href="mailto:a.zaprios@gmail.com">a.zaprios@gmail.com</a> · <a href="https://github.com/zpthanos?tab=repositories">All repositories</a> · <a href="https://github.com/zpthanos/production-stories">Production stories</a></td>
   </tr>
 </table>
 
@@ -163,5 +166,5 @@ I have supported more than 60 production websites and web applications. Responsi
   <br />
   <strong>Reliable systems. Clear evidence. Calm delivery.</strong>
   <br /><br />
-  <a href="https://github.com/zpthanos"><img src="https://img.shields.io/badge/LET'S_CONNECT-38BDF8?style=for-the-badge&amp;logo=github&amp;logoColor=07111F" alt="Connect with Thanos on GitHub" /></a>
+  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ATHANASIOS-38BDF8?style=for-the-badge&amp;logo=gmail&amp;logoColor=07111F" alt="Email Athanasios Zaprios" /></a>
 </div>
