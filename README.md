@@ -76,6 +76,20 @@
   </tr>
 </table>
 
+<details open>
+<summary><strong>Delivery scale chart</strong> — expand or collapse</summary>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/delivery-scale-chart-mobile.svg" />
+    <img src="./assets/delivery-scale-chart.svg" width="100%" alt="Delivery scale: 2.5 years of experience, 60+ websites overall, 30 customer engagements, 18 cross-team collaborations, and 12 full development cycles handled." />
+  </picture>
+</div>
+
+</details>
+
 <p align="right"><a href="#readme-top">Back to top ↑</a></p>
 
 ## Featured work
