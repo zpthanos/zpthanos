@@ -27,7 +27,19 @@ My strongest work is end-to-end production problem solving: clarifying the issue
 | [WooCommerce Playwright](https://github.com/zpthanos/WooCommerce-Playwright) | Playwright, TypeScript, axe, reporting, GitHub Actions | One Chromium guest journey from product page through cart and checkout; no order is submitted |
 | [Cloudflare Security Starter](https://github.com/zpthanos/Cloudflare-Security-Starter) | Cloudflare Worker, request validation, rate limits, security headers, WAF rollout | Tested starter implementation and deployment templates; not presented as a live deployment |
 | [BrowserStack Business Testing](https://github.com/zpthanos/Browserstack-Business-Testing) | Cross-browser configuration, test operations, runbooks, and CI design | Starter scaffolding with generic homepage checks; business-journey coverage is still to be added |
-| [CivicFlow](https://github.com/zpthanos/civicflow-portfolio) | Requirements, business rules, traceability, delivery planning, and test strategy | Requirements baseline plus a bounded applicant-login and draft slice; not deployed or production-ready |
+| [CivicFlow](https://github.com/zpthanos/civicflow-portfolio) | Requirements, business rules, traceability, delivery planning, and test strategy | Requirements baseline plus a bounded applicant-login and draft slice in [PR #1](https://github.com/zpthanos/civicflow-portfolio/pull/1); not deployed or production-ready |
+
+## Production stories
+
+Code shows implementation; these first-hand stories show how I diagnose incidents, manage production risk, test changes, and support customers.
+
+| Featured story | Result |
+| --- | --- |
+| [Critical malware recovery](https://github.com/zpthanos/production-web-stories/blob/main/stories/06-malware-recovery.md) | Safely relaunched a compromised WordPress ecommerce site after clean recovery, credential rotation, and end-to-end validation |
+| [WooCommerce customer handover](https://github.com/zpthanos/production-web-stories/blob/main/stories/05-woocommerce-administration-handover.md) | Configured the first 200 products and core workflows for a 2,000+ product store, then trained a previously non-technical owner |
+| [PageSpeed improvement](https://github.com/zpthanos/production-web-stories/blob/main/stories/11-pagespeed-improvement.md) | Increased a production store's PageSpeed score from below 20 to above 75 while preserving critical ecommerce journeys |
+
+**[Read all 21 production stories →](https://github.com/zpthanos/production-web-stories)**
 
 ## Production experience
 
@@ -41,6 +53,6 @@ Selected live examples:
 
 ## Contact
 
-- Email: [a.zaprios@gmail.com](mailto:a.zaprios@gmail.com)
+- GitHub: [github.com/zpthanos](https://github.com/zpthanos)
 - Location: Greece
 - Availability: Fully remote roles in web application support, WordPress/WooCommerce operations, and QA
