@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026.svg" />
-    <img src="./assets/profile-hero-2026.svg" width="100%" alt="Athanasios Zaprios — technical delivery professional connecting customers, engineering, quality assurance and production." />
+    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026-v2.svg" />
+    <img src="./assets/profile-hero-2026-v2.svg" width="100%" alt="Athanasios Zaprios — technical delivery professional connecting customers, engineering, quality assurance and production." />
   </picture>
 </div>
 
