@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 860" role="img" aria-labelledby="title description">
-  <title id="title">Thanos — Web Application Support and QA Engineer</title>
-  <desc id="description">Mobile profile banner highlighting partner delivery, web application support, quality assurance, and release assurance.</desc>
+  <title id="title">Athanasios Zaprios — Technical Account Management, Web Application Support and QA</title>
+  <desc id="description">Mobile profile banner highlighting technical account delivery, web application support, quality assurance, and release assurance.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -35,7 +35,7 @@
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <rect x="34" y="34" width="652" height="48" rx="24" fill="#08243a" stroke="#38bdf8" stroke-opacity="0.45"/>
     <circle cx="59" cy="58" r="6" fill="#2dd4bf"/>
-    <text x="80" y="65" fill="#bae6fd" font-size="18" font-weight="700" letter-spacing="1.7">SUPPORT  ·  QA  ·  PRODUCTION OPERATIONS</text>
+    <text x="80" y="65" fill="#bae6fd" font-size="18" font-weight="700" letter-spacing="1.7">TECHNICAL ACCOUNTS  ·  SUPPORT  ·  QA</text>
 
     <text x="34" y="170" fill="#f8fafc" font-size="86" font-weight="800" letter-spacing="-2">THANOS</text>
     <rect x="34" y="190" width="450" height="6" rx="3" fill="url(#accent)"/>
@@ -76,8 +76,8 @@
       </g>
       <g transform="translate(370 590)">
         <rect width="316" height="104" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
-        <text x="22" y="45" fill="#f8fafc" font-size="33" font-weight="800">2.5 YEARS</text>
-        <text x="22" y="76" fill="#94a3b8" font-size="16" font-weight="700" letter-spacing="1.2">APP SUPPORT</text>
+        <text x="22" y="45" fill="#f8fafc" font-size="33" font-weight="800">3+ YEARS</text>
+        <text x="22" y="76" fill="#94a3b8" font-size="16" font-weight="700" letter-spacing="1.2">CLIENT-FACING</text>
       </g>
       <g transform="translate(34 714)">
         <rect width="316" height="104" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
