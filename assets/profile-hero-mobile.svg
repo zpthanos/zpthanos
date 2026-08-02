@@ -1,93 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 860" role="img" aria-labelledby="title description">
-  <title id="title">Athanasios Zaprios — Technical Account Management, Web Application Support and QA</title>
-  <desc id="description">Mobile profile banner highlighting technical account delivery, web application support, quality assurance, and release assurance.</desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title description">
+  <title id="title">Athanasios Zaprios — Technical Delivery Professional</title>
+  <desc id="description">Mobile profile banner presenting Athanasios Zaprios as a customer-facing technical professional connecting customers, engineering, quality assurance and production.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050b16"/>
-      <stop offset="0.52" stop-color="#0a1d31"/>
-      <stop offset="1" stop-color="#10162b"/>
+      <stop offset="0.55" stop-color="#0a1d31"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="0.52" stop-color="#2dd4bf"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
       <stop offset="1" stop-color="#a78bfa"/>
     </linearGradient>
-    <radialGradient id="glowA">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB">
-      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
-    </radialGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#7dd3fc" stroke-opacity="0.055" stroke-width="1"/>
+      <path d="M34 0H0V34" fill="none" stroke="#7dd3fc" stroke-opacity="0.05"/>
     </pattern>
   </defs>
-
-  <rect width="720" height="860" rx="28" fill="url(#background)"/>
-  <rect width="720" height="860" rx="28" fill="url(#grid)"/>
-  <circle cx="92" cy="88" r="250" fill="url(#glowA)"/>
-  <circle cx="650" cy="405" r="310" fill="url(#glowB)"/>
-  <rect x="1" y="1" width="718" height="858" rx="27" fill="none" stroke="#38bdf8" stroke-opacity="0.16" stroke-width="2"/>
+  <rect width="720" height="900" rx="28" fill="url(#bg)"/>
+  <rect width="720" height="900" rx="28" fill="url(#grid)"/>
+  <circle cx="90" cy="80" r="250" fill="#38bdf8" opacity="0.08"/>
+  <circle cx="650" cy="360" r="300" fill="#a78bfa" opacity="0.07"/>
+  <rect x="1" y="1" width="718" height="898" rx="27" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <rect x="34" y="34" width="652" height="48" rx="24" fill="#08243a" stroke="#38bdf8" stroke-opacity="0.45"/>
-    <circle cx="59" cy="58" r="6" fill="#2dd4bf"/>
-    <text x="80" y="65" fill="#bae6fd" font-size="18" font-weight="700" letter-spacing="1.7">TECHNICAL ACCOUNTS  ·  SUPPORT  ·  QA</text>
+    <text x="36" y="58" fill="#7dd3fc" font-size="17" font-weight="700" letter-spacing="2">ATHANASIOS ZAPRIOS</text>
+    <text x="36" y="135" fill="#f8fafc" font-size="55" font-weight="800" letter-spacing="-1.4">TECHNICAL DELIVERY</text>
+    <text x="36" y="190" fill="#f8fafc" font-size="55" font-weight="800" letter-spacing="-1.4">PROFESSIONAL</text>
+    <rect x="36" y="208" width="430" height="6" rx="3" fill="url(#accent)"/>
+    <text x="36" y="255" fill="#e2e8f0" font-size="24" font-weight="600">Customer-facing engineer who builds,</text>
+    <text x="36" y="288" fill="#e2e8f0" font-size="24" font-weight="600">supports and delivers production software.</text>
+    <text x="36" y="330" fill="#94a3b8" font-size="17">Accounts · support · QA · solutions · web platforms</text>
 
-    <text x="34" y="170" fill="#f8fafc" font-size="86" font-weight="800" letter-spacing="-2">THANOS</text>
-    <rect x="34" y="190" width="450" height="6" rx="3" fill="url(#accent)"/>
-    <text x="34" y="240" fill="#e2e8f0" font-size="27" font-weight="650">I deliver reliable web outcomes, end to end.</text>
-    <text x="34" y="280" fill="#94a3b8" font-size="18">Partner delivery · application support · QA · release assurance</text>
+    <rect x="36" y="370" width="648" height="238" rx="22" fill="#07111f" stroke="#334155" stroke-width="1.5"/>
+    <text x="64" y="405" fill="#64748b" font-size="14" font-weight="700" letter-spacing="1.5">FROM COMPLEXITY TO OUTCOME</text>
+    <g font-size="15" font-weight="700" text-anchor="middle">
+      <rect x="64" y="438" width="128" height="62" rx="14" fill="#0b2035" stroke="#38bdf8" stroke-opacity="0.55"/>
+      <text x="128" y="476" fill="#e2e8f0">CUSTOMERS</text>
+      <path d="M200 469H232" stroke="#38bdf8" stroke-width="2"/>
+      <path d="M226 464L232 469L226 474" fill="none" stroke="#38bdf8" stroke-width="2"/>
+      <rect x="240" y="438" width="128" height="62" rx="14" fill="#0b2035" stroke="#2dd4bf" stroke-opacity="0.55"/>
+      <text x="304" y="476" fill="#e2e8f0">DEFINE</text>
+      <path d="M376 469H408" stroke="#2dd4bf" stroke-width="2"/>
+      <path d="M402 464L408 469L402 474" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+      <rect x="416" y="438" width="128" height="62" rx="14" fill="#0b2035" stroke="#818cf8" stroke-opacity="0.55"/>
+      <text x="480" y="476" fill="#e2e8f0">BUILD</text>
 
-    <g>
-      <rect x="34" y="316" width="652" height="242" rx="20" fill="#07111f" stroke="#334155" stroke-width="1.5"/>
-      <circle cx="62" cy="344" r="6" fill="#fb7185"/>
-      <circle cx="84" cy="344" r="6" fill="#fbbf24"/>
-      <circle cx="106" cy="344" r="6" fill="#34d399"/>
-      <text x="134" y="350" fill="#64748b" font-size="16" font-weight="700" letter-spacing="1.4">SUPPORT LOOP</text>
-
-      <line x1="78" y1="390" x2="78" y2="516" stroke="#164e63" stroke-width="3"/>
-      <g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19">
-        <circle cx="78" cy="395" r="7" fill="#38bdf8"/>
-        <text x="108" y="402" fill="#e2e8f0">01  reproduce</text>
-        <circle cx="78" cy="455" r="7" fill="#2dd4bf"/>
-        <text x="108" y="462" fill="#e2e8f0">02  isolate</text>
-        <circle cx="78" cy="515" r="7" fill="#818cf8"/>
-        <text x="108" y="522" fill="#e2e8f0">03  coordinate</text>
-
-        <line x1="395" y1="390" x2="395" y2="516" stroke="#312e81" stroke-width="3"/>
-        <circle cx="395" cy="395" r="7" fill="#818cf8"/>
-        <text x="425" y="402" fill="#e2e8f0">04  verify</text>
-        <circle cx="395" cy="455" r="7" fill="#a78bfa"/>
-        <text x="425" y="462" fill="#e2e8f0">05  hand over</text>
-        <circle cx="395" cy="515" r="7" fill="#2dd4bf"/>
-        <text x="425" y="522" fill="#e2e8f0">06  support</text>
-      </g>
+      <rect x="64" y="526" width="128" height="62" rx="14" fill="#0b2035" stroke="#a78bfa" stroke-opacity="0.55"/>
+      <text x="128" y="564" fill="#e2e8f0">VERIFY</text>
+      <path d="M200 557H232" stroke="#a78bfa" stroke-width="2"/>
+      <path d="M226 552L232 557L226 562" fill="none" stroke="#a78bfa" stroke-width="2"/>
+      <rect x="240" y="526" width="128" height="62" rx="14" fill="#0b2035" stroke="#38bdf8" stroke-opacity="0.55"/>
+      <text x="304" y="564" fill="#e2e8f0">RELEASE</text>
+      <path d="M376 557H408" stroke="#38bdf8" stroke-width="2"/>
+      <path d="M402 552L408 557L402 562" fill="none" stroke="#38bdf8" stroke-width="2"/>
+      <rect x="416" y="526" width="208" height="62" rx="14" fill="#102a2a" stroke="#2dd4bf" stroke-opacity="0.7"/>
+      <text x="520" y="564" fill="#d1fae5">PRODUCTION</text>
     </g>
 
     <g>
-      <g transform="translate(34 590)">
-        <rect width="316" height="104" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
-        <text x="22" y="45" fill="#f8fafc" font-size="33" font-weight="800">60+</text>
-        <text x="22" y="76" fill="#94a3b8" font-size="16" font-weight="700" letter-spacing="1.2">LIVE SITES</text>
+      <g transform="translate(36 646)">
+        <rect width="310" height="98" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
+        <text x="22" y="42" fill="#f8fafc" font-size="31" font-weight="800">60+</text>
+        <text x="22" y="72" fill="#94a3b8" font-size="14" font-weight="700" letter-spacing="1">LIVE SITES &amp; APPS</text>
       </g>
-      <g transform="translate(370 590)">
-        <rect width="316" height="104" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
-        <text x="22" y="45" fill="#f8fafc" font-size="33" font-weight="800">3+ YEARS</text>
-        <text x="22" y="76" fill="#94a3b8" font-size="16" font-weight="700" letter-spacing="1.2">CLIENT-FACING</text>
+      <g transform="translate(374 646)">
+        <rect width="310" height="98" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
+        <text x="22" y="42" fill="#f8fafc" font-size="31" font-weight="800">30</text>
+        <text x="22" y="72" fill="#94a3b8" font-size="14" font-weight="700" letter-spacing="1">CLIENT ENGAGEMENTS</text>
       </g>
-      <g transform="translate(34 714)">
-        <rect width="316" height="104" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
-        <text x="22" y="45" fill="#f8fafc" font-size="33" font-weight="800">BSc · 2:1</text>
-        <text x="22" y="76" fill="#94a3b8" font-size="16" font-weight="700" letter-spacing="1.2">COMPUTING · 2026</text>
+      <g transform="translate(36 770)">
+        <rect width="310" height="98" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
+        <text x="22" y="42" fill="#f8fafc" font-size="31" font-weight="800">3+ YEARS</text>
+        <text x="22" y="72" fill="#94a3b8" font-size="14" font-weight="700" letter-spacing="1">CLIENT-FACING DELIVERY</text>
       </g>
-      <g transform="translate(370 714)">
-        <rect width="316" height="104" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
-        <text x="22" y="45" fill="#f8fafc" font-size="33" font-weight="800">REMOTE</text>
-        <text x="22" y="76" fill="#94a3b8" font-size="16" font-weight="700" letter-spacing="1.2">BASED IN GREECE</text>
+      <g transform="translate(374 770)">
+        <rect width="310" height="98" rx="16" fill="#0b1728" stroke="#1e3a5f"/>
+        <text x="22" y="42" fill="#f8fafc" font-size="31" font-weight="800">21</text>
+        <text x="22" y="72" fill="#94a3b8" font-size="14" font-weight="700" letter-spacing="1">PRODUCTION STORIES</text>
       </g>
     </g>
   </g>
