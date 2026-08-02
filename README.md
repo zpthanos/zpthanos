@@ -3,7 +3,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="Thanos — Web Application Support and QA Engineer. Production troubleshooting, release confidence, and clear handover." />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Thanos — Web Application Support and QA Engineer. Partner delivery, application support, QA, and release assurance." />
   </picture>
 </div>
 
