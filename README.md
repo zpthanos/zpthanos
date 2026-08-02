@@ -20,6 +20,15 @@
 
 <p align="center"><strong>Role fit:</strong> Technical Accounts · Application Support · Solutions & Implementation · QA & Release · Web Platforms</p>
 
+## Currently building
+
+- Expanding the **WooCommerce Playwright** suite with stronger release evidence and store-specific journey patterns.
+- Developing the first bounded implementation slice for **CivicFlow**, based on its requirements and verification baseline.
+- Strengthening architecture, CI and reviewer guidance across the featured portfolio.
+- Adding production case studies that show investigation, trade-offs, verification and operational lessons.
+
+**[View the public portfolio roadmap →](ROADMAP.md)**
+
 ## Delivery impact
 
 <div align="center">
@@ -28,12 +37,12 @@
 
 ## Featured work
 
-| Project | Evidence | Scope |
+| Project | Recruiter evidence | Scope |
 | --- | --- | --- |
-| **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | Playwright, TypeScript, axe accessibility checks, reports, failure artifacts, GitHub Actions | Guest journey from product page through checkout; deliberately stops before order submission |
-| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | TypeScript Worker, request validation, rate limits, security headers, WAF templates | Tested starter and rollout guidance; not presented as a live production deployment |
-| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser matrix, secure configuration, reporting, CI, adoption runbooks | Working starter with generic demo journeys |
-| **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements engineering, business rules, traceability, delivery controls, verification strategy | Requirements baseline plus a bounded implementation slice; not presented as production-ready |
+| **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | [Architecture](https://github.com/zpthanos/WooCommerce-Playwright/blob/main/ARCHITECTURE.md) · Playwright · axe · reports · failure artifacts · GitHub Actions | Guest journey from product page through checkout; deliberately stops before order submission |
+| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | [Architecture](https://github.com/zpthanos/Cloudflare-Security-Starter/blob/main/ARCHITECTURE.md) · TypeScript Worker · rate limits · security headers · WAF templates | Tested starter and rollout guidance; not presented as a live production deployment |
+| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | [Architecture](https://github.com/zpthanos/Browserstack-Business-Testing/blob/main/ARCHITECTURE.md) · cross-browser matrix · secure configuration · reporting · CI · runbooks | Working starter with generic demo journeys |
+| **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | [10-minute review](https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md) · business rules · traceability · delivery controls · verification strategy | Requirements baseline plus a bounded implementation direction; not presented as production-ready |
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
