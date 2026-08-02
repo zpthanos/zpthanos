@@ -1,14 +1,12 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — Technical delivery, application support, QA and solutions engineering." />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — customer-facing technical delivery professional connecting customers, engineering, quality assurance and production." />
   </picture>
 </div>
 
-<h1 align="center">Technical Delivery · Application Support · QA & Solutions Engineering</h1>
-
 <p align="center">
-  <strong>Customer-facing technology · Production operations · Web platforms · Release assurance</strong><br />
+  <strong>Turning technical complexity into reliable customer and production outcomes.</strong><br />
   Based in Greece · Open to fully remote EMEA roles
 </p>
 
@@ -19,18 +17,9 @@
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/CONTACT-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
 </p>
 
-> I work at the intersection of customers, engineering teams and production systems. I turn unclear requirements, incidents and release risks into defined actions, verified outcomes and documentation that people can actually use.
+> I work between customers, engineering teams and live systems. I clarify requirements, investigate incidents, coordinate delivery, verify releases and document outcomes that people can actually use.
 
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>Technical Accounts</strong><br /><sub>Discovery · onboarding · stakeholder delivery</sub></td>
-    <td width="25%" align="center"><strong>Application Support</strong><br /><sub>Triage · investigation · production recovery</sub></td>
-    <td width="25%" align="center"><strong>QA & Release</strong><br /><sub>Regression · accessibility · release evidence</sub></td>
-    <td width="25%" align="center"><strong>Solutions & Web</strong><br /><sub>Integrations · WordPress · WooCommerce · Cloudflare</sub></td>
-  </tr>
-</table>
-
-<p align="center"><strong>Relevant role tracks:</strong> Technical Account Manager · Technical Support Engineer · Solutions Engineer · Implementation Engineer · QA / Release Engineer · Web Platform Specialist</p>
+<p align="center"><strong>Role fit:</strong> Technical Accounts · Application Support · Solutions & Implementation · QA & Release · Web Platforms</p>
 
 <a name="delivery-impact"></a>
 
