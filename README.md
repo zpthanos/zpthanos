@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
@@ -8,12 +10,17 @@
 <br />
 
 <div align="center">
-  <a href="#recruiter-snapshot"><img src="https://img.shields.io/badge/PROFILE-07111F?style=for-the-badge&amp;logo=readme&amp;logoColor=38BDF8" alt="Profile" /></a>
-  <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=2DD4BF" alt="Featured work" /></a>
-  <a href="#capability-matrix"><img src="https://img.shields.io/badge/CAPABILITIES-07111F?style=for-the-badge&amp;logo=stackshare&amp;logoColor=818CF8" alt="Capabilities" /></a>
-  <a href="#selected-production-impact"><img src="https://img.shields.io/badge/IMPACT-07111F?style=for-the-badge&amp;logo=target&amp;logoColor=A78BFA" alt="Production impact" /></a>
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/PRODUCTION_STORIES-07111F?style=for-the-badge&amp;logo=readme&amp;logoColor=2DD4BF" alt="Production stories" /></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-07111F?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=F8FAFC" alt="Contact" /></a>
+  <a href="#recruiter-snapshot"><img src="https://img.shields.io/badge/PROFILE-07111F?style=flat-square&amp;logo=readme&amp;logoColor=38BDF8" alt="Profile" /></a>
+  <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-07111F?style=flat-square&amp;logo=github&amp;logoColor=2DD4BF" alt="Featured work" /></a>
+  <a href="#capability-matrix"><img src="https://img.shields.io/badge/CAPABILITIES-07111F?style=flat-square&amp;logo=stackshare&amp;logoColor=818CF8" alt="Capabilities" /></a>
+  <a href="#selected-production-impact"><img src="https://img.shields.io/badge/IMPACT-07111F?style=flat-square&amp;logo=target&amp;logoColor=A78BFA" alt="Production impact" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-07111F?style=flat-square&amp;logo=githubsponsors&amp;logoColor=F8FAFC" alt="Contact" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/VIEW_ALL_21_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" height="34" alt="View all 21 production stories" /></a>
 </div>
 
 <h1 align="center">Technical Account Management · Web Application Support &amp; QA</h1>
@@ -23,26 +30,59 @@
   Greece · Open to fully remote roles
 </p>
 
+<div align="center">
+  <a href="https://github.com/zpthanos?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_PROJECTS-0EA5E9?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Browse projects" /></a>
+  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ATHANASIOS-07111F?style=flat-square&amp;logo=gmail&amp;logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
+</div>
+
+<br />
+
 > I own the partner journey from an unclear request to a safe, verified production outcome. My work combines WordPress/WooCommerce administration, requirements discovery, delivery coordination, incident response, regression testing, documentation, training, and long-term support.
 
 ## Recruiter snapshot
 
-| Signal | Evidence |
-| --- | --- |
-| **Immediate fit** | Technical Account Management · WordPress/WooCommerce Partner Support · Web Application Support · QA & Release |
-| **Production scale** | Support, maintenance, troubleshooting, QA, migrations, and launch work across **60+ live websites and applications** |
-| **Partner scope** | Approximately **30 client website engagements** with growing ownership across requirements, delivery, QA, launch, training, and support |
-| **Ownership model** | Understand → define → prioritize → coordinate → verify → enable → support |
-| **Education** | BSc (Hons) Computing — Software Development, **2:1**, graduated 2026 |
-| **Working profile** | Based in Greece · fully remote · Greek native · English at full professional working proficiency |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Immediate fit</strong><br /><br />
+      Technical Account Management · WordPress/WooCommerce Partner Support · Web Application Support · QA &amp; Release
+    </td>
+    <td width="50%" valign="top">
+      <strong>Production scale</strong><br /><br />
+      Support, maintenance, troubleshooting, QA, migrations, and launch work across <strong>60+ live websites and applications</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Partner scope</strong><br /><br />
+      Approximately <strong>30 client website engagements</strong> with growing ownership across requirements, delivery, QA, launch, training, and support
+    </td>
+    <td width="50%" valign="top">
+      <strong>Ownership model</strong><br /><br />
+      Understand → define → prioritize → coordinate → verify → enable → support
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Education</strong><br /><br />
+      BSc (Hons) Computing — Software Development, <strong>2:1</strong>, graduated 2026
+    </td>
+    <td width="50%" valign="top">
+      <strong>Working profile</strong><br /><br />
+      Based in Greece · fully remote · Greek native · English at full professional working proficiency
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#readme-top">Back to top ↑</a></p>
 
 ## Featured work
 
 <div align="center">
-  <a href="https://github.com/zpthanos/WooCommerce-Playwright"><img src="https://img.shields.io/badge/WooCommerce_E2E-Playwright-0EA5E9?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="WooCommerce Playwright repository" /></a>
-  <a href="https://github.com/zpthanos/Cloudflare-Security-Starter"><img src="https://img.shields.io/badge/Cloudflare-Security-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare Security Starter repository" /></a>
-  <a href="https://github.com/zpthanos/Browserstack-Business-Testing"><img src="https://img.shields.io/badge/BrowserStack-Cross--browser-6C5CE7?style=flat-square&amp;logo=browserstack&amp;logoColor=white" alt="BrowserStack Business Testing repository" /></a>
-  <a href="https://github.com/zpthanos/civicflow-portfolio"><img src="https://img.shields.io/badge/CivicFlow-Requirements-2DD4BF?style=flat-square&amp;logo=gitbook&amp;logoColor=07111F" alt="CivicFlow portfolio repository" /></a>
+  <a href="https://github.com/zpthanos/WooCommerce-Playwright"><img src="https://img.shields.io/badge/WooCommerce_E2E-Playwright-0EA5E9?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="WooCommerce Playwright repository" /></a>
+  <a href="https://github.com/zpthanos/Cloudflare-Security-Starter"><img src="https://img.shields.io/badge/Cloudflare-Security-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare Security Starter repository" /></a>
+  <a href="https://github.com/zpthanos/Browserstack-Business-Testing"><img src="https://img.shields.io/badge/BrowserStack-Cross--browser-6C5CE7?style=for-the-badge&amp;logo=browserstack&amp;logoColor=white" alt="BrowserStack Business Testing repository" /></a>
+  <a href="https://github.com/zpthanos/civicflow-portfolio"><img src="https://img.shields.io/badge/CivicFlow-Requirements-2DD4BF?style=for-the-badge&amp;logo=gitbook&amp;logoColor=07111F" alt="CivicFlow portfolio repository" /></a>
 </div>
 
 <br />
@@ -54,13 +94,46 @@
 | **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser matrix, test operations, secure configuration, reporting, CI, and adoption runbooks | Working starter with generic demo checks; real business-journey coverage is the next extension |
 | **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements engineering, business rules, traceability, delivery controls, and verification strategy | Requirements baseline plus a bounded applicant login/draft slice; not represented as production-ready |
 
-**[Browse every public repository →](https://github.com/zpthanos?tab=repositories)**
+<div align="center">
+  <a href="https://github.com/zpthanos?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_EVERY_PUBLIC_REPOSITORY-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="Browse every public repository" /></a>
+</div>
+
+<p align="right"><a href="#readme-top">Back to top ↑</a></p>
 
 ## Partner delivery and support lifecycle
 
-| 01 / Understand | 02 / Define | 03 / Prioritize | 04 / Coordinate | 05 / Verify | 06 / Enable |
-| --- | --- | --- | --- | --- | --- |
-| Learn the business goal, user impact, and technical context | Turn ambiguous input into concrete, testable requirements | Balance urgency, dependencies, capacity, timeline, and risk | Align partners, developers, providers, and the safest delivery path | Test the outcome, critical regressions, and production health | Document decisions, train users, capture feedback, and continue support |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / Understand</strong><br /><br />
+      Learn the business goal, user impact, and technical context
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / Define</strong><br /><br />
+      Turn ambiguous input into concrete, testable requirements
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / Prioritize</strong><br /><br />
+      Balance urgency, dependencies, capacity, timeline, and risk
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 / Coordinate</strong><br /><br />
+      Align partners, developers, providers, and the safest delivery path
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>05 / Verify</strong><br /><br />
+      Test the outcome, critical regressions, and production health
+    </td>
+    <td width="50%" valign="top">
+      <strong>06 / Enable</strong><br /><br />
+      Document decisions, train users, capture feedback, and continue support
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>Open the partner delivery and production support playbook</strong></summary>
@@ -76,6 +149,8 @@
 | **Closure** | Can the customer and the next engineer understand what happened? | Resolution note, known limits, follow-up actions, user handover |
 
 </details>
+
+<p align="right"><a href="#readme-top">Back to top ↑</a></p>
 
 ## Capability matrix
 
@@ -135,7 +210,15 @@ The purpose is simple: investigate carefully once, then safely reuse the verifie
 
 </details>
 
+<p align="right"><a href="#readme-top">Back to top ↑</a></p>
+
 ## Selected production impact
+
+<div align="center">
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/OPEN_THE_FULL_PRODUCTION_STORY_LIBRARY-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" height="32" alt="Open the full production story library" /></a>
+</div>
+
+<br />
 
 | Situation | Result |
 | --- | --- |
@@ -162,6 +245,8 @@ I have supported more than 60 production websites and web applications. Responsi
 
 </details>
 
+<p align="right"><a href="#readme-top">Back to top ↑</a></p>
+
 ## Contact
 
 <table>
@@ -184,4 +269,7 @@ I have supported more than 60 production websites and web applications. Responsi
   <strong>Reliable systems. Clear evidence. Calm delivery.</strong>
   <br /><br />
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ATHANASIOS-38BDF8?style=for-the-badge&amp;logo=gmail&amp;logoColor=07111F" alt="Email Athanasios Zaprios" /></a>
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/VIEW_21_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" alt="View 21 production stories" /></a>
+  <br /><br />
+  <a href="#readme-top">Back to top ↑</a>
 </div>
