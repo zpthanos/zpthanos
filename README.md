@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AVAILABLE-REMOTE_EMEA-22C55E?style=for-the-badge" alt="Available for remote EMEA roles" />
+</p>
+
+<p align="center">
   <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Featured work" /></a>
   <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/21_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" alt="View 21 production stories" /></a>
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
