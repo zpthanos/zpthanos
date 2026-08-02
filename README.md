@@ -1,10 +1,5 @@
-<a name="readme-top"></a>
-
 <div align="center">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — Technical Account Management, Web Application Support and QA." />
-  </picture>
+  <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — Technical Account Management, Web Application Support and QA." />
 </div>
 
 <h1 align="center">Technical Account Management · Web Application Support & QA</h1>
@@ -46,62 +41,57 @@
 
 <table>
   <tr>
-    <td width="25%" align="center"><strong>60+ live</strong><br />websites and applications supported</td>
-    <td width="25%" align="center"><strong>30</strong><br />client engagements</td>
-    <td width="25%" align="center"><strong>2,000+</strong><br />products in a commercial catalogue</td>
-    <td width="25%" align="center"><strong>3+ years</strong><br />customer-facing technical delivery</td>
+    <td width="50%" valign="top"><strong>60+ live websites and applications</strong><br /><br />Support, maintenance, troubleshooting, QA, migrations, integrations, and launches.</td>
+    <td width="50%" valign="top"><strong>30 client engagements</strong><br /><br />Requirements, delivery planning, testing, launch support, training, and post-launch ownership.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>2,000+ product WooCommerce catalogue</strong><br /><br />Configured initial workflows and trained a non-technical owner to operate routine catalogue work independently.</td>
+    <td width="50%" valign="top"><strong>3+ years client-facing technical delivery</strong><br /><br />Clear communication across customers, developers, hosting providers, and third-party services.</td>
   </tr>
 </table>
 
-Selected outcomes:
-
-- Recovered and safely relaunched a malware-affected WordPress ecommerce environment after restoring verified off-server backups, rotating credentials, and validating critical journeys.
-- Configured core workflows for a 2,000+ product WooCommerce catalogue and trained a previously non-technical owner to manage routine operations independently.
-- Improved product-page PageSpeed scores from below 20 to above 75 while preserving catalogue, cart, and checkout functionality.
-
-**[Read all 21 production stories →](https://github.com/zpthanos/production-stories)**
-
-## What I bring
+## Core capabilities
 
 | Area | Practical focus |
 | --- | --- |
-| **Partner delivery** | Discovery, onboarding, ambiguous requirements, prioritization, timelines, stakeholder updates, training |
-| **WordPress / WooCommerce** | Administration, Site Editor, plugins/themes, catalogue, orders, payments, staging, backups, migrations |
-| **Quality and release** | Functional and regression testing, accessibility, browser/responsive coverage, release verification |
-| **Incident response** | Triage, reproduction, root-cause investigation, evidence capture, rollback planning, closure documentation |
-| **Technical analysis** | Browser DevTools, PHP logs, SQL/MySQL, REST APIs, webhooks, JSON, DNS, Cloudflare, caching |
-| **Responsible AI** | Sanitized evidence, source verification, confidentiality controls, human approval for consequential actions |
-
-## Delivery approach
-
-**Understand → Define → Prioritize → Coordinate → Verify → Enable → Support**
+| **Technical account delivery** | Discovery, onboarding, prioritization, timelines, stakeholder updates, training, and long-term support |
+| **WordPress / WooCommerce** | Administration, Site Editor, plugins/themes, catalogue, orders, payments, staging, backups, and migrations |
+| **Quality and release assurance** | Functional and regression testing, accessibility, browser/responsive checks, evidence capture, and release verification |
+| **Incident response** | Reproduction, isolation, logs, browser/network evidence, PHP errors, SQL checks, rollback planning, and closure notes |
+| **Integrations and platform work** | DNS, SMTP, REST APIs, webhooks, Cloudflare, Linux, cPanel, caching, performance, and technical SEO |
+| **Responsible AI assistance** | Sanitized evidence, source verification, no production access, and human approval for consequential actions |
 
 <details>
-<summary><strong>Production support playbook</strong></summary>
+<summary><strong>How I handle partner delivery and production support</strong></summary>
 
 <br />
 
-| Phase | Questions I answer | Typical evidence |
-| --- | --- | --- |
-| **Triage** | Who is affected? Is revenue, access, data, or a deadline at risk? | User report, timestamp, URL, environment, screenshots, business impact |
-| **Isolation** | Is the issue in the browser, application, integration, data, hosting, DNS, or edge layer? | Reproduction steps, console/network output, logs, SQL checks, API payloads |
-| **Change control** | What is the smallest safe change, and how can it be reversed? | Staging result, backup or rollback path, implementation owner, test notes |
-| **Release assurance** | Did the fix work without damaging a critical journey? | Functional and regression results, browser checks, post-release monitoring |
-| **Closure** | Can the customer and the next engineer understand what happened? | Resolution note, known limits, follow-up actions, user handover |
+| Phase | What I do |
+| --- | --- |
+| **Understand** | Clarify the business goal, affected users, urgency, environment, and expected behaviour |
+| **Define** | Convert ambiguous input into concrete requirements, ownership, dependencies, and acceptance criteria |
+| **Coordinate** | Align the customer, developers, hosting providers, and third-party services around a safe delivery path |
+| **Verify** | Test the requested outcome and critical regressions, then record scope, evidence, limitations, and follow-up |
+| **Enable** | Document the result, train users, capture feedback, and continue support after launch |
 
 </details>
 
-## Background
+## Selected production outcomes
 
-- **BSc (Hons) Computing — Software Development**, 2:1, University of Essex degree awarded through Aegean College, graduated 2026
-- Greek native · English at full professional working proficiency
-- Based in Greece · Available for fully remote EMEA roles
+- Recovered and safely relaunched a malware-affected WordPress ecommerce site after restoring verified off-server backups, rotating credentials, and validating critical journeys.
+- Improved product-page PageSpeed performance from below 20 to above 75 while preserving catalogue, cart, and checkout functionality.
+- Supported a 2,000+ product WooCommerce operation and enabled a previously non-technical owner to manage routine catalogue work independently.
+
+## Education and working profile
+
+**BSc (Hons) Computing — Software Development, 2:1**  
+University of Essex degree delivered through Aegean College · Graduated 2026
+
+Greek: Native · English: Full professional working proficiency  
+Remote from Greece · EMEA time zone
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/a.zaprios%40gmail.com-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
-  <a href="https://github.com/zpthanos?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
-</p>
-
-<p align="right"><a href="#readme-top">Back to top ↑</a></p>
+**Email:** [a.zaprios@gmail.com](mailto:a.zaprios@gmail.com)  
+**GitHub:** [github.com/zpthanos](https://github.com/zpthanos)  
+**Production stories:** [github.com/zpthanos/production-stories](https://github.com/zpthanos/production-stories)
