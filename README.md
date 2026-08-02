@@ -1,26 +1,38 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — Technical Account Management, Web Application Support and QA." />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — Technical delivery, application support, QA and solutions engineering." />
   </picture>
 </div>
 
-<h1 align="center">Technical Account Management · Web Application Support & QA</h1>
+<h1 align="center">Technical Delivery · Application Support · QA & Solutions Engineering</h1>
 
 <p align="center">
-  <strong>WordPress / WooCommerce · Partner Delivery · Production Operations · Release Assurance</strong><br />
+  <strong>Customer-facing technology · Production operations · Web platforms · Release assurance</strong><br />
   Based in Greece · Open to fully remote EMEA roles
 </p>
 
 <p align="center">
-  <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Featured work" /></a>
+  <a href="#delivery-impact"><img src="https://img.shields.io/badge/DELIVERY_IMPACT-0EA5E9?style=for-the-badge&logo=target&logoColor=white" alt="Delivery impact" /></a>
+  <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-07111F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Featured work" /></a>
   <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/21_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" alt="View 21 production stories" /></a>
-  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
+  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/CONTACT-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
 </p>
 
-> I turn unclear partner requests and production issues into defined requirements, verified releases, and documented outcomes. My work combines WordPress/WooCommerce administration, delivery coordination, incident response, regression testing, user training, and long-term support.
+> I work at the intersection of customers, engineering teams and production systems. I turn unclear requirements, incidents and release risks into defined actions, verified outcomes and documentation that people can actually use.
 
-<p align="center"><strong>Target roles:</strong> Technical Account Manager · Technical Support Engineer · Solutions Engineer · QA / Release Engineer</p>
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Technical Accounts</strong><br /><sub>Discovery · onboarding · stakeholder delivery</sub></td>
+    <td width="25%" align="center"><strong>Application Support</strong><br /><sub>Triage · investigation · production recovery</sub></td>
+    <td width="25%" align="center"><strong>QA & Release</strong><br /><sub>Regression · accessibility · release evidence</sub></td>
+    <td width="25%" align="center"><strong>Solutions & Web</strong><br /><sub>Integrations · WordPress · WooCommerce · Cloudflare</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Relevant role tracks:</strong> Technical Account Manager · Technical Support Engineer · Solutions Engineer · Implementation Engineer · QA / Release Engineer · Web Platform Specialist</p>
+
+<a name="delivery-impact"></a>
 
 ## Delivery impact
 
