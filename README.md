@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — customer-facing technical delivery professional connecting customers, engineering, quality assurance and production." />
+    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg?v=20260803-3" />
+    <img src="./assets/profile-hero.svg?v=20260803-3" width="100%" alt="Athanasios Zaprios — customer-facing technical delivery professional connecting customers, engineering, quality assurance and production." />
   </picture>
 </div>
 
@@ -26,7 +26,7 @@
 ## Delivery impact
 
 <div align="center">
-  <img src="./assets/delivery-impact-graph.svg" width="100%" alt="Delivery workflow and production impact graph showing clarify, coordinate, verify and enable stages, supported by 60 plus live sites, 30 client engagements, a 2,000 plus product catalogue and 3 plus years of client-facing technical delivery." />
+  <img src="./assets/delivery-impact-graph.svg?v=20260803-3" width="100%" alt="Delivery workflow and production impact graph showing clarify, coordinate, verify and enable stages, supported by 60 plus live sites, 30 client engagements, a 2,000 plus product catalogue and 3 plus years of client-facing technical delivery." />
 </div>
 
 ## Featured work
