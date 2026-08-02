@@ -3,310 +3,105 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
-    <img src="./assets/profile-hero.svg" width="100%" alt="Thanos — Web Application Support and QA Engineer. Partner delivery, application support, QA, and release assurance." />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Athanasios Zaprios — Technical Account Management, Web Application Support and QA." />
   </picture>
 </div>
 
-<br />
-
-<div align="center">
-  <a href="#recruiter-snapshot"><img src="https://img.shields.io/badge/PROFILE-07111F?style=flat-square&amp;logo=readme&amp;logoColor=38BDF8" alt="Profile" /></a>
-  <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-07111F?style=flat-square&amp;logo=github&amp;logoColor=2DD4BF" alt="Featured work" /></a>
-  <a href="#capability-matrix"><img src="https://img.shields.io/badge/CAPABILITIES-07111F?style=flat-square&amp;logo=stackshare&amp;logoColor=818CF8" alt="Capabilities" /></a>
-  <a href="#selected-production-impact"><img src="https://img.shields.io/badge/IMPACT-07111F?style=flat-square&amp;logo=target&amp;logoColor=A78BFA" alt="Production impact" /></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-07111F?style=flat-square&amp;logo=githubsponsors&amp;logoColor=F8FAFC" alt="Contact" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/VIEW_ALL_21_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" height="34" alt="View all 21 production stories" /></a>
-</div>
-
-<h1 align="center">Technical Account Management · Web Application Support &amp; QA</h1>
+<h1 align="center">Technical Account Management · Web Application Support & QA</h1>
 
 <p align="center">
   <strong>WordPress / WooCommerce · Partner Delivery · Production Operations · Release Assurance</strong><br />
-  Greece · Open to fully remote roles
+  Based in Greece · Open to fully remote EMEA roles
 </p>
 
-<div align="center">
-  <a href="https://github.com/zpthanos?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_PROJECTS-0EA5E9?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Browse projects" /></a>
-  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ATHANASIOS-07111F?style=flat-square&amp;logo=gmail&amp;logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
-</div>
+<p align="center">
+  <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Featured work" /></a>
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/21_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" alt="View 21 production stories" /></a>
+  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
+</p>
 
-<br />
-
-> I own the partner journey from an unclear request to a safe, verified production outcome. My work combines WordPress/WooCommerce administration, requirements discovery, delivery coordination, incident response, regression testing, documentation, training, and long-term support.
-
-<a name="recruiter-snapshot"></a>
-
-<img src="./assets/section-recruiter-snapshot.svg" width="100%" alt="Recruiter snapshot" />
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Immediate fit</strong><br /><br />
-      Technical Account Management · WordPress/WooCommerce Partner Support · Web Application Support · QA &amp; Release
-    </td>
-    <td width="50%" valign="top">
-      <strong>Production scale</strong><br /><br />
-      Support, maintenance, troubleshooting, QA, migrations, and launch work across <strong>60+ live websites and applications</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Partner scope</strong><br /><br />
-      Approximately <strong>30 client website engagements</strong> with growing ownership across requirements, delivery, QA, launch, training, and support
-    </td>
-    <td width="50%" valign="top">
-      <strong>Ownership model</strong><br /><br />
-      Understand → define → prioritize → coordinate → verify → enable → support
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Education</strong><br /><br />
-      BSc (Hons) Computing — Software Development, <strong>2:1</strong>, graduated 2026
-    </td>
-    <td width="50%" valign="top">
-      <strong>Working profile</strong><br /><br />
-      Based in Greece · fully remote · Greek native · English at full professional working proficiency
-    </td>
-  </tr>
-</table>
-
-<details open>
-<summary><strong>Delivery scale chart</strong> — expand or collapse</summary>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/delivery-scale-chart-mobile.svg" />
-    <img src="./assets/delivery-scale-chart.svg" width="100%" alt="Delivery scale: 2.5 years of experience, 60+ websites overall, 30 customer engagements, 18 cross-team collaborations, and 12 full development cycles handled." />
-  </picture>
-</div>
-
-</details>
-
-<p align="right"><a href="#readme-top">Back to top ↑</a></p>
+> I turn unclear partner requests and production problems into defined, tested, documented outcomes. My work combines WordPress/WooCommerce administration, requirements discovery, delivery coordination, incident response, regression testing, user training, and long-term support.
 
 ## Featured work
 
-<div align="center">
-  <a href="https://github.com/zpthanos/WooCommerce-Playwright"><img src="https://img.shields.io/badge/WooCommerce_E2E-Playwright-0EA5E9?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="WooCommerce Playwright repository" /></a>
-  <a href="https://github.com/zpthanos/Cloudflare-Security-Starter"><img src="https://img.shields.io/badge/Cloudflare-Security-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare Security Starter repository" /></a>
-  <a href="https://github.com/zpthanos/Browserstack-Business-Testing"><img src="https://img.shields.io/badge/BrowserStack-Cross--browser-6C5CE7?style=for-the-badge&amp;logo=browserstack&amp;logoColor=white" alt="BrowserStack Business Testing repository" /></a>
-  <a href="https://github.com/zpthanos/civicflow-portfolio"><img src="https://img.shields.io/badge/CivicFlow-Requirements-2DD4BF?style=for-the-badge&amp;logo=gitbook&amp;logoColor=07111F" alt="CivicFlow portfolio repository" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&amp;logo=woocommerce&amp;logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/axe_Accessibility-5E1F87?style=flat-square&amp;logo=axe&amp;logoColor=white" alt="axe accessibility" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-  <br />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&amp;logo=cloudflareworkers&amp;logoColor=white" alt="Cloudflare Workers" />
-  <img src="https://img.shields.io/badge/Request_Validation-0F766E?style=flat-square" alt="Request validation" />
-  <img src="https://img.shields.io/badge/Rate_Limiting-0F766E?style=flat-square" alt="Rate limiting" />
-  <img src="https://img.shields.io/badge/BrowserStack-FF7A00?style=flat-square&amp;logo=browserstack&amp;logoColor=white" alt="BrowserStack" />
-  <img src="https://img.shields.io/badge/Cross--browser_QA-6C5CE7?style=flat-square" alt="Cross-browser QA" />
-  <img src="https://img.shields.io/badge/Requirements_Engineering-0891B2?style=flat-square" alt="Requirements engineering" />
-  <img src="https://img.shields.io/badge/Traceability-14B8A6?style=flat-square" alt="Traceability" />
-</div>
-
-<br />
-
-| Repository | Recruiter signal | Honest scope |
+| Project | Evidence | Scope |
 | --- | --- | --- |
-| **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | Playwright, TypeScript, axe accessibility checks, reports, and GitHub Actions | Chromium guest journey from product to checkout; deliberately stops before order submission |
-| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | TypeScript Worker, request validation, rate limits, security headers, WAF templates, and safe rollout guidance | Tested starter and deployment templates and not represented as a live production deployment |
-| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser matrix, test operations, secure configuration, reporting, CI, and adoption runbooks | Working starter with generic demo checks. Real business-journey coverage is the next extension |
-| **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements engineering, business rules, traceability, delivery controls, and verification strategy | Requirements baseline plus a bounded applicant login/draft slice. Not represented as production-ready |
+| **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | Playwright, TypeScript, axe accessibility checks, reports, failure artifacts, GitHub Actions | Guest journey from product page through checkout; deliberately stops before order submission |
+| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | TypeScript Worker, request validation, rate limits, security headers, WAF templates | Tested starter and rollout guidance; not presented as a live production deployment |
+| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser matrix, secure configuration, reporting, CI, adoption runbooks | Working starter with generic demo journeys |
+| **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements engineering, business rules, traceability, delivery controls, verification strategy | Requirements baseline plus a bounded implementation slice; not presented as production-ready |
 
-<div align="center">
-  <a href="https://github.com/zpthanos?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_EVERY_PUBLIC_REPOSITORY-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="Browse every public repository" /></a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/BrowserStack-FF7A00?style=flat-square&logo=browserstack&logoColor=white" alt="BrowserStack" />
+</p>
 
-<p align="right"><a href="#readme-top">Back to top ↑</a></p>
-
-<a name="partner-delivery-and-support-lifecycle"></a>
-
-<img src="./assets/section-partner-delivery.svg" width="100%" alt="Partner delivery and support lifecycle" />
+## Production snapshot
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>01 / Understand</strong><br /><br />
-      Learn the business goal, user impact, and technical context
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 / Define</strong><br /><br />
-      Turn ambiguous input into concrete, testable requirements
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 / Prioritize</strong><br /><br />
-      Balance urgency, dependencies, capacity, timeline, and risk
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 / Coordinate</strong><br /><br />
-      Align partners, developers, providers, and the safest delivery path
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>05 / Verify</strong><br /><br />
-      Test the outcome, critical regressions, and production health
-    </td>
-    <td width="50%" valign="top">
-      <strong>06 / Enable</strong><br /><br />
-      Document decisions, train users, capture feedback, and continue support
-    </td>
+    <td width="25%" align="center"><strong>60+ live</strong><br />websites and applications supported</td>
+    <td width="25%" align="center"><strong>30</strong><br />client engagements</td>
+    <td width="25%" align="center"><strong>2,000+</strong><br />products in a commercial catalogue</td>
+    <td width="25%" align="center"><strong>3+ years</strong><br />customer-facing technical delivery</td>
   </tr>
 </table>
 
+Selected outcomes:
+
+- Recovered and safely relaunched a malware-affected WordPress ecommerce environment after restoring verified off-server backups, rotating credentials, and validating critical journeys.
+- Configured core workflows for a 2,000+ product WooCommerce catalogue and trained a previously non-technical owner to manage routine operations independently.
+- Improved product-page PageSpeed scores from below 20 to above 75 while preserving catalogue, cart, and checkout functionality.
+
+**[Read all 21 production stories →](https://github.com/zpthanos/production-stories)**
+
+## What I bring
+
+| Area | Practical focus |
+| --- | --- |
+| **Partner delivery** | Discovery, onboarding, ambiguous requirements, prioritization, timelines, stakeholder updates, training |
+| **WordPress / WooCommerce** | Administration, Site Editor, plugins/themes, catalogue, orders, payments, staging, backups, migrations |
+| **Quality and release** | Functional and regression testing, accessibility, browser/responsive coverage, release verification |
+| **Incident response** | Triage, reproduction, root-cause investigation, evidence capture, rollback planning, closure documentation |
+| **Technical analysis** | Browser DevTools, PHP logs, SQL/MySQL, REST APIs, webhooks, JSON, DNS, Cloudflare, caching |
+| **Responsible AI** | Sanitized evidence, source verification, confidentiality controls, human approval for consequential actions |
+
+## Delivery approach
+
+**Understand → Define → Prioritize → Coordinate → Verify → Enable → Support**
+
 <details>
-<summary><strong>Open the partner delivery and production support playbook</strong></summary>
+<summary><strong>Production support playbook</strong></summary>
 
 <br />
 
 | Phase | Questions I answer | Typical evidence |
 | --- | --- | --- |
 | **Triage** | Who is affected? Is revenue, access, data, or a deadline at risk? | User report, timestamp, URL, environment, screenshots, business impact |
-| **Isolation** | Is the fault in the browser, application, integration, data, hosting, DNS, or edge layer? | Reproduction steps, console/network output, PHP/server logs, SQL checks, API payloads |
-| **Change control** | What is the smallest safe change? How do we reverse it? | Staging result, backup/rollback path, implementation owner, test notes |
-| **Release assurance** | Did the fix work without damaging a critical journey? | Functional and regression results, browser/responsive checks, post-release monitoring |
+| **Isolation** | Is the issue in the browser, application, integration, data, hosting, DNS, or edge layer? | Reproduction steps, console/network output, logs, SQL checks, API payloads |
+| **Change control** | What is the smallest safe change, and how can it be reversed? | Staging result, backup or rollback path, implementation owner, test notes |
+| **Release assurance** | Did the fix work without damaging a critical journey? | Functional and regression results, browser checks, post-release monitoring |
 | **Closure** | Can the customer and the next engineer understand what happened? | Resolution note, known limits, follow-up actions, user handover |
 
 </details>
 
-<p align="right"><a href="#readme-top">Back to top ↑</a></p>
+## Background
 
-## Capability matrix
-
-| Area | Tools and practices | Outcome I focus on |
-| --- | --- | --- |
-| **Partner and account delivery** | Discovery, onboarding, ambiguous requirements, prioritization, timelines, stakeholder updates, training | Build trust, drive adoption, and carry requests through to a verified outcome |
-| **WordPress / WooCommerce** | Advanced administration, Site Editor, plugins/themes, catalogue, orders, payments, staging, backups | Maintainable sites and reliable customer and editor journeys |
-| **Launches and integrations** | DNS, migrations, payment and email services, REST APIs, webhooks, hosting providers, rollback planning | Coordinated delivery with clear ownership, risk control, and communication |
-| **Quality and incident response** | Urgent triage, root-cause investigation, functional/regression testing, accessibility, browser/responsive coverage | Restore critical journeys and verify solutions before closure |
-| **Technical analysis** | SQL/MySQL, JSON, HTML/CSS, JavaScript/TypeScript, PHP errors, logs, performance, technical SEO | Move from an unclear symptom or goal to concrete next steps |
-| **Documentation and responsible AI** | Sanitized evidence, ChatGPT/Claude drafting, partner updates, technical tasks, QA plans, training, source verification | Reuse verified understanding safely while retaining confidentiality, human approval, and final accountability |
-
-<details>
-<summary><strong>Application and integration toolkit</strong> — inspect the layers behind the interface</summary>
-
-<br />
-
-| Layer | Practical focus |
-| --- | --- |
-| Browser | DevTools, console/network evidence, responsive behavior, accessibility, cache/session state |
-| Application | WordPress/WooCommerce configuration, plugins/themes, PHP errors, roles, checkout/account flows |
-| Integration | REST APIs, webhooks, JSON payloads, authentication, status codes, retries, data mapping |
-| Data | SQL/MySQL checks, state validation, safe updates, backups, reconciliation |
-| Platform | Linux, web servers, hosting panels, DNS, SSL, Cloudflare, Redis, caching, recovery |
-
-</details>
-
-<details>
-<summary><strong>Quality and release toolkit</strong> — turn requirements into reviewable evidence</summary>
-
-<br />
-
-| Practice | What good looks like |
-| --- | --- |
-| Functional testing | Assertions cover the business outcome, not only the clicks |
-| Regression testing | Critical paths stay protected when the fix lands |
-| Browser & responsive testing | Real target combinations are chosen from user and risk data |
-| Accessibility | Automated checks support — but do not replace — meaningful manual review |
-| Release verification | Evidence, scope, environment, result, limitation, and follow-up are recorded |
-
-</details>
-
-<details>
-<summary><strong>Evidence-led documentation workflow</strong> — responsible AI assistance with human approval</summary>
-
-<br />
-
-| Stage | Working control |
-| --- | --- |
-| **Prepare** | Capture the confirmed behaviour, environment, reproduction steps, relevant documentation, logs, and business impact |
-| **Protect** | Remove client identities, credentials, tokens, personal information, and unnecessary production data before using AI |
-| **Transform** | Use ChatGPT and Claude to draft partner updates, technical tasks, QA plans, training material, and reusable guidance |
-| **Verify** | Compare every technical claim with its source, label assumptions and missing information, and correct the output manually |
-| **Approve** | Keep AI outside production access and deployment; retain human approval and escalation for every consequential action |
-
-The purpose is simple: investigate carefully once, then safely reuse the verified understanding across delivery and communication.
-
-</details>
-
-<p align="right"><a href="#readme-top">Back to top ↑</a></p>
-
-## Selected production impact
-
-<div align="center">
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/OPEN_THE_FULL_PRODUCTION_STORY_LIBRARY-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" height="32" alt="Open the full production story library" /></a>
-</div>
-
-<br />
-
-| Situation | Result |
-| --- | --- |
-| **[Critical malware recovery →](https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md)** | Safely relaunched a compromised WordPress ecommerce site after clean recovery, credential rotation, and end-to-end validation |
-| **[WooCommerce customer handover →](https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md)** | Configured the first 200 products and core workflows for a 2,000+ product store, then trained a previously non-technical owner |
-| **[PageSpeed improvement →](https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md)** | Increased a production store’s PageSpeed score from below 20 to above 75 while preserving critical ecommerce journeys |
-
-<div align="center">
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/READ_ALL_21_STORIES-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" alt="Read all 21 production stories" /></a>
-</div>
-
-<details>
-<summary><strong>View selected live production examples</strong></summary>
-
-<br />
-
-| Website | Contribution |
-| --- | --- |
-| **[Stamatopoulos Bikes →](https://www.stamatopoulosbikes.gr/)** | WooCommerce production support |
-| **[ORA by Mavrommatis →](https://www.orabymavrommatis.com/)** | Ecommerce production support |
-| **[FM Live →](https://www.fmlive.gr/)** | Media-platform production support |
-
-I have supported more than 60 production websites and web applications. Responsibilities vary by engagement and include support, maintenance, configuration, integrations, QA, troubleshooting, performance work, migrations, launch support, and user training. I do not claim sole delivery of every site in that portfolio.
-
-</details>
-
-<p align="right"><a href="#readme-top">Back to top ↑</a></p>
+- **BSc (Hons) Computing — Software Development**, 2:1, University of Essex degree awarded through Aegean College, graduated 2026
+- Greek native · English at full professional working proficiency
+- Based in Greece · Available for fully remote EMEA roles
 
 ## Contact
 
-<table>
-  <tr>
-    <td><strong>Target roles</strong></td>
-    <td>Technical Account Management · WordPress/WooCommerce Partner Support · Web Application Support · QA &amp; Release</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Greece · available for fully remote work</td>
-  </tr>
-  <tr>
-    <td><strong>Start here</strong></td>
-    <td><a href="mailto:a.zaprios@gmail.com">a.zaprios@gmail.com</a> · <a href="https://github.com/zpthanos?tab=repositories">All repositories</a> · <a href="https://github.com/zpthanos/production-stories">Production stories</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/a.zaprios%40gmail.com-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
+  <a href="https://github.com/zpthanos?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
+</p>
 
-<div align="center">
-  <br />
-  <strong>Reliable systems. Clear evidence. Calm delivery.</strong>
-  <br /><br />
-  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ATHANASIOS-38BDF8?style=for-the-badge&amp;logo=gmail&amp;logoColor=07111F" alt="Email Athanasios Zaprios" /></a>
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/VIEW_21_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" alt="View 21 production stories" /></a>
-  <br /><br />
-  <a href="#readme-top">Back to top ↑</a>
-</div>
+<p align="right"><a href="#readme-top">Back to top ↑</a></p>
