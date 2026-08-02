@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">Athanasios Zaprios — Technical Delivery Professional</title>
+  <desc id="desc">Mobile professional banner connecting customers, engineering, quality assurance and production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="0.55" stop-color="#0b1d31"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+  <rect width="720" height="900" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="718" height="898" rx="27" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="34" y="58" fill="#7dd3fc" font-size="17" font-weight="700" letter-spacing="2">ATHANASIOS ZAPRIOS</text>
+    <text x="34" y="125" fill="#f8fafc" font-size="48" font-weight="800">Technical Delivery</text>
+    <text x="34" y="180" fill="#f8fafc" font-size="48" font-weight="800">Professional</text>
+    <text x="34" y="226" fill="#cbd5e1" font-size="22">Customer-facing engineer who builds, supports</text>
+    <text x="34" y="258" fill="#cbd5e1" font-size="22">and delivers production software.</text>
+    <rect x="34" y="282" width="520" height="6" rx="3" fill="url(#accent)"/>
+
+    <g font-size="16" font-weight="700">
+      <rect x="34" y="316" width="300" height="44" rx="22" fill="#0f2a43" stroke="#38bdf8" stroke-opacity="0.35"/><text x="72" y="344" fill="#bae6fd">TECHNICAL ACCOUNTS</text>
+      <rect x="354" y="316" width="332" height="44" rx="22" fill="#0f2a43" stroke="#2dd4bf" stroke-opacity="0.35"/><text x="398" y="344" fill="#99f6e4">APPLICATION SUPPORT</text>
+      <rect x="34" y="376" width="300" height="44" rx="22" fill="#0f2a43" stroke="#818cf8" stroke-opacity="0.35"/><text x="92" y="404" fill="#c7d2fe">QA &amp; RELEASE</text>
+      <rect x="354" y="376" width="332" height="44" rx="22" fill="#0f2a43" stroke="#a78bfa" stroke-opacity="0.35"/><text x="410" y="404" fill="#ddd6fe">SOLUTIONS &amp; WEB</text>
+    </g>
+
+    <rect x="34" y="454" width="652" height="192" rx="22" fill="#07111f" stroke="#334155"/>
+    <text x="62" y="490" fill="#94a3b8" font-size="13" font-weight="700" letter-spacing="1.4">DELIVERY PATH</text>
+    <g font-size="17" font-weight="700" fill="#e2e8f0">
+      <text x="62" y="536">Customers</text><text x="62" y="578">Requirements</text><text x="370" y="536">Engineering</text><text x="370" y="578">QA &amp; Release</text>
+    </g>
+    <path d="M210 530 C265 530 300 570 355 570 C410 570 445 530 500 530" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="210" cy="530" r="8" fill="#38bdf8"/><circle cx="355" cy="570" r="8" fill="#2dd4bf"/><circle cx="500" cy="530" r="8" fill="#a78bfa"/>
+
+    <g transform="translate(34 682)">
+      <g><rect width="316" height="88" rx="16" fill="#0b1728" stroke="#1e3a5f"/><text x="20" y="40" fill="#f8fafc" font-size="30" font-weight="800">60+</text><text x="20" y="65" fill="#94a3b8" font-size="13" font-weight="700">LIVE SITES &amp; APPS</text></g>
+      <g transform="translate(336 0)"><rect width="316" height="88" rx="16" fill="#0b1728" stroke="#1e3a5f"/><text x="20" y="40" fill="#f8fafc" font-size="30" font-weight="800">30</text><text x="20" y="65" fill="#94a3b8" font-size="13" font-weight="700">CLIENT ENGAGEMENTS</text></g>
+      <g transform="translate(0 108)"><rect width="316" height="88" rx="16" fill="#0b1728" stroke="#1e3a5f"/><text x="20" y="40" fill="#f8fafc" font-size="30" font-weight="800">3+ YEARS</text><text x="20" y="65" fill="#94a3b8" font-size="13" font-weight="700">CLIENT-FACING DELIVERY</text></g>
+      <g transform="translate(336 108)"><rect width="316" height="88" rx="16" fill="#0b1728" stroke="#1e3a5f"/><text x="20" y="40" fill="#f8fafc" font-size="30" font-weight="800">21</text><text x="20" y="65" fill="#94a3b8" font-size="13" font-weight="700">PRODUCTION STORIES</text></g>
+    </g>
+  </g>
+</svg>
