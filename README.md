@@ -125,9 +125,9 @@
 | Repository | Recruiter signal | Honest scope |
 | --- | --- | --- |
 | **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | Playwright, TypeScript, axe accessibility checks, reports, and GitHub Actions | Chromium guest journey from product to checkout; deliberately stops before order submission |
-| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | TypeScript Worker, request validation, rate limits, security headers, WAF templates, and safe rollout guidance | Tested starter and deployment templates; not represented as a live production deployment |
-| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser matrix, test operations, secure configuration, reporting, CI, and adoption runbooks | Working starter with generic demo checks; real business-journey coverage is the next extension |
-| **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements engineering, business rules, traceability, delivery controls, and verification strategy | Requirements baseline plus a bounded applicant login/draft slice; not represented as production-ready |
+| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | TypeScript Worker, request validation, rate limits, security headers, WAF templates, and safe rollout guidance | Tested starter and deployment templates and not represented as a live production deployment |
+| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser matrix, test operations, secure configuration, reporting, CI, and adoption runbooks | Working starter with generic demo checks. Real business-journey coverage is the next extension |
+| **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements engineering, business rules, traceability, delivery controls, and verification strategy | Requirements baseline plus a bounded applicant login/draft slice. Not represented as production-ready |
 
 <div align="center">
   <a href="https://github.com/zpthanos?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_EVERY_PUBLIC_REPOSITORY-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="Browse every public repository" /></a>
