@@ -39,7 +39,9 @@
 
 > I own the partner journey from an unclear request to a safe, verified production outcome. My work combines WordPress/WooCommerce administration, requirements discovery, delivery coordination, incident response, regression testing, documentation, training, and long-term support.
 
-## Recruiter snapshot
+<a name="recruiter-snapshot"></a>
+
+<img src="./assets/section-recruiter-snapshot.svg" width="100%" alt="Recruiter snapshot" />
 
 <table>
   <tr>
@@ -87,6 +89,25 @@
 
 <br />
 
+<div align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&amp;logo=woocommerce&amp;logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/axe_Accessibility-5E1F87?style=flat-square&amp;logo=axe&amp;logoColor=white" alt="axe accessibility" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <br />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&amp;logo=cloudflareworkers&amp;logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Request_Validation-0F766E?style=flat-square" alt="Request validation" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-0F766E?style=flat-square" alt="Rate limiting" />
+  <img src="https://img.shields.io/badge/BrowserStack-FF7A00?style=flat-square&amp;logo=browserstack&amp;logoColor=white" alt="BrowserStack" />
+  <img src="https://img.shields.io/badge/Cross--browser_QA-6C5CE7?style=flat-square" alt="Cross-browser QA" />
+  <img src="https://img.shields.io/badge/Requirements_Engineering-0891B2?style=flat-square" alt="Requirements engineering" />
+  <img src="https://img.shields.io/badge/Traceability-14B8A6?style=flat-square" alt="Traceability" />
+</div>
+
+<br />
+
 | Repository | Recruiter signal | Honest scope |
 | --- | --- | --- |
 | **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | Playwright, TypeScript, axe accessibility checks, reports, and GitHub Actions | Chromium guest journey from product to checkout; deliberately stops before order submission |
@@ -100,7 +121,9 @@
 
 <p align="right"><a href="#readme-top">Back to top ↑</a></p>
 
-## Partner delivery and support lifecycle
+<a name="partner-delivery-and-support-lifecycle"></a>
+
+<img src="./assets/section-partner-delivery.svg" width="100%" alt="Partner delivery and support lifecycle" />
 
 <table>
   <tr>
