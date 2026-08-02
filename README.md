@@ -35,11 +35,11 @@ Code shows implementation; these first-hand stories show how I diagnose incident
 
 | Featured story | Result |
 | --- | --- |
-| [Critical malware recovery](https://github.com/zpthanos/production-web-stories/blob/main/stories/06-malware-recovery.md) | Safely relaunched a compromised WordPress ecommerce site after clean recovery, credential rotation, and end-to-end validation |
-| [WooCommerce customer handover](https://github.com/zpthanos/production-web-stories/blob/main/stories/05-woocommerce-administration-handover.md) | Configured the first 200 products and core workflows for a 2,000+ product store, then trained a previously non-technical owner |
-| [PageSpeed improvement](https://github.com/zpthanos/production-web-stories/blob/main/stories/11-pagespeed-improvement.md) | Increased a production store's PageSpeed score from below 20 to above 75 while preserving critical ecommerce journeys |
+| [Critical malware recovery](https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md) | Safely relaunched a compromised WordPress ecommerce site after clean recovery, credential rotation, and end-to-end validation |
+| [WooCommerce customer handover](https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md) | Configured the first 200 products and core workflows for a 2,000+ product store, then trained a previously non-technical owner |
+| [PageSpeed improvement](https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md) | Increased a production store's PageSpeed score from below 20 to above 75 while preserving critical ecommerce journeys |
 
-**[Read all 21 production stories →](https://github.com/zpthanos/production-web-stories)**
+**[Read all 21 production stories →](https://github.com/zpthanos/production-stories)**
 
 ## Production experience
 
