@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 860" role="img" aria-labelledby="title description">
   <title id="title">Thanos — Web Application Support and QA Engineer</title>
-  <desc id="description">Mobile profile banner highlighting production support, quality assurance, and web operations experience.</desc>
+  <desc id="description">Mobile profile banner highlighting partner delivery, web application support, quality assurance, and release assurance.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -39,8 +39,8 @@
 
     <text x="34" y="170" fill="#f8fafc" font-size="86" font-weight="800" letter-spacing="-2">THANOS</text>
     <rect x="34" y="190" width="450" height="6" rx="3" fill="url(#accent)"/>
-    <text x="34" y="240" fill="#e2e8f0" font-size="31" font-weight="650">I keep web applications reliable.</text>
-    <text x="34" y="280" fill="#94a3b8" font-size="20">Troubleshoot · verify · document · hand over</text>
+    <text x="34" y="240" fill="#e2e8f0" font-size="27" font-weight="650">I deliver reliable web outcomes, end to end.</text>
+    <text x="34" y="280" fill="#94a3b8" font-size="18">Partner delivery · application support · QA · release assurance</text>
 
     <g>
       <rect x="34" y="316" width="652" height="242" rx="20" fill="#07111f" stroke="#334155" stroke-width="1.5"/>
