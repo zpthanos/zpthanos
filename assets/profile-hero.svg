@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="title description">
   <title id="title">Thanos — Web Application Support and QA Engineer</title>
-  <desc id="description">Professional profile banner highlighting production support, quality assurance, WordPress, WooCommerce, Playwright, Cloudflare, Linux, and SQL experience.</desc>
+  <desc id="description">Professional profile banner highlighting partner delivery, web application support, quality assurance, release assurance, WordPress, WooCommerce, Playwright, Cloudflare, Linux, and SQL experience.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -44,8 +44,8 @@
 
     <text x="58" y="157" fill="#f8fafc" font-size="76" font-weight="800" letter-spacing="-2">THANOS</text>
     <rect x="58" y="174" width="390" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="58" y="220" fill="#e2e8f0" font-size="28" font-weight="650">I keep web applications reliable.</text>
-    <text x="58" y="254" fill="#94a3b8" font-size="18">Production troubleshooting · release confidence · clear handover</text>
+    <text x="58" y="220" fill="#e2e8f0" font-size="27" font-weight="650">I deliver reliable web outcomes, end to end.</text>
+    <text x="58" y="254" fill="#94a3b8" font-size="18">Partner delivery · application support · QA · release assurance</text>
     <text x="58" y="294" fill="#7dd3fc" font-size="16" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace">WordPress / WooCommerce   Playwright   Cloudflare   Linux   SQL</text>
 
     <g filter="url(#shadow)">
