@@ -86,7 +86,7 @@
 | **Launches and integrations** | DNS, migrations, payment and email services, REST APIs, webhooks, hosting providers, rollback planning | Coordinated delivery with clear ownership, risk control, and communication |
 | **Quality and incident response** | Urgent triage, root-cause investigation, functional/regression testing, accessibility, browser/responsive coverage | Restore critical journeys and verify solutions before closure |
 | **Technical analysis** | SQL/MySQL, JSON, HTML/CSS, JavaScript/TypeScript, PHP errors, logs, performance, technical SEO | Move from an unclear symptom or goal to concrete next steps |
-| **Documentation and responsible AI** | Developer-ready tasks, runbooks, training material, checklists, ChatGPT and Claude with source validation | Increase delivery capacity while retaining accuracy, confidentiality, and accountability |
+| **Documentation and responsible AI** | Sanitized evidence, ChatGPT/Claude drafting, partner updates, technical tasks, QA plans, training, source verification | Reuse verified understanding safely while retaining confidentiality, human approval, and final accountability |
 
 <details>
 <summary><strong>Application and integration toolkit</strong> — inspect the layers behind the interface</summary>
@@ -115,6 +115,23 @@
 | Browser & responsive testing | Real target combinations are chosen from user and risk data |
 | Accessibility | Automated checks support — but do not replace — meaningful manual review |
 | Release verification | Evidence, scope, environment, result, limitation, and follow-up are recorded |
+
+</details>
+
+<details>
+<summary><strong>Evidence-led documentation workflow</strong> — responsible AI assistance with human approval</summary>
+
+<br />
+
+| Stage | Working control |
+| --- | --- |
+| **Prepare** | Capture the confirmed behaviour, environment, reproduction steps, relevant documentation, logs, and business impact |
+| **Protect** | Remove client identities, credentials, tokens, personal information, and unnecessary production data before using AI |
+| **Transform** | Use ChatGPT and Claude to draft partner updates, technical tasks, QA plans, training material, and reusable guidance |
+| **Verify** | Compare every technical claim with its source, label assumptions and missing information, and correct the output manually |
+| **Approve** | Keep AI outside production access and deployment; retain human approval and escalation for every consequential action |
+
+The purpose is simple: investigate carefully once, then safely reuse the verified understanding across delivery and communication.
 
 </details>
 
