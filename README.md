@@ -119,9 +119,13 @@
 
 | Situation | Result |
 | --- | --- |
-| **Critical malware recovery** | Safely relaunched a compromised WordPress ecommerce site after clean recovery, credential rotation, and end-to-end validation |
-| **WooCommerce customer handover** | Configured the first 200 products and core workflows for a 2,000+ product store, then trained a previously non-technical owner |
-| **PageSpeed improvement** | Increased a production store’s PageSpeed score from below 20 to above 75 while preserving critical ecommerce journeys |
+| **[Critical malware recovery →](https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md)** | Safely relaunched a compromised WordPress ecommerce site after clean recovery, credential rotation, and end-to-end validation |
+| **[WooCommerce customer handover →](https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md)** | Configured the first 200 products and core workflows for a 2,000+ product store, then trained a previously non-technical owner |
+| **[PageSpeed improvement →](https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md)** | Increased a production store’s PageSpeed score from below 20 to above 75 while preserving critical ecommerce journeys |
+
+<div align="center">
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/READ_ALL_21_STORIES-2DD4BF?style=for-the-badge&amp;logo=readme&amp;logoColor=07111F" alt="Read all 21 production stories" /></a>
+</div>
 
 <details>
 <summary><strong>View selected live production examples</strong></summary>
