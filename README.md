@@ -22,7 +22,8 @@
 
 <p align="center">
   <strong>WordPress product support</strong><br />
-  WordPress & WooCommerce · Gravity Forms · WPForms · Contact Form 7<br />
+  WordPress & WooCommerce · WPForms · Contact Form 7<br />
+  Gravity Forms: configuration · advanced fields · validation · layout customisation · customer handover<br />
   Issue reproduction · conflict investigation · release verification · customer guidance
 </p>
 
