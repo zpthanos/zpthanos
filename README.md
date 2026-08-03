@@ -18,7 +18,7 @@
 
 > I work between customers, engineering teams and live systems. I clarify requirements, investigate incidents, coordinate delivery, verify releases and document outcomes people can actually use.
 
-<p align="center"><strong>Role fit:</strong> Technical Accounts · Application Support · Solutions & Implementation · QA & Release · Web Platforms</p>
+<p align="center"><strong>Role fit:</strong> Technical Accounts · Customer Success & Application Support · Solutions & Implementation · QA & Release · Web Platforms</p>
 
 <p align="center">
   <strong>WordPress product support</strong><br />
