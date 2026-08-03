@@ -20,6 +20,14 @@
 
 <p align="center"><strong>Role fit:</strong> Technical Accounts · Application Support · Solutions & Implementation · QA & Release · Web Platforms</p>
 
+## WordPress product support
+
+I support live WordPress and WooCommerce environments through issue reproduction, plugin and theme conflict investigation, customer guidance, release verification and post-resolution follow-up.
+
+**Gravity Forms:** Hands-on experience setting up, configuring and managing customer-facing forms, including standard and advanced fields such as reCAPTCHA, consent and file uploads. I customise layouts, test validation and submission behaviour before launch, and train customers to manage entries and make routine form updates confidently.
+
+I also have practical experience with WPForms and Contact Form 7, giving me broader familiarity with WordPress form workflows, configuration differences, styling and troubleshooting across multiple plugin environments.
+
 ## Currently building
 
 - Expanding the **WooCommerce Playwright** suite with stronger release evidence and store-specific journey patterns.
