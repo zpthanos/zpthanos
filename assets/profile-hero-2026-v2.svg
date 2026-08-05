@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
-  <title id="title">Athanasios Zaprios — Technical Delivery Professional</title>
-  <desc id="desc">Professional profile banner presenting broad technical delivery experience across customer support, engineering, quality assurance and production.</desc>
+  <title id="title">Athanasios Zaprios — WordPress and WooCommerce Customer Support</title>
+  <desc id="desc">Professional profile banner presenting WordPress and WooCommerce customer support backed by technical delivery across customers, engineering, quality assurance and production.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -23,8 +23,8 @@
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="58" y="62" fill="#7dd3fc" font-size="14" font-weight="700" letter-spacing="2">ATHANASIOS ZAPRIOS</text>
-    <text x="58" y="120" fill="#f8fafc" font-size="46" font-weight="800">Technical Delivery Professional</text>
-    <text x="58" y="161" fill="#cbd5e1" font-size="20">Customer-facing engineer connecting customers, engineering, QA and production.</text>
+    <text x="58" y="120" fill="#f8fafc" font-size="43" font-weight="800">WordPress &amp; WooCommerce Support</text>
+    <text x="58" y="161" fill="#cbd5e1" font-size="20">Customer-facing support connecting customers, engineering, QA and production.</text>
     <rect x="58" y="184" width="700" height="5" rx="3" fill="url(#accent)"/>
 
     <g font-size="14" font-weight="700">
