@@ -1,18 +1,18 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026-v3.svg" />
-    <img src="./assets/profile-hero-2026-v3.svg" width="100%" alt="Athanasios Zaprios — WordPress and WooCommerce technical support, application support, quality assurance and production operations." />
+    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026-v4.svg" />
+    <img src="./assets/profile-hero-2026-v4.svg" width="100%" alt="Athanasios Zaprios — WordPress and WooCommerce technical support, application support, quality assurance and production operations." />
   </picture>
 </div>
 
 <p align="center">
-  <strong>Customer-facing technical support for WordPress and WooCommerce, grounded in production operations, QA and clear communication.</strong><br />
+  <strong>Customer-facing technical support for WordPress and WooCommerce, backed by production operations, QA and clear communication.</strong><br />
   Based in Greece · Open to fully remote EMEA roles
 </p>
 
 <p align="center">
-  <a href="#featured-work"><img src="https://img.shields.io/badge/FEATURED_WORK-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Featured work" /></a>
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" alt="Production stories" /></a>
+  <a href="#featured-work"><img src="https://img.shields.io/badge/VIEW_FEATURED_WORK-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View featured work" /></a>
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/READ_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" alt="Read production stories" /></a>
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
 </p>
 
@@ -21,31 +21,65 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
 **Primary role fit:** WordPress & WooCommerce Technical Support · Application Support · Customer Success Engineering  
 **Additional delivery fit:** Technical Accounts · QA & Release · Solutions & Implementation
 
+<a id="featured-work"></a>
+
 ## Featured work
-
-| Project | What it proves | Fast review |
-| --- | --- | --- |
-| **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | A safe guest-checkout regression journey with accessibility checks, CI, reports and failure evidence; deliberately stops before order submission | [README](https://github.com/zpthanos/WooCommerce-Playwright#readme) · [Architecture](https://github.com/zpthanos/WooCommerce-Playwright/blob/main/ARCHITECTURE.md) |
-| **[Production Stories →](https://github.com/zpthanos/production-stories)** | 21 sanitized, first-hand cases covering incidents, customer communication, QA, delivery decisions and operational outcomes | [Featured stories](https://github.com/zpthanos/production-stories#featured-stories) · [Start by role](https://github.com/zpthanos/production-stories#start-here-by-role) |
-| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | A tested security starter with rate limits, headers, WAF templates and staged rollout guidance with explicit scope boundaries | [README](https://github.com/zpthanos/Cloudflare-Security-Starter#readme) · [Architecture](https://github.com/zpthanos/Cloudflare-Security-Starter/blob/main/ARCHITECTURE.md) |
-| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser automation with secure configuration, reporting, CI, operational runbooks and practical go-live guidance | [README](https://github.com/zpthanos/Browserstack-Business-Testing#readme) · [Architecture](https://github.com/zpthanos/Browserstack-Business-Testing/blob/main/ARCHITECTURE.md) |
-
-## Production evidence
 
 <table>
   <tr>
-    <td width="25%" align="center" valign="top"><strong>60+</strong><br />live sites and applications</td>
-    <td width="25%" align="center" valign="top"><strong>30</strong><br />client engagements</td>
-    <td width="25%" align="center" valign="top"><strong>2,000+</strong><br />WooCommerce products supported</td>
-    <td width="25%" align="center" valign="top"><strong>3+ years</strong><br />client-facing technical delivery</td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zpthanos/WooCommerce-Playwright">
+        <img src="./assets/featured-woocommerce-v1.svg" width="100%" alt="WooCommerce Playwright — safe checkout regression, accessibility testing, CI and reports" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zpthanos/production-stories">
+        <img src="./assets/featured-production-stories-v1.svg" width="100%" alt="21 Production Stories — incident response, customer communication, quality assurance and delivery outcomes" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Best technical starting point.</strong> Automated WooCommerce guest journeys with Playwright, axe accessibility checks, CI reports and failure artifacts.<br /><br />
+      <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><strong>Project overview →</strong></a>
+      ·
+      <a href="https://github.com/zpthanos/WooCommerce-Playwright/blob/main/ARCHITECTURE.md">Architecture</a>
+    </td>
+    <td valign="top">
+      <strong>Best production-evidence starting point.</strong> Sanitized first-hand cases showing investigation, judgment, customer communication and operational ownership.<br /><br />
+      <a href="https://github.com/zpthanos/production-stories#featured-stories"><strong>Featured stories →</strong></a>
+      ·
+      <a href="https://github.com/zpthanos/production-stories#start-here-by-role">Browse by role</a>
+    </td>
   </tr>
 </table>
 
-### Selected outcomes
+### Additional technical projects
 
-- Recovered and safely relaunched a malware-affected WordPress ecommerce site after restoring verified off-server backups, rotating credentials and validating critical journeys.
-- Improved product-page PageSpeed performance from below 20 to above 75 while preserving catalogue, cart and checkout functionality.
-- Supported a 2,000+ product WooCommerce operation and enabled a previously non-technical owner to manage routine catalogue work independently.
+| Project | What it demonstrates | Review |
+| --- | --- | --- |
+| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | Tested security controls, rate limiting, headers, WAF templates and staged rollout guidance | [README](https://github.com/zpthanos/Cloudflare-Security-Starter#readme) · [Architecture](https://github.com/zpthanos/Cloudflare-Security-Starter/blob/main/ARCHITECTURE.md) |
+| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser automation, secure configuration, reporting, CI, runbooks and go-live guidance | [README](https://github.com/zpthanos/Browserstack-Business-Testing#readme) · [Architecture](https://github.com/zpthanos/Browserstack-Business-Testing/blob/main/ARCHITECTURE.md) |
+| **[CivicFlow Portfolio →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements, business rules, traceability, delivery controls and a bounded implementation direction | [10-minute review](https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md) |
+
+## Production outcomes
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Security recovery</strong><br /><br />
+      Safely relaunched a malware-affected WordPress ecommerce site after verified recovery, credential rotation and critical-journey validation.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Performance improvement</strong><br /><br />
+      Raised a product-page PageSpeed score from below 20 to above 75 while preserving catalogue, cart and checkout behaviour.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Customer enablement</strong><br /><br />
+      Supported a 2,000+ product WooCommerce operation and trained a non-technical owner to manage routine catalogue work independently.
+    </td>
+  </tr>
+</table>
 
 ## Core capabilities
 
@@ -83,11 +117,10 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
 </details>
 
 <details>
-<summary><strong>Additional portfolio work and current development</strong></summary>
+<summary><strong>Current portfolio development</strong></summary>
 
 <br />
 
-- **[CivicFlow](https://github.com/zpthanos/civicflow-portfolio):** requirements, business rules, traceability, delivery controls and a bounded implementation direction. [10-minute recruiter review →](https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md)
 - Expanding the WooCommerce Playwright suite with stronger release evidence and store-specific journey patterns.
 - Strengthening architecture, CI and reviewer guidance across the featured portfolio.
 - Adding production stories that show investigation, trade-offs, verification and operational lessons.
