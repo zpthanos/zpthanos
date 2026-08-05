@@ -39,28 +39,36 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/EXPAND_COMPLETE_TECHNICAL_KNOWLEDGE-0EA5E9?style=for-the-badge&logo=stackshare&logoColor=white" height="48" alt="Expand complete technical knowledge" />
+  <h2 align="center">Complete technical knowledge</h2>
+  <p align="center">Expand the categorized map of tools, platforms and technologies used across customer support, web operations, QA, development, infrastructure and business administration.</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/EXPAND_THE_COMPLETE_TECHNICAL_KNOWLEDGE_MAP-0EA5E9?style=for-the-badge&logo=stackshare&logoColor=white" height="52" alt="Expand the complete technical knowledge map" />
+  </p>
 </summary>
 
 <br />
 
-Hands-on tools, platforms and technologies used across customer operations, B2B administration, web support, QA, development, content administration and infrastructure work since 2022.
+The table groups hands-on knowledge used across customer operations, B2B administration, web support, QA, development, content administration and infrastructure work since 2022.
 
-| Area | Practiced knowledge |
+| Professional area | Practiced knowledge |
 |---|---|
-| **Operating systems and command-line environments** | macOS, Linux, PowerShell 7, Windows Terminal |
+| **Operating systems, shells and terminal environments** | macOS, Linux, PowerShell 7, Windows Terminal |
 | **Networking and web protocols** | TCP/IP, HTTP and HTTPS, TLS and SSL, DNS, DHCP, NAT |
-| **Cloud, edge delivery and security** | Cloudflare Workers, Cloudflare WAF, Cloudflare Email Routing, CDN configuration, web application firewalls, load balancing, ModSecurity, Imunify360, Imperva |
-| **Hosting, web servers and caching** | cPanel, Plesk, Apache, LiteSpeed, LSCache, Redis, Webmail |
-| **Web development, scripting and data formats** | HTML5, CSS3, Sass, JavaScript, PHP, JSON, XML, BML, custom code snippets |
-| **Databases, services and integration** | MySQL, SQLite, Firebase, REST APIs |
-| **Version control and development workflow** | Git, repository-based collaboration and change tracking |
-| **WordPress and commerce operations** | WordPress, WooCommerce, Elementor, WPBakery, Block Editor, content administration, debugging, controlled updates, legacy website reconstruction and maintenance |
-| **Quality assurance, accessibility and performance** | Playwright, BrowserStack, Chrome DevTools, axe DevTools, Lighthouse, PageSpeed Insights, GTmetrix |
-| **Business systems and operational administration** | Prosvasis One, B2B order processing, product-record administration, Microsoft 365 |
-| **Collaboration and workplace platforms** | Jira, Trello, Google Workspace, SharePoint, OneDrive, Microsoft Teams, Slack, Zoom |
-| **Network diagnostics and troubleshooting** | Wireshark, tcpdump |
-| **Design, content and creative production** | Figma, Canva, Adobe Photoshop, Adobe Illustrator, Blender, Fusion 360 |
+| **APIs, integrations and structured data** | REST APIs, webhooks, JSON, XML, BML |
+| **Cloud, edge delivery, email and security** | Cloudflare Workers, Cloudflare WAF, Cloudflare Email Routing, CDN configuration, web application firewalls, load balancing, ModSecurity, Imunify360, Imperva |
+| **Hosting, control panels, web servers and caching** | cPanel, Plesk, Apache, LiteSpeed, LSCache, Redis, Webmail |
+| **Web development and scripting** | HTML5, CSS3, Sass, JavaScript, PHP, custom code snippets |
+| **Databases and backend services** | MySQL, SQLite, Firebase |
+| **Version control and change management** | Git, repository-based collaboration and change tracking |
+| **WordPress, ecommerce and content operations** | WordPress, WooCommerce, Elementor, WPBakery, Block Editor, content administration, debugging, controlled updates, legacy website reconstruction and ongoing maintenance |
+| **Quality assurance and browser testing** | Playwright, BrowserStack, Chrome DevTools, cross-browser checks, responsive testing and regression verification |
+| **Accessibility and web performance** | axe DevTools, Lighthouse, PageSpeed Insights, GTmetrix |
+| **Network diagnostics and traffic analysis** | Wireshark, tcpdump |
+| **Business systems and operational administration** | Prosvasis One, B2B order processing, product-record administration |
+| **Service management and work tracking** | Jira, Trello |
+| **Workplace productivity and collaboration** | Microsoft 365, Google Workspace, SharePoint, OneDrive, Microsoft Teams, Slack, Zoom |
+| **Design and visual communication** | Figma, Canva, Adobe Photoshop, Adobe Illustrator |
+| **3D modelling and product design** | Blender, Fusion 360 |
 
 </details>
 
