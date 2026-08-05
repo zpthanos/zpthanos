@@ -82,12 +82,12 @@ I help customers **adopt, operate and gain value from technical products**. My w
 </table>
 
 <p align="center">
-  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><strong>Review the complete evidence map →</strong></a>
+  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/REVIEW_THE_COMPLETE_EVIDENCE_MAP-2563EB?style=for-the-badge&logo=readme&logoColor=white" height="34" alt="Review the complete evidence map" /></a>
 </p>
 
 <a id="customer-outcomes"></a>
 
-## Three outcomes worth remembering
+## 🏆 Three outcomes worth remembering
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/customer-success-outcomes-mobile-final-v2.svg" />
@@ -95,11 +95,11 @@ I help customers **adopt, operate and gain value from technical products**. My w
 </picture>
 
 <p align="center">
-  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md"><strong>Recovery &amp; trust →</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md"><strong>Onboarding &amp; adoption →</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md"><strong>Reliability &amp; value →</strong></a>
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md"><img src="https://img.shields.io/badge/RECOVERY_%26_TRUST-2563EB?style=flat-square&logo=shield&logoColor=white" height="30" alt="Recovery and trust" /></a>
+  &nbsp;
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md"><img src="https://img.shields.io/badge/ONBOARDING_%26_ADOPTION-0F766E?style=flat-square&logo=personio&logoColor=white" height="30" alt="Onboarding and adoption" /></a>
+  &nbsp;
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md"><img src="https://img.shields.io/badge/RELIABILITY_%26_VALUE-7C3AED?style=flat-square&logo=speedtest&logoColor=white" height="30" alt="Reliability and value" /></a>
 </p>
 
 <a id="evidence"></a>
@@ -164,11 +164,35 @@ I help customers **adopt, operate and gain value from technical products**. My w
 
 <br />
 
-1. **Understand** — clarify the customer goal, impact, urgency, environment and expected behaviour.
-2. **Reproduce** — confirm the issue and collect useful browser, system or workflow evidence.
-3. **Coordinate** — align customers, developers, hosting providers or third parties around a safe plan.
-4. **Verify** — test the requested outcome and the important related customer journeys.
-5. **Enable** — document the result, limitations, next steps and practical customer guidance.
+<table>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/1-UNDERSTAND-2563EB?style=for-the-badge" height="28" alt="Step 1 Understand" /><br /><br />
+      <strong>Clarify the goal</strong><br /><br />
+      Customer impact, urgency, environment and expected behaviour.
+    </td>
+    <td width="20%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/2-REPRODUCE-16A34A?style=for-the-badge" height="28" alt="Step 2 Reproduce" /><br /><br />
+      <strong>Confirm the issue</strong><br /><br />
+      Collect useful browser, system or workflow evidence.
+    </td>
+    <td width="20%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/3-COORDINATE-7C3AED?style=for-the-badge" height="28" alt="Step 3 Coordinate" /><br /><br />
+      <strong>Align the people</strong><br /><br />
+      Customers, developers, hosts and third parties around a safe plan.
+    </td>
+    <td width="20%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/4-VERIFY-D97706?style=for-the-badge" height="28" alt="Step 4 Verify" /><br /><br />
+      <strong>Test the outcome</strong><br /><br />
+      Validate the request and important related customer journeys.
+    </td>
+    <td width="20%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/5-ENABLE-0F766E?style=for-the-badge" height="28" alt="Step 5 Enable" /><br /><br />
+      <strong>Make it repeatable</strong><br /><br />
+      Document results, limitations, next steps and practical guidance.
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -179,14 +203,38 @@ I help customers **adopt, operate and gain value from technical products**. My w
 
 <br />
 
-- **[CivicFlow Portfolio →](https://github.com/zpthanos/civicflow-portfolio)**  
-  Turns complicated requests into clear rules, priorities, controls and verification plans.
-
-- **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)**  
-  Demonstrates monitor-first security changes, staged rollout guidance and explicit limitations.
-
-- **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)**  
-  Demonstrates cross-browser testing, reporting, CI and operational go-live guidance.
+<table>
+  <tr>
+    <td width="13%" align="center" valign="middle">📋</td>
+    <td width="62%" valign="top">
+      <a href="https://github.com/zpthanos/civicflow-portfolio"><strong>CivicFlow Portfolio →</strong></a><br />
+      Turns complicated requests into clear rules, priorities, controls and verification plans.
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/GOVERNANCE_%26_DELIVERY-7C3AED?style=flat-square" alt="Governance and delivery" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">🛡️</td>
+    <td valign="top">
+      <a href="https://github.com/zpthanos/Cloudflare-Security-Starter"><strong>Cloudflare Security Starter →</strong></a><br />
+      Demonstrates monitor-first security changes, staged rollout guidance and explicit limitations.
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/SECURITY_%26_RELIABILITY-0F766E?style=flat-square" alt="Security and reliability" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">🖥️</td>
+    <td valign="top">
+      <a href="https://github.com/zpthanos/Browserstack-Business-Testing"><strong>BrowserStack Business Testing →</strong></a><br />
+      Demonstrates cross-browser testing, reporting, CI and operational go-live guidance.
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/QUALITY_%26_OBSERVABILITY-D97706?style=flat-square" alt="Quality and observability" />
+    </td>
+  </tr>
+</table>
 
 </details>
 
