@@ -6,8 +6,13 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/zpthanos/production-stories">
+    <img src="https://img.shields.io/badge/EXPLORE_21_REAL_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=github&logoColor=07111F" height="48" alt="Explore 21 real production support stories" />
+  </a>
+</p>
+
+<p align="center">
   <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/60_SECOND_CUSTOMER_SUCCESS_REVIEW-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" alt="Open the 60-second customer success review" /></a>
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/REAL_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=github&logoColor=07111F" alt="Read real production support stories" /></a>
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
 </p>
 
