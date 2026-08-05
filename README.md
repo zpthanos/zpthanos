@@ -13,7 +13,7 @@
 </a>
 
 <p align="center">
-  <strong>Technical Customer Success and Support specialist helping customers adopt and operate web platforms through onboarding, incident resolution, documentation, risk identification and cross-functional delivery.</strong>
+  <strong>Partner-facing Technical Customer Success and Support specialist owning Jira cases from investigation through verified closure, and coordinating onboarding, launches, integrations, regression testing, documentation and user training.</strong>
 </p>
 
 ## Measurable outcomes
@@ -31,14 +31,9 @@
 | [The Washland Portal](https://github.com/zpthanos/The-Washland-Portal) | Full-stack PHP and MySQL CRUD application with validation, prepared statements and JSON endpoints |
 | [Cloudflare Security Starter](https://github.com/zpthanos/Cloudflare-Security-Starter) | Controlled security rollout guidance covering DNS, headers, WAF, monitoring and rollback |
 
-## Evidence
-
-[Review 21 first-hand production stories →](https://github.com/zpthanos/production-stories)
-
-Customer onboarding, incident recovery, risk identification, documentation, testing and customer communication from real production work.
-
 ## Contact
 
 **Athanasios Zaprios**  
-Remote from Greece, available across EMEA  
+Remote from Greece, EU work authorization, available across EMEA  
+BSc (Hons) Computing, Software Development, 2:1  
 [a.zaprios@gmail.com](mailto:a.zaprios@gmail.com)
