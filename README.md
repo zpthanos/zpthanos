@@ -1,12 +1,12 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026-v2.svg" />
-    <img src="./assets/profile-hero-2026-v2.svg" width="100%" alt="Athanasios Zaprios — technical delivery professional connecting customers, engineering, quality assurance and production." />
+    <img src="./assets/profile-hero-2026-v2.svg" width="100%" alt="Athanasios Zaprios — WordPress and WooCommerce customer support professional connecting customers, engineering, quality assurance and production." />
   </picture>
 </div>
 
 <p align="center">
-  <strong>Turning technical complexity into reliable customer and production outcomes.</strong><br />
+  <strong>WordPress and WooCommerce customer support for reliable customer and production outcomes.</strong><br />
   Based in Greece · Open to fully remote EMEA roles
 </p>
 
@@ -16,18 +16,21 @@
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/CONTACT-07111F?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
 </p>
 
-> I work between customers, engineering teams and live systems. I clarify requirements, investigate incidents, coordinate delivery, verify releases and document outcomes people can actually use.
+> I specialise in customer-facing support for WordPress and WooCommerce products, stores and websites. I work between customers, engineering teams and live systems. I clarify requirements, investigate incidents, coordinate delivery, verify releases and document outcomes people can actually use.
 
-<p align="center"><strong>Role fit:</strong> Technical Accounts · Customer Success & Application Support · Solutions & Implementation · QA & Release · Web Platforms</p>
+<p align="center"><strong>Primary role fit:</strong> WordPress & WooCommerce Customer Support · Customer Success & Application Support</p>
+<p align="center"><strong>Supporting delivery experience:</strong> Technical Accounts · Solutions & Implementation · QA & Release · Web Platforms</p>
 
 <p align="center">
-  <strong>WordPress product support</strong><br />
+  <strong>WordPress & WooCommerce product support</strong><br />
   WordPress & WooCommerce · WPForms · Contact Form 7<br />
   Gravity Forms: configuration · advanced fields · validation · layout customisation · customer handover<br />
   Issue reproduction · conflict investigation · release verification · customer guidance
 </p>
 
-## Currently building
+<p align="center"><em>The broader tools and projects below support this focus: they show how I investigate issues, verify fixes, communicate clearly and protect live customer environments.</em></p>
+
+## Currently building support evidence
 
 - Expanding the **WooCommerce Playwright** suite with stronger release evidence and store-specific journey patterns.
 - Developing the first bounded implementation slice for **CivicFlow**, based on its requirements and verification baseline.
@@ -44,12 +47,16 @@
 
 ## Featured work
 
-| Project | Recruiter evidence | Scope |
+The WooCommerce project is the clearest match for my target role. The remaining projects demonstrate the investigation, release, security, cross-browser and implementation practices I use to support customers and production systems.
+
+| Project | Customer-support evidence | Scope |
 | --- | --- | --- |
 | **[WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright)** | [Architecture](https://github.com/zpthanos/WooCommerce-Playwright/blob/main/ARCHITECTURE.md) · Playwright · axe · reports · failure artifacts · GitHub Actions | Guest journey from product page through checkout; deliberately stops before order submission |
 | **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | [Architecture](https://github.com/zpthanos/Cloudflare-Security-Starter/blob/main/ARCHITECTURE.md) · TypeScript Worker · rate limits · security headers · WAF templates | Tested starter and rollout guidance; not presented as a live production deployment |
 | **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | [Architecture](https://github.com/zpthanos/Browserstack-Business-Testing/blob/main/ARCHITECTURE.md) · cross-browser matrix · secure configuration · reporting · CI · runbooks | Working starter with generic demo journeys |
 | **[CivicFlow →](https://github.com/zpthanos/civicflow-portfolio)** | [10-minute review](https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md) · business rules · traceability · delivery controls · verification strategy | Requirements baseline plus a bounded implementation direction; not presented as production-ready |
+
+<p align="center"><strong>Supporting platforms and tools used to investigate, verify and deliver customer-support outcomes:</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
@@ -79,8 +86,9 @@
 
 | Area | Practical focus |
 | --- | --- |
-| **Technical account delivery** | Discovery, onboarding, prioritization, timelines, stakeholder updates, training and long-term support |
+| **WordPress & WooCommerce customer support** | Product and site guidance, issue reproduction, plugin and theme conflict investigation, configuration support, customer handover and production follow-through |
 | **Application support** | Reproduction, isolation, logs, browser/network evidence, PHP errors, SQL checks and incident closure |
+| **Technical account delivery** | Discovery, onboarding, prioritization, timelines, stakeholder updates, training and long-term support |
 | **Quality and release assurance** | Functional and regression testing, accessibility, browser checks, evidence capture and release verification |
 | **Solutions and platforms** | WordPress, WooCommerce, DNS, SMTP, REST APIs, webhooks, Cloudflare, Linux and cPanel |
 | **Responsible AI assistance** | Sanitized evidence, source verification, no production access and human approval for consequential actions |
