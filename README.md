@@ -21,6 +21,20 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
 **Primary role fit:** WordPress & WooCommerce Technical Support · Application Support · Customer Success Engineering  
 **Additional delivery fit:** Technical Accounts · QA & Release · Solutions & Implementation
 
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/recruiter-map-mobile-v1.svg" />
+  <img src="./assets/recruiter-map-v1.svg" width="100%" alt="Three ways I create value: protect customers, prove releases and enable teams." />
+</picture>
+
+## Find the most relevant proof
+
+| You are hiring for… | Start here | What you will see |
+| --- | --- | --- |
+| **Customer or application support** | [Production Stories →](https://github.com/zpthanos/production-stories#featured-stories) | Real incidents, calm communication, practical decisions and safe follow-through |
+| **WordPress / WooCommerce support** | [WooCommerce Playwright →](https://github.com/zpthanos/WooCommerce-Playwright#readme) | A complete customer shopping journey tested before it reaches a real order |
+| **QA or release coordination** | [BrowserStack Testing →](https://github.com/zpthanos/Browserstack-Business-Testing#readme) | Browser checks, clear reports and evidence that makes release decisions easier |
+| **Solutions or implementation** | [CivicFlow review →](https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md) | How I turn unclear requirements into an understandable, testable delivery plan |
+
 <a id="featured-work"></a>
 
 ## Featured work
@@ -31,64 +45,75 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
       <a href="https://github.com/zpthanos/WooCommerce-Playwright">
         <img src="./assets/featured-woocommerce-v1.svg" width="100%" alt="WooCommerce Playwright — safe checkout regression, accessibility testing, CI and reports" />
       </a>
+      <br /><br />
+      <strong>In plain English</strong><br />
+      An automated customer shops from product page to checkout, while the project checks that important steps still work.<br /><br />
+      <strong>Why it matters</strong><br />
+      It helps catch broken shopping journeys before customers encounter them.<br /><br />
+      <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><strong>See the project →</strong></a>
+      ·
+      <a href="https://github.com/zpthanos/WooCommerce-Playwright/blob/main/ARCHITECTURE.md">How it works</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/zpthanos/production-stories">
         <img src="./assets/featured-production-stories-v1.svg" width="100%" alt="21 Production Stories — incident response, customer communication, quality assurance and delivery outcomes" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>Best technical starting point.</strong> Automated WooCommerce guest journeys with Playwright, axe accessibility checks, CI reports and failure artifacts.<br /><br />
-      <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><strong>Project overview →</strong></a>
+      <br /><br />
+      <strong>In plain English</strong><br />
+      Short, sanitized accounts of real support, delivery and production situations I handled.<br /><br />
+      <strong>Why it matters</strong><br />
+      They show judgment, communication and ownership, not merely a list of tools.<br /><br />
+      <a href="https://github.com/zpthanos/production-stories#featured-stories"><strong>Read featured stories →</strong></a>
       ·
-      <a href="https://github.com/zpthanos/WooCommerce-Playwright/blob/main/ARCHITECTURE.md">Architecture</a>
-    </td>
-    <td valign="top">
-      <strong>Best production-evidence starting point.</strong> Sanitized first-hand cases showing investigation, judgment, customer communication and operational ownership.<br /><br />
-      <a href="https://github.com/zpthanos/production-stories#featured-stories"><strong>Featured stories →</strong></a>
-      ·
-      <a href="https://github.com/zpthanos/production-stories#start-here-by-role">Browse by role</a>
+      <a href="https://github.com/zpthanos/production-stories#start-here-by-role">Choose by role</a>
     </td>
   </tr>
 </table>
 
-### Additional technical projects
+### More proof, without the technical translation exercise
 
-| Project | What it demonstrates | Review |
+| Project | In plain English | Why a team would care |
 | --- | --- | --- |
-| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | Tested security controls, rate limiting, headers, WAF templates and staged rollout guidance | [README](https://github.com/zpthanos/Cloudflare-Security-Starter#readme) · [Architecture](https://github.com/zpthanos/Cloudflare-Security-Starter/blob/main/ARCHITECTURE.md) |
-| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | Cross-browser automation, secure configuration, reporting, CI, runbooks and go-live guidance | [README](https://github.com/zpthanos/Browserstack-Business-Testing#readme) · [Architecture](https://github.com/zpthanos/Browserstack-Business-Testing/blob/main/ARCHITECTURE.md) |
-| **[CivicFlow Portfolio →](https://github.com/zpthanos/civicflow-portfolio)** | Requirements, business rules, traceability, delivery controls and a bounded implementation direction | [10-minute review](https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md) |
+| **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)** | A reusable starting point for protecting a website from common abuse and risky traffic | Security changes can be introduced in stages, reviewed clearly and rolled back safely |
+| **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)** | A practical way to check that a website works across different browsers and devices | Fewer “it works on my computer” surprises reach customers |
+| **[CivicFlow Portfolio →](https://github.com/zpthanos/civicflow-portfolio)** | A structured plan that turns a complicated business request into clear rules, priorities and checks | Stakeholders can understand what will be built, why it matters and how success will be verified |
 
-## Production outcomes
+## Business outcomes
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Security recovery</strong><br /><br />
-      Safely relaunched a malware-affected WordPress ecommerce site after verified recovery, credential rotation and critical-journey validation.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Performance improvement</strong><br /><br />
-      Raised a product-page PageSpeed score from below 20 to above 75 while preserving catalogue, cart and checkout behaviour.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Customer enablement</strong><br /><br />
-      Supported a 2,000+ product WooCommerce operation and trained a non-technical owner to manage routine catalogue work independently.
-    </td>
-  </tr>
-</table>
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| **A WordPress ecommerce site was compromised** | Recovered from verified backups, rotated credentials and checked the important customer journeys | The site was safely relaunched with working catalogue, cart and checkout flows |
+| **A product page was extremely slow** | Diagnosed the causes, introduced controlled improvements and re-tested ecommerce behaviour | PageSpeed improved from **below 20 to above 75** without breaking the buying journey |
+| **A 2,000+ product catalogue was difficult for the owner to manage** | Set up repeatable workflows and trained a previously non-technical owner | The owner could complete routine catalogue work independently |
 
-## Core capabilities
+## What you can hire me to help with
 
-| Area | Practical focus |
-| --- | --- |
-| **WordPress & WooCommerce support** | Customer guidance, configuration, plugin and theme conflicts, form workflows, catalogue operations, checkout and handover |
-| **Application and incident support** | Reproduction, isolation, logs, browser and network evidence, PHP errors, SQL checks, recovery and closure |
-| **Quality and release assurance** | Functional, regression, accessibility and cross-browser testing with visible evidence and release verification |
-| **Technical account delivery** | Discovery, requirements, prioritization, stakeholder updates, integrations, training and post-launch ownership |
+| Your team needs… | What I handle | What good looks like |
+| --- | --- | --- |
+| **Reliable WordPress and WooCommerce support** | Questions, configuration, plugin or theme conflicts, forms, products, checkout and customer handover | Customers receive clear answers and important store journeys keep working |
+| **Calm incident support** | Reproduce the problem, narrow down the cause, gather evidence, coordinate recovery and close the loop | The issue is understood, handled safely and explained without unnecessary drama |
+| **Confidence before a release** | Test important journeys, browsers and accessibility, then capture useful evidence | Teams know what passed, what remains risky and whether the release is ready |
+| **Clear delivery across technical and non-technical people** | Clarify requirements, priorities, owners, dependencies, updates and training | Everyone understands the plan, progress and next action |
+
+<details>
+<summary><strong>My five-step support approach</strong></summary>
+
+<br />
+
+| Step | Simple question | What I do |
+| --- | --- | --- |
+| **1. Listen** | What is the customer trying to achieve? | Clarify the goal, impact, urgency and expected behaviour |
+| **2. Reproduce** | Can I see the same problem? | Repeat the issue and collect useful evidence instead of guessing |
+| **3. Coordinate** | Who needs to act? | Bring together customers, developers, hosting providers or third parties |
+| **4. Verify** | Did the solution actually work? | Test the result and check that important related journeys still work |
+| **5. Explain** | Can someone else understand and use the outcome? | Document the result, limitations, next steps and customer guidance |
+
+</details>
+
+<details>
+<summary><strong>Technical tools used behind the scenes</strong></summary>
+
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
@@ -100,19 +125,6 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/BrowserStack-FF7A00?style=flat-square&logo=browserstack&logoColor=white" alt="BrowserStack" />
 </p>
-
-<details>
-<summary><strong>How I handle customer and production work</strong></summary>
-
-<br />
-
-| Phase | What I do |
-| --- | --- |
-| **Understand** | Clarify the goal, affected users, urgency, environment and expected behaviour |
-| **Investigate** | Reproduce the issue, isolate variables and collect useful technical evidence |
-| **Coordinate** | Align customers, developers, hosting providers and third-party services around a safe path |
-| **Verify** | Test the requested outcome and critical regressions, then record evidence and limitations |
-| **Enable** | Document the result, train users and continue support after release |
 
 </details>
 
