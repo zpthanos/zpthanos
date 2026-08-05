@@ -41,9 +41,6 @@
 <summary>
   <h2 align="center">Complete technical knowledge</h2>
   <p align="center">Expand the categorized map of tools, platforms and technologies used across customer support, web operations, QA, development, infrastructure and business administration.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/EXPAND_THE_COMPLETE_TECHNICAL_KNOWLEDGE_MAP-0EA5E9?style=for-the-badge&logo=stackshare&logoColor=white" height="52" alt="Expand the complete technical knowledge map" />
-  </p>
 </summary>
 
 <br />
