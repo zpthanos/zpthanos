@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Three customer outcomes</title>
+<desc id="desc">A compromised store safely relaunched, a 2,000-plus product catalogue enabled, and PageSpeed improved from below 20 to above 75.</desc>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <rect x="0" y="0" width="376" height="310" rx="24" fill="#0b2036" stroke="#38bdf8" stroke-opacity="0.55"/>
+  <text x="28" y="44" fill="#7dd3fc" font-size="18" font-weight="900" letter-spacing="1.2">RECOVERY &amp; TRUST</text>
+  <text x="28" y="104" fill="#f8fafc" font-size="37" font-weight="900">SAFELY</text><text x="28" y="145" fill="#f8fafc" font-size="37" font-weight="900">RELAUNCHED</text>
+  <text x="28" y="195" fill="#cbd5e1" font-size="21" font-weight="650">Recovered a compromised store,</text><text x="28" y="225" fill="#cbd5e1" font-size="21" font-weight="650">rotated credentials and verified</text><text x="28" y="255" fill="#cbd5e1" font-size="21" font-weight="650">catalogue, cart and checkout.</text>
+  <rect x="412" y="0" width="376" height="310" rx="24" fill="#092932" stroke="#2dd4bf" stroke-opacity="0.55"/>
+  <text x="440" y="44" fill="#5eead4" font-size="18" font-weight="900" letter-spacing="1.2">ONBOARDING &amp; ADOPTION</text>
+  <text x="440" y="104" fill="#f8fafc" font-size="37" font-weight="900">2,000+</text><text x="440" y="145" fill="#f8fafc" font-size="37" font-weight="900">PRODUCTS ENABLED</text>
+  <text x="440" y="195" fill="#cbd5e1" font-size="21" font-weight="650">Configured core workflows and</text><text x="440" y="225" fill="#cbd5e1" font-size="21" font-weight="650">trained the owner to manage</text><text x="440" y="255" fill="#cbd5e1" font-size="21" font-weight="650">routine work independently.</text>
+  <rect x="824" y="0" width="376" height="310" rx="24" fill="#171936" stroke="#a78bfa" stroke-opacity="0.55"/>
+  <text x="852" y="44" fill="#c4b5fd" font-size="18" font-weight="900" letter-spacing="1.2">RELIABILITY &amp; VALUE</text>
+  <text x="852" y="104" fill="#f8fafc" font-size="37" font-weight="900">&lt;20 → 75+</text><text x="852" y="145" fill="#f8fafc" font-size="37" font-weight="900">PAGESPEED</text>
+  <text x="852" y="195" fill="#cbd5e1" font-size="21" font-weight="650">Improved performance while</text><text x="852" y="225" fill="#cbd5e1" font-size="21" font-weight="650">protecting catalogue, cart and</text><text x="852" y="255" fill="#cbd5e1" font-size="21" font-weight="650">checkout behaviour.</text>
+</g>
+</svg>
