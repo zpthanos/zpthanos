@@ -14,9 +14,11 @@
   </picture>
 </a>
 
+<br />
+
 <p align="center">
-  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/60_SECOND_CUSTOMER_SUCCESS_REVIEW-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" height="34" alt="Open the 60-second customer success review" /></a>
-  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" height="34" alt="Email Athanasios Zaprios" /></a>
+  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/OPEN_60_SECOND_CUSTOMER_SUCCESS_REVIEW-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" height="42" alt="Open the 60-second customer success review" /></a>
+  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" height="42" alt="Email Athanasios Zaprios" /></a>
 </p>
 
 I help customers **adopt, operate and gain value from technical products**. My experience combines customer onboarding, ticket resolution, documentation, risk identification and cross-functional coordination with hands-on production support.
@@ -103,25 +105,29 @@ I help customers **adopt, operate and gain value from technical products**. My e
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>📚 21 PRODUCTION SUPPORT STORIES</strong><br /><br />
+    <td valign="top">
+      📚&nbsp;&nbsp;<img src="https://img.shields.io/badge/21_PRODUCTION_SUPPORT_STORIES-2DD4BF?style=for-the-badge" height="28" alt="21 production support stories" /><br /><br />
       Sanitized, first-hand examples of customer communication, incident handling, onboarding, risk, documentation, delivery decisions and follow-through.<br /><br />
       <a href="https://github.com/zpthanos/production-stories#featured-stories"><strong>Read featured stories →</strong></a>
     </td>
-    <td width="50%" valign="top">
-      <strong>🛒 CUSTOMER JOURNEY VERIFICATION</strong><br /><br />
+  </tr>
+  <tr>
+    <td valign="top">
+      🛒&nbsp;&nbsp;<img src="https://img.shields.io/badge/CUSTOMER_JOURNEY_VERIFICATION-38BDF8?style=for-the-badge" height="28" alt="Customer journey verification" /><br /><br />
       A repeatable WooCommerce journey from product page to checkout with accessibility checks, reports and failure evidence for safer release decisions.<br /><br />
       <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><strong>Review WooCommerce Playwright →</strong></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <strong>🔐 OPERATIONAL RISK CONTROLS</strong><br /><br />
+    <td valign="top">
+      🔐&nbsp;&nbsp;<img src="https://img.shields.io/badge/OPERATIONAL_RISK_CONTROLS-F59E0B?style=for-the-badge" height="28" alt="Operational risk controls" /><br /><br />
       A production-minded Cloudflare starter using request validation, rate limits, security headers and monitor-first rollout guidance.<br /><br />
       <a href="https://github.com/zpthanos/Cloudflare-Security-Starter#readme"><strong>Review the security starter →</strong></a>
     </td>
-    <td width="50%" valign="top">
-      <strong>🌍 CROSS-BROWSER RELEASE EVIDENCE</strong><br /><br />
+  </tr>
+  <tr>
+    <td valign="top">
+      🌍&nbsp;&nbsp;<img src="https://img.shields.io/badge/CROSS_BROWSER_RELEASE_EVIDENCE-A78BFA?style=for-the-badge" height="28" alt="Cross-browser release evidence" /><br /><br />
       Browser testing, secure configuration, reporting, CI guidance and practical runbooks designed to support clear go-live decisions.<br /><br />
       <a href="https://github.com/zpthanos/Browserstack-Business-Testing#readme"><strong>Review BrowserStack testing →</strong></a>
     </td>
@@ -132,25 +138,30 @@ I help customers **adopt, operate and gain value from technical products**. My e
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>PROVEN PRODUCTION FOUNDATION</strong><br /><br />
+    <td valign="top">
+      🐧&nbsp;&nbsp;<img src="https://img.shields.io/badge/PROVEN_PRODUCTION_FOUNDATION-0EA5E9?style=for-the-badge" height="28" alt="Proven production foundation" /><br /><br />
       Linux-based environments, access and server operations, DNS, SMTP, Cloudflare, REST APIs, webhooks, Git and SQL.<br /><br />
       I am comfortable moving between customer language, browser evidence, configuration, hosting and technical escalation.
     </td>
-    <td width="50%" valign="top">
-      <strong>PRODUCT-LEARNING MINDSET</strong><br /><br />
+  </tr>
+  <tr>
+    <td valign="top">
+      🌱&nbsp;&nbsp;<img src="https://img.shields.io/badge/ACTIVE_PRODUCT_LEARNING-2DD4BF?style=for-the-badge" height="28" alt="Active product learning" /><br /><br />
       I am actively deepening my understanding of Ubuntu, open-source infrastructure and the customer journeys around security, fleet management, cloud and platform adoption.<br /><br />
       I label self-directed learning honestly and do not present it as production customer experience.
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <strong>Why this direction matters:</strong> open-source customer success combines technical problem-solving with onboarding, enablement, documentation and long-term customer value.
+    </td>
+  </tr>
 </table>
-
-> I am drawn to open-source customer success because it combines technical problem-solving with onboarding, enablement, documentation and long-term customer value.
 
 <br /><br />
 
 <details>
-<summary><img src="./assets/details-request-v1.svg" width="100%" alt="Expand the customer request playbook" /></summary>
+<summary><img src="./assets/details-request-v1.svg" width="92%" alt="Expand the customer request playbook" /></summary>
 
 <br />
 
@@ -169,7 +180,7 @@ I help customers **adopt, operate and gain value from technical products**. My e
 <br />
 
 <details>
-<summary><img src="./assets/details-evidence-v1.svg" width="100%" alt="Expand additional implementation and delivery evidence" /></summary>
+<summary><img src="./assets/details-evidence-v1.svg" width="92%" alt="Expand additional implementation and delivery evidence" /></summary>
 
 <br />
 
@@ -186,7 +197,7 @@ I help customers **adopt, operate and gain value from technical products**. My e
 <br />
 
 <details>
-<summary><img src="./assets/details-toolkit-v1.svg" width="100%" alt="Expand the technical toolkit" /></summary>
+<summary><img src="./assets/details-toolkit-v1.svg" width="92%" alt="Expand the technical toolkit" /></summary>
 
 <br />
 
@@ -220,11 +231,9 @@ These tools support investigation, delivery, verification and clear customer com
 
 <a href="mailto:a.zaprios@gmail.com"><img src="./assets/customer-success-contact-v2.svg" width="100%" alt="Contact Athanasios Zaprios about remote customer success, technical support or application support roles across EMEA." /></a>
 
-<br /><br />
+<br /><br /><br />
 
-<table>
-  <tr>
-    <td width="50%" valign="middle"><a href="mailto:a.zaprios@gmail.com"><img src="./assets/email-action-v1.svg" width="100%" alt="Email Athanasios Zaprios" /></a></td>
-    <td width="50%" valign="middle"><a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="./assets/review-action-v1.svg" width="100%" alt="Open the 60-second customer success review" /></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" height="48" alt="Email Athanasios Zaprios" /></a>
+  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/OPEN_60_SECOND_REVIEW-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" height="48" alt="Open the 60-second customer success review" /></a>
+</p>
