@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Athanasios Zaprios — Customer Success and Technical Support</title>
+<desc id="desc">Customer Success and Technical Support profile with more than three years of customer-facing experience across 60 production sites, 30 customer engagements and 12 WooCommerce stores.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="0.58" stop-color="#0b2036"/><stop offset="1" stop-color="#18213c"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.52" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#7dd3fc" stroke-opacity="0.035"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="2"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <text x="56" y="58" fill="#7dd3fc" font-size="20" font-weight="800" letter-spacing="2">ATHANASIOS ZAPRIOS</text>
+  <text x="56" y="124" fill="#f8fafc" font-size="52" font-weight="900">Customer Success &amp;</text>
+  <text x="56" y="180" fill="#f8fafc" font-size="52" font-weight="900">Technical Support</text>
+  <text x="56" y="226" fill="#cbd5e1" font-size="23" font-weight="700">Onboarding · Ticket resolution · Risk · Enablement · Documentation</text>
+  <rect x="56" y="249" width="670" height="6" rx="3" fill="url(#accent)"/>
+  <text x="56" y="294" fill="#a5b4c8" font-size="21" font-weight="650">Helping customers adopt and operate technical products with confidence.</text>
+  <text x="56" y="329" fill="#94a3b8" font-size="19" font-weight="650">Remote from Greece · EMEA · English &amp; Greek</text>
+  <g transform="translate(804 36)">
+    <rect width="342" height="288" rx="24" fill="#07111f" fill-opacity="0.88" stroke="#334155"/>
+    <text x="24" y="38" fill="#94a3b8" font-size="18" font-weight="900" letter-spacing="1.4">CUSTOMER EVIDENCE</text>
+    <g transform="translate(22 58)">
+      <rect width="142" height="94" rx="17" fill="#0b1728" stroke="#1e3a5f"/>
+      <text x="18" y="43" fill="#f8fafc" font-size="34" font-weight="900">60+</text>
+      <text x="18" y="68" fill="#cbd5e1" font-size="16" font-weight="800">PRODUCTION</text>
+      <text x="18" y="88" fill="#cbd5e1" font-size="16" font-weight="800">SITES</text>
+    </g>
+    <g transform="translate(178 58)">
+      <rect width="142" height="94" rx="17" fill="#0b1728" stroke="#1e3a5f"/>
+      <text x="18" y="43" fill="#f8fafc" font-size="34" font-weight="900">30</text>
+      <text x="18" y="68" fill="#cbd5e1" font-size="16" font-weight="800">CUSTOMER</text>
+      <text x="18" y="88" fill="#cbd5e1" font-size="16" font-weight="800">ENGAGEMENTS</text>
+    </g>
+    <g transform="translate(22 166)">
+      <rect width="142" height="94" rx="17" fill="#0b1728" stroke="#1e3a5f"/>
+      <text x="18" y="43" fill="#f8fafc" font-size="34" font-weight="900">12</text>
+      <text x="18" y="68" fill="#cbd5e1" font-size="16" font-weight="800">WOO</text>
+      <text x="18" y="88" fill="#cbd5e1" font-size="16" font-weight="800">STORES</text>
+    </g>
+    <g transform="translate(178 166)">
+      <rect width="142" height="94" rx="17" fill="#0b1728" stroke="#1e3a5f"/>
+      <text x="18" y="43" fill="#f8fafc" font-size="34" font-weight="900">3+</text>
+      <text x="18" y="68" fill="#cbd5e1" font-size="16" font-weight="800">CUSTOMER-FACING</text>
+      <text x="18" y="88" fill="#cbd5e1" font-size="16" font-weight="800">YEARS</text>
+    </g>
+  </g>
+</g>
+</svg>
