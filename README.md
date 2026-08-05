@@ -76,37 +76,36 @@
 <br />
 
 <picture>
-  <source media="(max-width: 640px)" srcset="./assets/customer-success-fit-mobile-v2.svg" />
-  <img src="./assets/customer-success-fit-v2.svg" width="100%" alt="Why I fit customer success, the value I deliver and how I operate" />
+  <source media="(max-width: 640px)" srcset="./assets/customer-success-fit-mobile-v3.svg" />
+  <img src="./assets/customer-success-fit-v3.svg" width="100%" alt="Why I fit customer success, the value I deliver and how I operate" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(max-width: 640px)" srcset="./assets/recruiter-evidence-mobile-v2.svg" />
-  <img src="./assets/recruiter-evidence-v2.svg" width="100%" alt="Recruiter verifiable evidence covering production stories, customer feedback, playbooks, documentation and product feedback" />
+  <source media="(max-width: 640px)" srcset="./assets/recruiter-evidence-mobile-v3.svg" />
+  <img src="./assets/recruiter-evidence-v3.svg" width="100%" alt="Recruiter verifiable evidence covering production stories, customer feedback, playbooks, documentation and product feedback" />
 </picture>
 
-<p align="center">
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/OPEN_PRODUCTION_STORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" height="38" alt="Open production stories" /></a>
-  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/OPEN_CUSTOMER_REVIEW-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" height="38" alt="Open customer success review" /></a>
-  <a href="./OPEN_SOURCE_CUSTOMER_SUCCESS_LAB.md"><img src="https://img.shields.io/badge/OPEN_PROCESS_LAB-14B8A6?style=for-the-badge&logo=ubuntu&logoColor=white" height="38" alt="Open process lab" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/zpthanos/production-stories#featured-stories"><img src="https://img.shields.io/badge/OPEN_DOCUMENTATION-38BDF8?style=for-the-badge&logo=markdown&logoColor=07111F" height="38" alt="Open documentation evidence" /></a>
-  <a href="./OPEN_SOURCE_CUSTOMER_SUCCESS_LAB.md#product-feedback-brief"><img src="https://img.shields.io/badge/OPEN_PRODUCT_FEEDBACK-F59E0B?style=for-the-badge&logo=lightbulb&logoColor=white" height="38" alt="Open product feedback evidence" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/OPEN_PRODUCTION_STORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" height="36" alt="Open production stories" /></a>
+  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/OPEN_CUSTOMER_REVIEW-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" height="36" alt="Open customer success review" /></a>
+  <a href="./OPEN_SOURCE_CUSTOMER_SUCCESS_LAB.md"><img src="https://img.shields.io/badge/OPEN_PROCESS_LAB-14B8A6?style=for-the-badge&logo=ubuntu&logoColor=white" height="36" alt="Open process lab" /></a>
+  <br />
+  <a href="https://github.com/zpthanos/production-stories#featured-stories"><img src="https://img.shields.io/badge/OPEN_DOCUMENTATION-38BDF8?style=for-the-badge&logo=markdown&logoColor=07111F" height="36" alt="Open documentation evidence" /></a>
+  <a href="./OPEN_SOURCE_CUSTOMER_SUCCESS_LAB.md#product-feedback-brief"><img src="https://img.shields.io/badge/OPEN_PRODUCT_FEEDBACK-F59E0B?style=for-the-badge&logo=lightbulb&logoColor=white" height="36" alt="Open product feedback evidence" /></a>
+</div>
 
 <br />
 
 <picture>
-  <source media="(max-width: 640px)" srcset="./assets/open-source-readiness-mobile-v2.svg" />
-  <img src="./assets/open-source-readiness-v2.svg" width="100%" alt="Open source and infrastructure readiness across Ubuntu, cloud, automation and customer success practice" />
+  <source media="(max-width: 640px)" srcset="./assets/open-source-readiness-mobile-v3.svg" />
+  <img src="./assets/open-source-readiness-v3.svg" width="100%" alt="Open source and infrastructure readiness across Ubuntu, cloud, automation and customer success practice" />
 </picture>
 
-<p align="center">
-  <a href="./OPEN_SOURCE_CUSTOMER_SUCCESS_LAB.md"><img src="https://img.shields.io/badge/REVIEW_THE_OPEN_SOURCE_CS_LAB-F97316?style=for-the-badge&logo=ubuntu&logoColor=white" height="42" alt="Review the open source customer success lab" /></a>
-</p>
+<div align="center">
+  <a href="./OPEN_SOURCE_CUSTOMER_SUCCESS_LAB.md"><img src="https://img.shields.io/badge/REVIEW_THE_OPEN_SOURCE_CS_LAB-F97316?style=for-the-badge&logo=ubuntu&logoColor=white" height="40" alt="Review the open source customer success lab" /></a>
+</div>
 
 <br />
 
