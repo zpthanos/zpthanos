@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026-v2.svg" />
-    <img src="./assets/profile-hero-2026-v2.svg" width="100%" alt="Athanasios Zaprios — WordPress and WooCommerce technical support, application support, quality assurance and production operations." />
+    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026-v3.svg" />
+    <img src="./assets/profile-hero-2026-v3.svg" width="100%" alt="Athanasios Zaprios — WordPress and WooCommerce technical support, application support, quality assurance and production operations." />
   </picture>
 </div>
 
