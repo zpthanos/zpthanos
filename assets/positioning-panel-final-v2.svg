@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Best role fit and technical foundation</title>
+<desc id="desc">Best fit for customer success and technical support roles, supported by WordPress, WooCommerce, Linux and web infrastructure experience.</desc>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <rect x="0" y="0" width="580" height="230" rx="24" fill="#121b34" stroke="#a78bfa" stroke-opacity="0.48"/>
+  <rect x="620" y="0" width="580" height="230" rx="24" fill="#0b2631" stroke="#2dd4bf" stroke-opacity="0.48"/>
+  <rect x="30" y="28" width="150" height="38" rx="19" fill="#a78bfa" fill-opacity="0.2" stroke="#a78bfa"/>
+  <text x="105" y="54" text-anchor="middle" fill="#ede9fe" font-size="18" font-weight="900" letter-spacing="1">BEST ROLE FIT</text>
+  <text x="30" y="111" fill="#f8fafc" font-size="27" font-weight="900">Customer Success</text>
+  <text x="30" y="150" fill="#f8fafc" font-size="27" font-weight="900">Technical Customer Success</text>
+  <text x="30" y="191" fill="#cbd5e1" font-size="23" font-weight="700">Technical Support · Application Support</text>
+  <rect x="650" y="28" width="258" height="38" rx="19" fill="#2dd4bf" fill-opacity="0.18" stroke="#2dd4bf"/>
+  <text x="779" y="54" text-anchor="middle" fill="#ccfbf1" font-size="18" font-weight="900" letter-spacing="1">TECHNICAL FOUNDATION</text>
+  <text x="650" y="111" fill="#f8fafc" font-size="27" font-weight="900">WordPress · WooCommerce · Linux</text>
+  <text x="650" y="151" fill="#cbd5e1" font-size="23" font-weight="700">DNS · SMTP · APIs · Cloudflare</text>
+  <text x="650" y="191" fill="#cbd5e1" font-size="23" font-weight="700">Git · SQL · Browser evidence</text>
+</g>
+</svg>
