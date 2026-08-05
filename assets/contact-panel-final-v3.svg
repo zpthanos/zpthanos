@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+<title id="title">Contact Athanasios Zaprios</title>
+<desc id="desc">Available for remote Customer Success, Technical Customer Success, Technical Support and Application Support roles across EMEA.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2036"/><stop offset="1" stop-color="#17203b"/></linearGradient><linearGradient id="btn" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.6" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="220" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="218" rx="25" fill="none" stroke="#38bdf8" stroke-opacity="0.34" stroke-width="2"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <text x="48" y="54" fill="#7dd3fc" font-size="19" font-weight="900" letter-spacing="1.4">REMOTE · GREECE · EMEA</text>
+  <text x="48" y="105" fill="#f8fafc" font-size="35" font-weight="900">Customer success grounded in real delivery.</text>
+  <text x="48" y="148" fill="#cbd5e1" font-size="22" font-weight="650">Open to Customer Success, Technical Customer Success, Technical Support</text>
+  <text x="48" y="181" fill="#cbd5e1" font-size="22" font-weight="650">and Application Support opportunities.</text>
+  <rect x="930" y="70" width="220" height="80" rx="40" fill="url(#btn)"/>
+  <text x="1040" y="119" text-anchor="middle" fill="#07111f" font-size="24" font-weight="900">EMAIL ME →</text>
+</g>
+</svg>
