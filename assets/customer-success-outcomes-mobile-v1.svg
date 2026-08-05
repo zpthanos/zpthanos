@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1080" role="img" aria-labelledby="title desc">
+<title id="title">Three customer success outcomes</title>
+<desc id="desc">Trust restored, adoption enabled and measurable value delivered.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+<rect width="720" height="1080" rx="24" fill="#07111f"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <g transform="translate(28 24)">
+    <rect width="664" height="320" rx="22" fill="url(#bg)" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="2"/>
+    <text x="28" y="48" fill="#38bdf8" font-size="24" font-weight="800" letter-spacing="1.4">RECOVERY &amp; TRUST</text>
+    <text x="28" y="116" fill="#f8fafc" font-size="50" font-weight="900">SAFELY RELAUNCHED</text>
+    <text x="28" y="178" fill="#cbd5e1" font-size="28" font-weight="600">Recovered a compromised store,</text>
+    <text x="28" y="220" fill="#cbd5e1" font-size="28" font-weight="600">rotated credentials and verified</text>
+    <text x="28" y="262" fill="#cbd5e1" font-size="28" font-weight="600">catalogue, cart and checkout.</text>
+  </g>
+  <g transform="translate(28 380)">
+    <rect width="664" height="320" rx="22" fill="url(#bg)" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="2"/>
+    <text x="28" y="48" fill="#2dd4bf" font-size="24" font-weight="800" letter-spacing="1.4">ONBOARDING &amp; ADOPTION</text>
+    <text x="28" y="116" fill="#f8fafc" font-size="56" font-weight="900">2,000+ PRODUCTS</text>
+    <text x="28" y="178" fill="#cbd5e1" font-size="28" font-weight="600">Configured core workflows and</text>
+    <text x="28" y="220" fill="#cbd5e1" font-size="28" font-weight="600">trained the owner to manage</text>
+    <text x="28" y="262" fill="#cbd5e1" font-size="28" font-weight="600">routine work independently.</text>
+  </g>
+  <g transform="translate(28 736)">
+    <rect width="664" height="320" rx="22" fill="url(#bg)" stroke="#a78bfa" stroke-opacity="0.45" stroke-width="2"/>
+    <text x="28" y="48" fill="#a78bfa" font-size="24" font-weight="800" letter-spacing="1.4">RELIABILITY &amp; VALUE</text>
+    <text x="28" y="116" fill="#f8fafc" font-size="56" font-weight="900">&lt;20 → 75+ PAGESPEED</text>
+    <text x="28" y="178" fill="#cbd5e1" font-size="28" font-weight="600">Improved performance while</text>
+    <text x="28" y="220" fill="#cbd5e1" font-size="28" font-weight="600">protecting catalogue, cart and</text>
+    <text x="28" y="262" fill="#cbd5e1" font-size="28" font-weight="600">checkout behaviour.</text>
+  </g>
+</g>
+</svg>
