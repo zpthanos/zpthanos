@@ -5,6 +5,13 @@
   </picture>
 </div>
 
+<a href="https://github.com/zpthanos/production-stories">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/production-stories-cta-mobile-final-v2.svg" />
+    <img src="./assets/production-stories-cta-final-v2.svg" width="100%" alt="Explore 21 real production stories covering onboarding, tickets, incident recovery, risk, documentation and communication" />
+  </picture>
+</a>
+
 <p align="center">
   <strong>Technical Customer Success and Support specialist helping customers adopt and operate web platforms through onboarding, incident resolution, documentation, risk identification and cross-functional delivery.</strong>
 </p>
