@@ -55,16 +55,18 @@ The table groups hands-on knowledge used across customer operations, B2B adminis
 | **Operating systems, shells and terminal environments** | macOS, Linux, PowerShell 7, Windows Terminal |
 | **Networking and web protocols** | TCP/IP, HTTP and HTTPS, TLS and SSL, DNS, DHCP, NAT |
 | **APIs, integrations and structured data** | REST APIs, webhooks, JSON, XML, BML |
-| **Cloud, edge delivery, email and security** | Cloudflare Workers, Cloudflare WAF, Cloudflare Email Routing, CDN configuration, web application firewalls, load balancing, ModSecurity, Imunify360, Imperva |
+| **Cloud, edge delivery, email and application security** | Cloudflare Workers, Cloudflare WAF, Cloudflare Email Routing, CDN configuration, web application firewalls, load balancing, ModSecurity, Imunify360, Imperva |
 | **Hosting, control panels, web servers and caching** | cPanel, Plesk, Apache, LiteSpeed, LSCache, Redis, Webmail |
+| **Website maintenance, recovery and security operations** | Backups, restore verification, security patches, controlled updates, debugging, legacy website reconstruction and ongoing maintenance |
 | **Web development and scripting** | HTML5, CSS3, Sass, JavaScript, PHP, custom code snippets |
 | **Databases and backend services** | MySQL, SQLite, Firebase |
 | **Version control and change management** | Git, repository-based collaboration and change tracking |
-| **WordPress, ecommerce and content operations** | WordPress, WooCommerce, Elementor, WPBakery, Block Editor, content administration, debugging, controlled updates, legacy website reconstruction and ongoing maintenance |
-| **Quality assurance and browser testing** | Playwright, BrowserStack, Chrome DevTools, cross-browser checks, responsive testing and regression verification |
-| **Accessibility and web performance** | axe DevTools, Lighthouse, PageSpeed Insights, GTmetrix |
+| **WordPress, ecommerce and content operations** | WordPress, WooCommerce, Elementor, WPBakery, Block Editor and content administration |
+| **Quality assurance and browser testing** | Playwright, BrowserStack, Chrome DevTools, cross-browser testing, responsive testing and regression verification |
+| **Accessibility, performance and monitoring** | WCAG 2.1 AA accessibility, axe DevTools, Lighthouse, PageSpeed Insights, GTmetrix and performance monitoring |
+| **Documentation, enablement and internal support** | Technical documentation, runbooks, troubleshooting guidance, knowledge transfer and internal technical support |
 | **Network diagnostics and traffic analysis** | Wireshark, tcpdump |
-| **Business systems and operational administration** | Prosvasis One, B2B order processing, product-record administration |
+| **Business systems and operational administration** | Prosvasis One, B2B order processing and product-record administration |
 | **Service management and work tracking** | Jira, Trello |
 | **Workplace productivity and collaboration** | Microsoft 365, Google Workspace, SharePoint, OneDrive, Microsoft Teams, Slack, Zoom |
 | **Design and visual communication** | Figma, Canva, Adobe Photoshop, Adobe Illustrator |
