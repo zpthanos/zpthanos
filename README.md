@@ -31,6 +31,13 @@
 | [The Washland Portal](https://github.com/zpthanos/The-Washland-Portal) | Full-stack PHP and MySQL CRUD application with validation, prepared statements and JSON endpoints |
 | [Cloudflare Security Starter](https://github.com/zpthanos/Cloudflare-Security-Starter) | Controlled security rollout guidance covering DNS, headers, WAF, monitoring and rollback |
 
+## Practiced knowledge
+
+Used in hands-on customer operations, B2B administration, web support and QA roles since 2022.
+
+**Business and support operations:** Prosvasis One, B2B order processing, product-record administration and Microsoft 365  
+**Technical delivery and QA:** SQL, REST APIs, JSON, HTML/CSS, WordPress, WooCommerce, Playwright and BrowserStack
+
 ## Contact
 
 **Athanasios Zaprios**  
