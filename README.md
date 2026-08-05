@@ -26,34 +26,17 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
   <img src="./assets/recruiter-map-v1.svg" width="100%" alt="Three ways I create value: protect customers, prove releases and enable teams." />
 </picture>
 
-## Choose the proof that matches your role
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/role-paths-mobile-v2.svg" />
+  <img src="./assets/role-paths-v2.svg" width="100%" alt="Choose the portfolio evidence that best matches customer support, WordPress and WooCommerce, QA and release, or solutions and implementation roles." />
+</picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Hiring for customer or application support?</strong><br /><br />
-      See real incidents, practical decisions, customer communication and safe follow-through.<br /><br />
-      <a href="https://github.com/zpthanos/production-stories#featured-stories"><strong>Read production stories →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Hiring for WordPress or WooCommerce support?</strong><br /><br />
-      See a complete customer shopping journey tested before it reaches a real order.<br /><br />
-      <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><strong>Review the checkout project →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Hiring for QA or release coordination?</strong><br /><br />
-      See browser checks, accessible testing and evidence that supports release decisions.<br /><br />
-      <a href="https://github.com/zpthanos/Browserstack-Business-Testing#readme"><strong>Review browser testing →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Hiring for solutions or implementation?</strong><br /><br />
-      See how unclear requirements become an understandable and testable delivery plan.<br /><br />
-      <a href="https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md"><strong>Review CivicFlow →</strong></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/zpthanos/production-stories#featured-stories"><img src="https://img.shields.io/badge/SUPPORT_STORIES-0EA5E9?style=flat-square&logo=readme&logoColor=white" alt="Read support stories" /></a>
+  <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><img src="https://img.shields.io/badge/WOOCOMMERCE_PROOF-2DD4BF?style=flat-square&logo=woocommerce&logoColor=07111F" alt="Review WooCommerce proof" /></a>
+  <a href="https://github.com/zpthanos/Browserstack-Business-Testing#readme"><img src="https://img.shields.io/badge/QA_%26_RELEASE-A78BFA?style=flat-square&logo=checkmarx&logoColor=white" alt="Review QA and release proof" /></a>
+  <a href="https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md"><img src="https://img.shields.io/badge/IMPLEMENTATION-F59E0B?style=flat-square&logo=github&logoColor=07111F" alt="Review implementation proof" /></a>
+</p>
 
 <br />
 
@@ -125,27 +108,18 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
 
 <br />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md">
-        <img src="./assets/outcome-recovery-v1.svg" width="100%" alt="Recovered a compromised WordPress ecommerce site and safely relaunched it." />
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md">
-        <img src="./assets/outcome-speed-v1.svg" width="100%" alt="Improved PageSpeed from below 20 to above 75 without breaking the buying journey." />
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md">
-        <img src="./assets/outcome-catalogue-v1.svg" width="100%" alt="Supported a catalogue of more than 2,000 products and enabled the owner to work independently." />
-      </a>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/results-board-mobile-v2.svg" />
+  <img src="./assets/results-board-v2.svg" width="100%" alt="Three memorable results: a compromised store safely recovered, PageSpeed improved from below 20 to above 75, and a catalogue of more than 2,000 products made manageable." />
+</picture>
 
-<p align="center"><em>Each card links to the full situation, action, result and lessons learned.</em></p>
+<p align="center">
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md"><strong>Recovery story →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md"><strong>Performance story →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md"><strong>Catalogue story →</strong></a>
+</p>
 
 <br />
 
@@ -153,36 +127,10 @@ I specialise in customer-facing support for WordPress and WooCommerce products, 
 
 <br />
 
-<table>
-  <tr>
-    <td valign="top">
-      <strong>🛍️ Reliable WordPress and WooCommerce support</strong><br /><br />
-      I handle customer questions, configuration, forms, plugin or theme conflicts, products, cart and checkout issues.<br />
-      <strong>You get:</strong> clear answers, verified fixes and important store journeys that continue working.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>🧯 Calm incident support</strong><br /><br />
-      I reproduce the problem, narrow down the cause, gather useful evidence and coordinate a safe recovery path.<br />
-      <strong>You get:</strong> a controlled resolution, practical updates and a clear explanation of what happened.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>✅ Confidence before a release</strong><br /><br />
-      I test important customer journeys, browsers and accessibility, then capture evidence people can actually review.<br />
-      <strong>You get:</strong> a clear view of what passed, what remains risky and whether the release is ready.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>🤝 Clear delivery across technical and non-technical people</strong><br /><br />
-      I clarify requirements, priorities, owners, dependencies, updates, training and follow-up.<br />
-      <strong>You get:</strong> a shared plan where everyone understands progress and the next action.
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/services-board-mobile-v2.svg" />
+  <img src="./assets/services-board-v2.svg" width="100%" alt="How I help teams through reliable store support, calm incident response, confidence before release and shared delivery clarity." />
+</picture>
 
 <details>
 <summary><strong>My five-step support approach</strong></summary>
@@ -224,25 +172,10 @@ Document the result, limitations, next steps and customer guidance.
 
 </details>
 
-<details>
-<summary><strong>Current portfolio development</strong></summary>
-
-<br />
-
-- Expanding the WooCommerce Playwright suite with stronger release evidence and store-specific journey patterns.
-- Strengthening architecture, CI and reviewer guidance across the featured portfolio.
-- Adding production stories that show investigation, trade-offs, verification and operational lessons.
-- **[View the public portfolio roadmap →](ROADMAP.md)**
-
-</details>
-
-## Background
-
-**BSc (Hons) Computing — Software Development, 2:1**  
-University of Essex degree delivered through Aegean College · Graduated 2026
-
-Greek: Native · English: Full professional working proficiency  
-Remote from Greece · EMEA time zone
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/background-panel-mobile-v1.svg" />
+  <img src="./assets/background-panel-v1.svg" width="100%" alt="Background: BSc Honours Computing in Software Development, native Greek and professional English, based in Greece and available for fully remote EMEA roles." />
+</picture>
 
 <br />
 
