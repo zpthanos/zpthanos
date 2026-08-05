@@ -1,165 +1,185 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile-2026-v4.svg" />
-    <img src="./assets/profile-hero-2026-v4.svg" width="100%" alt="Athanasios Zaprios — WordPress and WooCommerce technical support, application support, quality assurance and production operations." />
+    <source media="(max-width: 640px)" srcset="./assets/customer-success-hero-mobile-v1.svg" />
+    <img src="./assets/customer-success-hero-v1.svg" width="100%" alt="Athanasios Zaprios — Customer Success and Technical Support with more than three years of customer-facing experience across 60 production sites, 30 customer engagements and 12 WooCommerce stores." />
   </picture>
 </div>
 
 <p align="center">
-  <strong>Customer-facing technical support for WordPress and WooCommerce, backed by production operations, QA and clear communication.</strong><br />
-  Based in Greece · Open to fully remote EMEA roles
-</p>
-
-<p align="center">
-  <a href="#featured-work"><img src="https://img.shields.io/badge/VIEW_FEATURED_WORK-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View featured work" /></a>
-  <a href="#business-results"><img src="https://img.shields.io/badge/SEE_BUSINESS_RESULTS-2DD4BF?style=for-the-badge&logo=checkmarx&logoColor=07111F" alt="See business results" /></a>
+  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/60_SECOND_CUSTOMER_SUCCESS_REVIEW-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" alt="Open the 60-second customer success review" /></a>
+  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/REAL_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=github&logoColor=07111F" alt="Read real production support stories" /></a>
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Athanasios Zaprios" /></a>
 </p>
 
-I specialise in customer-facing support for WordPress and WooCommerce products, stores and websites. I investigate incidents, reproduce defects, coordinate with engineering and hosting teams, verify releases and explain outcomes in language customers and colleagues can use.
+I help customers **adopt, operate and gain value from technical products**. My experience combines customer onboarding, ticket resolution, documentation, risk identification and cross-functional coordination with hands-on production support.
 
-**Primary role fit:** WordPress & WooCommerce Technical Support · Application Support · Customer Success Engineering  
-**Additional delivery fit:** Technical Accounts · QA & Release · Solutions & Implementation
-
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/recruiter-map-mobile-v1.svg" />
-  <img src="./assets/recruiter-map-v1.svg" width="100%" alt="Three ways I create value: protect customers, prove releases and enable teams." />
-</picture>
+**Best fit:** Customer Success · Technical Customer Success · Technical Support · Application Support  
+**Technical foundation:** WordPress · WooCommerce · Linux-based platforms · DNS · SMTP · APIs · Cloudflare · Git · SQL
 
 <picture>
-  <source media="(max-width: 640px)" srcset="./assets/role-paths-mobile-v2.svg" />
-  <img src="./assets/role-paths-v2.svg" width="100%" alt="Choose the portfolio evidence that best matches customer support, WordPress and WooCommerce, QA and release, or solutions and implementation roles." />
+  <source media="(max-width: 640px)" srcset="./assets/customer-success-loop-mobile-v1.svg" />
+  <img src="./assets/customer-success-loop-v1.svg" width="100%" alt="My customer success operating model: understand objectives, resolve obstacles, enable adoption, protect outcomes and improve through documentation and feedback." />
 </picture>
 
-<p align="center">
-  <a href="https://github.com/zpthanos/production-stories#featured-stories"><img src="https://img.shields.io/badge/SUPPORT_STORIES-0EA5E9?style=flat-square&logo=readme&logoColor=white" alt="Read support stories" /></a>
-  <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><img src="https://img.shields.io/badge/WOOCOMMERCE_PROOF-2DD4BF?style=flat-square&logo=woocommerce&logoColor=07111F" alt="Review WooCommerce proof" /></a>
-  <a href="https://github.com/zpthanos/Browserstack-Business-Testing#readme"><img src="https://img.shields.io/badge/QA_%26_RELEASE-A78BFA?style=flat-square&logo=checkmarx&logoColor=white" alt="Review QA and release proof" /></a>
-  <a href="https://github.com/zpthanos/civicflow-portfolio/blob/main/RECRUITER_REVIEW.md"><img src="https://img.shields.io/badge/IMPLEMENTATION-F59E0B?style=flat-square&logo=github&logoColor=07111F" alt="Review implementation proof" /></a>
-</p>
+<a id="customer-success-fit"></a>
 
-<br />
-
-<a id="featured-work"></a>
-
-<img src="./assets/section-projects-v1.svg" width="100%" alt="Proof from projects. Two clear examples first, with supporting work available below." />
-
-<br />
+## Why I fit customer success
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/zpthanos/WooCommerce-Playwright">
-        <img src="./assets/featured-woocommerce-v1.svg" width="100%" alt="WooCommerce Playwright — safe checkout regression, accessibility testing, CI and reports" />
-      </a>
-      <br /><br />
-      <strong>What it is</strong><br />
-      An automated customer shops from product page to checkout while the project checks that every important step still works.<br /><br />
-      <strong>Business value</strong><br />
-      Broken shopping journeys can be found before customers lose time, confidence or sales.<br /><br />
-      <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><strong>Review the project →</strong></a>
+      <strong>🚀 CUSTOMER ONBOARDING</strong><br /><br />
+      Introduce workflows in practical language, configure the foundations and train users until they can complete routine work independently.<br /><br />
+      <strong>Proof:</strong> enabled a non-technical owner to manage catalogue, order and refund work across a <strong>2,000+ product</strong> operation.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/zpthanos/production-stories">
-        <img src="./assets/featured-production-stories-v1.svg" width="100%" alt="21 Production Stories — incident response, customer communication, quality assurance and delivery outcomes" />
-      </a>
-      <br /><br />
-      <strong>What it is</strong><br />
-      Short, sanitized accounts of real support, delivery and production situations I handled.<br /><br />
-      <strong>Business value</strong><br />
-      They show judgment, communication and ownership instead of merely listing tools and responsibilities.<br /><br />
-      <a href="https://github.com/zpthanos/production-stories#featured-stories"><strong>Read the stories →</strong></a>
+      <strong>🎫 TICKET RESOLUTION</strong><br /><br />
+      Reproduce the issue, gather useful evidence, troubleshoot, escalate clearly and verify the complete customer journey before closure.<br /><br />
+      <strong>Proof:</strong> support requests across access, payments, email, updates, backups, performance, configuration and day-to-day operations.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧭 PORTFOLIO OWNERSHIP</strong><br /><br />
+      Clarify customer objectives, turn vague requests into practical plans, communicate progress and coordinate the right people.<br /><br />
+      <strong>Proof:</strong> approximately <strong>30 customer engagements</strong> across customers, developers, hosting providers and third-party services.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🛡️ RISK IDENTIFICATION</strong><br /><br />
+      Recognise recurring friction, security concerns, release risk and adoption blockers before they become larger customer problems.<br /><br />
+      <strong>Proof:</strong> incident recovery, recurring-issue analysis, controlled changes and verification of critical journeys.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📝 DOCUMENTATION</strong><br /><br />
+      Create customer guidance, Q&amp;A, troubleshooting notes, onboarding material, QA checklists and handover documentation.<br /><br />
+      <strong>Proof:</strong> repeatable support knowledge that reduces ambiguity and helps customers operate with less dependence.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔁 CUSTOMER FEEDBACK</strong><br /><br />
+      Turn recurring questions, defects and customer observations into structured findings that technical teams can review and act on.<br /><br />
+      <strong>Proof:</strong> evidence-based issue reports, documented limitations, operational lessons and clear follow-up actions.
     </td>
   </tr>
 </table>
 
-<details>
-<summary><strong>Additional projects</strong></summary>
+<p align="center">
+  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><strong>Review the complete customer-success evidence map →</strong></a>
+</p>
 
-<br />
+<a id="customer-outcomes"></a>
+
+## Three outcomes worth remembering
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/customer-success-outcomes-mobile-v1.svg" />
+  <img src="./assets/customer-success-outcomes-v1.svg" width="100%" alt="Three customer outcomes: a compromised ecommerce store safely relaunched, a 2,000-plus product catalogue made manageable, and PageSpeed improved from below 20 to above 75." />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md"><strong>Recovery &amp; trust →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md"><strong>Onboarding &amp; adoption →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md"><strong>Reliability &amp; value →</strong></a>
+</p>
+
+<a id="evidence"></a>
+
+## Evidence a recruiter can verify
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/zpthanos/Cloudflare-Security-Starter">Cloudflare Security Starter →</a></strong><br /><br />
-      A reusable starting point for protecting a website from common abuse and risky traffic.<br /><br />
-      <strong>Why it matters:</strong> controls can be reviewed, introduced gradually and rolled back safely.
+    <td width="50%" valign="top">
+      <strong>📚 21 PRODUCTION SUPPORT STORIES</strong><br /><br />
+      Sanitized, first-hand examples of customer communication, incident handling, onboarding, risk, documentation, delivery decisions and follow-through.<br /><br />
+      <a href="https://github.com/zpthanos/production-stories#featured-stories"><strong>Read featured stories →</strong></a>
     </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/zpthanos/Browserstack-Business-Testing">BrowserStack Business Testing →</a></strong><br /><br />
-      A practical way to check that a website works across different browsers and devices.<br /><br />
-      <strong>Why it matters:</strong> fewer “it works on my computer” surprises reach customers.
+    <td width="50%" valign="top">
+      <strong>🛒 CUSTOMER JOURNEY VERIFICATION</strong><br /><br />
+      A repeatable WooCommerce journey from product page to checkout with accessibility checks, reports and failure evidence for safer release decisions.<br /><br />
+      <a href="https://github.com/zpthanos/WooCommerce-Playwright#readme"><strong>Review WooCommerce Playwright →</strong></a>
     </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/zpthanos/civicflow-portfolio">CivicFlow Portfolio →</a></strong><br /><br />
-      A structured plan that turns a complicated request into clear rules, priorities and checks.<br /><br />
-      <strong>Why it matters:</strong> stakeholders understand what will be built and how success will be verified.
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔐 OPERATIONAL RISK CONTROLS</strong><br /><br />
+      A production-minded Cloudflare starter using request validation, rate limits, security headers and monitor-first rollout guidance.<br /><br />
+      <a href="https://github.com/zpthanos/Cloudflare-Security-Starter#readme"><strong>Review the security starter →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🌍 CROSS-BROWSER RELEASE EVIDENCE</strong><br /><br />
+      Browser testing, secure configuration, reporting, CI guidance and practical runbooks designed to support clear go-live decisions.<br /><br />
+      <a href="https://github.com/zpthanos/Browserstack-Business-Testing#readme"><strong>Review BrowserStack testing →</strong></a>
     </td>
   </tr>
 </table>
 
-</details>
+## Open-source and infrastructure readiness
 
-<br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>PROVEN PRODUCTION FOUNDATION</strong><br /><br />
+      Linux-based environments, access and server operations, DNS, SMTP, Cloudflare, REST APIs, webhooks, Git and SQL.<br /><br />
+      I am comfortable moving between customer language, browser evidence, configuration, hosting and technical escalation.
+    </td>
+    <td width="50%" valign="top">
+      <strong>PRODUCT-LEARNING MINDSET</strong><br /><br />
+      I am actively deepening my understanding of Ubuntu, open-source infrastructure and the customer journeys around security, fleet management, cloud and platform adoption.<br /><br />
+      I label self-directed learning honestly and do not present it as production customer experience.
+    </td>
+  </tr>
+</table>
 
-<a id="business-results"></a>
-
-<img src="./assets/section-results-v1.svg" width="100%" alt="Results from real work. Memorable outcomes from customer-facing WordPress and WooCommerce delivery." />
-
-<br />
-
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/results-board-mobile-v2.svg" />
-  <img src="./assets/results-board-v2.svg" width="100%" alt="Three memorable results: a compromised store safely recovered, PageSpeed improved from below 20 to above 75, and a catalogue of more than 2,000 products made manageable." />
-</picture>
-
-<p align="center">
-  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md"><strong>Recovery story →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/11-pagespeed-improvement.md"><strong>Performance story →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/zpthanos/production-stories/blob/main/stories/05-woocommerce-administration-handover.md"><strong>Catalogue story →</strong></a>
-</p>
-
-<br />
-
-<img src="./assets/section-help-v1.svg" width="100%" alt="How I help teams. Plain-language support from first report through verified resolution and handover." />
-
-<br />
-
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/services-board-mobile-v2.svg" />
-  <img src="./assets/services-board-v2.svg" width="100%" alt="How I help teams through reliable store support, calm incident response, confidence before release and shared delivery clarity." />
-</picture>
+> I am drawn to open-source customer success because it combines technical problem-solving with onboarding, enablement, documentation and long-term customer value.
 
 <details>
-<summary><strong>My five-step support approach</strong></summary>
+<summary><strong>How I handle a customer request from first report to verified closure</strong></summary>
 
 <br />
 
-**1. Listen — What is the customer trying to achieve?**  
-Clarify the goal, impact, urgency and expected behaviour.
+**1. Understand the objective**  
+Clarify the customer goal, impact, urgency, environment and expected behaviour.
 
-**2. Reproduce — Can I see the same problem?**  
-Repeat the issue and collect useful evidence instead of guessing.
+**2. Reproduce the issue**  
+Repeat the problem and collect useful browser, system or workflow evidence instead of guessing.
 
-**3. Coordinate — Who needs to act?**  
-Bring together customers, developers, hosting providers or third parties.
+**3. Coordinate the right people**  
+Align customers, developers, hosting providers or third parties around a safe action plan.
 
-**4. Verify — Did the solution actually work?**  
-Test the result and check that important related journeys still work.
+**4. Verify the outcome**  
+Test the requested result and the important related customer journeys before closure.
 
-**5. Explain — Can someone else understand and use the outcome?**  
-Document the result, limitations, next steps and customer guidance.
+**5. Explain and enable**  
+Document the outcome, limitations, next steps and practical customer guidance.
 
 </details>
 
 <details>
-<summary><strong>Technical tools used behind the scenes</strong></summary>
+<summary><strong>Additional implementation and delivery evidence</strong></summary>
+
+<br />
+
+- **[CivicFlow Portfolio →](https://github.com/zpthanos/civicflow-portfolio)**  
+  Shows how complicated requests become clear rules, priorities, controls and verification plans.
+
+- **[Cloudflare Security Starter →](https://github.com/zpthanos/Cloudflare-Security-Starter)**  
+  Shows monitor-first security changes, staged rollout guidance and explicit limitations.
+
+- **[BrowserStack Business Testing →](https://github.com/zpthanos/Browserstack-Business-Testing)**  
+  Shows cross-browser testing, reporting, CI and operational go-live guidance.
+
+</details>
+
+<details>
+<summary><strong>Technical toolkit used behind the scenes</strong></summary>
 
 <br />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -167,23 +187,26 @@ Document the result, limitations, next steps and customer guidance.
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/BrowserStack-FF7A00?style=flat-square&logo=browserstack&logoColor=white" alt="BrowserStack" />
+  <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 </details>
 
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/background-panel-mobile-v1.svg" />
-  <img src="./assets/background-panel-v1.svg" width="100%" alt="Background: BSc Honours Computing in Software Development, native Greek and professional English, based in Greece and available for fully remote EMEA roles." />
-</picture>
+## Background
+
+- **BSc (Hons) Computing — Software Development, 2:1**
+- University of Essex degree delivered through Aegean College · Graduated 2026
+- Greek: Native · English: Full professional working proficiency
+- Remote from Greece · EMEA time zone
 
 <br />
 
 <a href="mailto:a.zaprios@gmail.com">
-  <img src="./assets/contact-panel-v1.svg" width="100%" alt="Contact Athanasios Zaprios about fully remote WordPress, WooCommerce or application support roles across EMEA." />
+  <img src="./assets/customer-success-contact-v1.svg" width="100%" alt="Contact Athanasios Zaprios about remote customer success, technical support or application support roles across EMEA." />
 </a>
 
 <p align="center">
   <a href="mailto:a.zaprios@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Athanasios Zaprios" /></a>
-  <a href="https://github.com/zpthanos/production-stories"><img src="https://img.shields.io/badge/READ_PRODUCTION_STORIES-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" alt="Read production stories" /></a>
+  <a href="./CUSTOMER_SUCCESS_REVIEW.md"><img src="https://img.shields.io/badge/OPEN_60_SECOND_REVIEW-2DD4BF?style=for-the-badge&logo=readme&logoColor=07111F" alt="Open the 60-second customer success review" /></a>
 </p>
