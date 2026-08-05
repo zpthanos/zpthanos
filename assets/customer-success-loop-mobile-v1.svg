@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" role="img" aria-labelledby="title desc">
+<title id="title">Customer success operating model</title>
+<desc id="desc">Understand, resolve, enable, protect and improve.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+</defs>
+<rect width="720" height="820" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="718" height="818" rx="23" fill="none" stroke="#334155"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <text x="36" y="54" fill="#7dd3fc" font-size="24" font-weight="800" letter-spacing="1.5">HOW I MOVE CUSTOMERS</text>
+  <text x="36" y="90" fill="#7dd3fc" font-size="24" font-weight="800" letter-spacing="1.5">TOWARD SUCCESS</text>
+  <line x1="84" y1="148" x2="84" y2="744" stroke="url(#line)" stroke-width="8" stroke-linecap="round"/>
+  <g>
+    <circle cx="84" cy="154" r="30" fill="#0f2a43" stroke="#38bdf8" stroke-width="4"/><text x="84" y="165" text-anchor="middle" fill="#f8fafc" font-size="30" font-weight="900">1</text>
+    <text x="142" y="151" fill="#f8fafc" font-size="30" font-weight="900">UNDERSTAND</text><text x="142" y="187" fill="#cbd5e1" font-size="25" font-weight="600">Clarify customer objectives</text>
+
+    <circle cx="84" cy="300" r="30" fill="#0f2a43" stroke="#22c7d6" stroke-width="4"/><text x="84" y="311" text-anchor="middle" fill="#f8fafc" font-size="30" font-weight="900">2</text>
+    <text x="142" y="297" fill="#f8fafc" font-size="30" font-weight="900">RESOLVE</text><text x="142" y="333" fill="#cbd5e1" font-size="25" font-weight="600">Remove technical obstacles</text>
+
+    <circle cx="84" cy="446" r="30" fill="#0f2a43" stroke="#2dd4bf" stroke-width="4"/><text x="84" y="457" text-anchor="middle" fill="#f8fafc" font-size="30" font-weight="900">3</text>
+    <text x="142" y="443" fill="#f8fafc" font-size="30" font-weight="900">ENABLE</text><text x="142" y="479" fill="#cbd5e1" font-size="25" font-weight="600">Support onboarding and adoption</text>
+
+    <circle cx="84" cy="592" r="30" fill="#0f2a43" stroke="#818cf8" stroke-width="4"/><text x="84" y="603" text-anchor="middle" fill="#f8fafc" font-size="30" font-weight="900">4</text>
+    <text x="142" y="589" fill="#f8fafc" font-size="30" font-weight="900">PROTECT</text><text x="142" y="625" fill="#cbd5e1" font-size="25" font-weight="600">Identify risk early</text>
+
+    <circle cx="84" cy="738" r="30" fill="#0f2a43" stroke="#a78bfa" stroke-width="4"/><text x="84" y="749" text-anchor="middle" fill="#f8fafc" font-size="30" font-weight="900">5</text>
+    <text x="142" y="735" fill="#f8fafc" font-size="30" font-weight="900">IMPROVE</text><text x="142" y="771" fill="#cbd5e1" font-size="25" font-weight="600">Document, share and learn</text>
+  </g>
+</g>
+</svg>
