@@ -15,23 +15,28 @@
     <strong>12</strong> WooCommerce stores &nbsp;·&nbsp;
     <strong>21</strong> documented production cases
   </p>
-
-  <p>
-    <a href="https://zpthanos.github.io/zpthanos/"><strong>Explore the evidence registry →</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/zpthanos/production-stories"><strong>Production casebook</strong></a>
-    &nbsp;·&nbsp;
-    <a href="mailto:a.zaprios@gmail.com"><strong>Contact</strong></a>
-  </p>
 </div>
+
+<a href="https://zpthanos.github.io/zpthanos/">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/evidence-registry-cta-mobile.svg" />
+    <img src="./assets/evidence-registry-cta.svg" width="100%" alt="Open the Evidence Registry — search the proof behind the CV" />
+  </picture>
+</a>
+
+<p align="center">
+  <a href="https://github.com/zpthanos/production-stories"><strong>Production casebook</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:a.zaprios@gmail.com"><strong>Contact</strong></a>
+</p>
 
 ---
 
-## Evidence, not a second CV
+## Evidence behind the CV
 
 My CV explains the experience. This GitHub keeps the proof behind it: first-hand production cases, executable technical work, troubleshooting evidence, QA, incident handling, integrations, customer communication and reusable documentation.
 
-The interactive registry lets you search by **role, technology, symptom or situation**. Try things like `API`, `checkout`, `incident`, `unhappy customer`, `QA`, `security`, `requirements`, `onboarding` or `NATO`.
+The interactive registry is the fastest way to review me: search by **role, technology, symptom or situation** and it surfaces the strongest matching proof first. Try things like `API`, `checkout`, `incident`, `unhappy customer`, `QA`, `security`, `requirements`, `onboarding` or `NATO`.
 
 ## How I work a problem
 

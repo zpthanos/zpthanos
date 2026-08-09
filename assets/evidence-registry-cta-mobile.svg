@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-label="Open the Evidence Registry — search the proof behind the CV">
+  <rect x="8" y="8" width="704" height="244" rx="24" fill="#07111F" stroke="#20B8A6" stroke-width="2"/>
+  <rect x="28" y="28" width="154" height="34" rx="17" fill="#20B8A6"/>
+  <text x="105" y="51" text-anchor="middle" fill="#031711" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">OPEN FIRST</text>
+  <text x="28" y="102" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">Search the evidence</text>
+  <text x="28" y="136" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">behind my CV</text>
+  <text x="28" y="171" fill="#AFC0CD" font-family="Segoe UI,Arial,sans-serif" font-size="15">API · incidents · QA · customers · security</text>
+  <rect x="28" y="194" width="664" height="42" rx="10" fill="#20B8A6"/>
+  <text x="360" y="221" text-anchor="middle" fill="#031711" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing=".6">OPEN EVIDENCE REGISTRY →</text>
+</svg>

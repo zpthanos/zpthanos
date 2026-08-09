@@ -9,12 +9,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="cta.css">
 </head>
 <body>
   <header class="site-header">
     <a class="brand" href="#top" aria-label="Athanasios Zaprios home">AZ</a>
     <nav aria-label="Primary navigation">
-      <a href="#evidence">Evidence</a>
+      <a href="#registry-search">Evidence registry</a>
       <a href="#process">Process</a>
       <a href="#about">About</a>
       <a href="https://github.com/zpthanos" rel="me">GitHub</a>
@@ -29,6 +30,15 @@
         <p class="hero-line">I turn unclear customer problems into reproducible technical issues, verified resolutions and better support processes.</p>
         <p class="hero-scope">Production operations · APIs &amp; integrations · incident response · QA · customer ownership</p>
 
+        <a id="open-registry" class="primary-cta" href="#registry-search" aria-describedby="registry-cta-note">
+          <span>
+            <small>EVIDENCE REGISTRY</small>
+            <strong>Search the proof behind the CV</strong>
+          </span>
+          <b aria-hidden="true">↘</b>
+        </a>
+        <p id="registry-cta-note" class="cta-note">Type a problem, technology, role or customer situation. I’ll surface the strongest evidence first.</p>
+
         <div class="metrics" aria-label="Professional scope">
           <div><strong>60</strong><span>production sites</span></div>
           <div><strong>~30</strong><span>client accounts</span></div>
@@ -37,7 +47,7 @@
         </div>
       </div>
 
-      <section class="evidence-search" aria-labelledby="search-title">
+      <section id="registry-search" class="evidence-search" aria-labelledby="search-title">
         <div class="search-heading">
           <div>
             <p class="eyebrow">EVIDENCE REGISTRY</p>
