@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Athanasios Zaprios — technical support, customer engineering and production operations. Search evidence by role.">
-  <title>Athanasios Zaprios | Technical Support & Customer Engineering</title>
+  <meta name="description" content="Athanasios Zaprios — Technical Support & Customer Engineering Specialist. Search an evidence registry of production cases, technical work, QA, integrations and incident handling.">
+  <title>Athanasios Zaprios | Technical Support & Customer Engineering Specialist</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -12,7 +12,7 @@
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="#top">AZ</a>
+    <a class="brand" href="#top" aria-label="Athanasios Zaprios home">AZ</a>
     <nav aria-label="Primary navigation">
       <a href="#evidence">Evidence</a>
       <a href="#process">Process</a>
@@ -24,9 +24,11 @@
   <main id="top">
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow">TECHNICAL SUPPORT · CUSTOMER ENGINEERING · PRODUCTION OPERATIONS</p>
+        <p class="eyebrow">TECHNICAL SUPPORT &amp; CUSTOMER ENGINEERING SPECIALIST</p>
         <h1>Athanasios Zaprios</h1>
         <p class="hero-line">I turn unclear customer problems into reproducible technical issues, verified resolutions and better support processes.</p>
+        <p class="hero-scope">Production operations · APIs &amp; integrations · incident response · QA · customer ownership</p>
+
         <div class="metrics" aria-label="Professional scope">
           <div><strong>60</strong><span>production sites</span></div>
           <div><strong>~30</strong><span>client accounts</span></div>
@@ -35,30 +37,37 @@
         </div>
       </div>
 
-      <section class="role-search" aria-labelledby="role-search-title">
+      <section class="evidence-search" aria-labelledby="search-title">
         <div class="search-heading">
           <div>
-            <p class="eyebrow">START HERE</p>
-            <h2 id="role-search-title">What are you hiring for?</h2>
+            <p class="eyebrow">EVIDENCE REGISTRY</p>
+            <h2 id="search-title">I need someone who can…</h2>
           </div>
-          <span class="shortcut" aria-hidden="true">/</span>
+          <span class="shortcut" title="Press / to search" aria-hidden="true">/</span>
         </div>
-        <label class="search-box" for="role-input">
+
+        <label class="search-box" for="evidence-input">
           <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="role-input" type="search" autocomplete="off" placeholder="Type a role, skill or problem…" aria-describedby="search-help">
+          <input id="evidence-input" type="search" autocomplete="off" placeholder="debug an API integration, recover a customer, verify a release…" aria-describedby="search-help">
           <button id="clear-search" type="button" aria-label="Clear search">Clear</button>
         </label>
-        <p id="search-help" class="search-help">Try a role. I’ll surface the evidence I would want you to review.</p>
-        <div class="quick-roles" aria-label="Suggested searches">
-          <button type="button" data-query="Technical Support Engineer">Technical Support</button>
-          <button type="button" data-query="Customer Solutions Engineer">Customer Solutions</button>
-          <button type="button" data-query="Application Support Engineer">Application Support</button>
-          <button type="button" data-query="Technical Account Manager">Technical Account</button>
-          <button type="button" data-query="QA Support Engineer">QA / Support</button>
-          <button type="button" data-query="API Support">API Support</button>
-          <button type="button" data-query="Security Operations">Security / Ops</button>
-          <button type="button" data-query="Developer Support">Developer Support</button>
+
+        <p id="search-help" class="search-help">Type a role, technology, symptom or situation. Results update as you type.</p>
+
+        <div class="prompt-label">Try a real problem</div>
+        <div class="quick-prompts" aria-label="Suggested evidence searches">
+          <button type="button" data-query="API is failing">API is failing</button>
+          <button type="button" data-query="Checkout broke">Checkout broke</button>
+          <button type="button" data-query="Customer is unhappy">Customer is unhappy</button>
+          <button type="button" data-query="Production incident">Production incident</button>
+          <button type="button" data-query="Need release confidence">Need release confidence</button>
+          <button type="button" data-query="Requirements are vague">Requirements are vague</button>
+          <button type="button" data-query="Security and recovery">Security &amp; recovery</button>
+          <button type="button" data-query="Onboarding and handover">Onboarding &amp; handover</button>
+          <button type="button" data-query="Reduce repeat tickets">Reduce repeat tickets</button>
+          <button type="button" data-query="NATO secure operations">NATO / secure ops</button>
         </div>
+
         <div id="suggestions" class="suggestions" hidden></div>
       </section>
     </section>
@@ -66,19 +75,26 @@
     <section id="evidence" class="results-section" aria-live="polite">
       <div class="section-heading">
         <div>
-          <p class="eyebrow">EVIDENCE MATCH</p>
-          <h2 id="results-title">Start with the strongest evidence</h2>
+          <p class="eyebrow">EVIDENCE REGISTRY</p>
+          <h2 id="results-title">Strongest evidence first</h2>
         </div>
-        <p id="result-count">Curated for technical support and customer engineering.</p>
+        <p id="result-count">A curated mix of real production work and executable technical evidence.</p>
       </div>
 
-      <div id="fit-summary" class="fit-summary">
+      <div id="search-summary" class="search-summary">
         <div>
-          <span class="label">BEST FIRST IMPRESSION</span>
-          <h3>Production ownership + technical reproduction + verified closure</h3>
-          <p>The default route mixes real production judgment with executable technical evidence.</p>
+          <span class="label">DEFAULT VIEW</span>
+          <h3>Production judgment, technical reproduction and verified closure.</h3>
+          <p>The registry prioritizes first-hand production evidence, then executable work that shows how I investigate and verify.</p>
         </div>
-        <a class="text-link" href="https://github.com/zpthanos/production-stories">Open production casebook →</a>
+        <button id="registry-toggle" class="text-button" type="button">Browse full registry</button>
+      </div>
+
+      <div class="evidence-legend" aria-label="Evidence labels">
+        <span><i class="dot production"></i> Real / sanitized production</span>
+        <span><i class="dot executable"></i> Executable technical work</span>
+        <span><i class="dot case-study"></i> Portfolio case study</span>
+        <span><i class="dot secure"></i> Secure operations context</span>
       </div>
 
       <div id="evidence-grid" class="evidence-grid"></div>
@@ -109,21 +125,32 @@
           <h2>Professional context</h2>
         </div>
       </div>
+
       <div class="tabs" role="tablist" aria-label="About sections">
-        <button type="button" role="tab" aria-selected="true" aria-controls="about-professional" id="tab-professional">Professional</button>
-        <button type="button" role="tab" aria-selected="false" aria-controls="about-defense" id="tab-defense">Defense & secure operations</button>
-        <button type="button" role="tab" aria-selected="false" aria-controls="about-education" id="tab-education">Education</button>
+        <button type="button" role="tab" aria-selected="true" aria-controls="about-professional" id="tab-professional" data-tab="professional">Professional</button>
+        <button type="button" role="tab" aria-selected="false" aria-controls="about-defense" id="tab-defense" data-tab="defense">Defense &amp; secure operations</button>
+        <button type="button" role="tab" aria-selected="false" aria-controls="about-education" id="tab-education" data-tab="education">Education</button>
       </div>
+
       <div class="tab-panel" id="about-professional" role="tabpanel" aria-labelledby="tab-professional">
         <h3>Customer-facing technical support with production ownership.</h3>
         <p>Nearly four years across customer support, B2B operations and IT systems, including more than two years owning production technical issues across roughly 30 client accounts and 60 websites. My strongest work sits between the customer report and the engineering handoff: reproduction, evidence gathering, integrations, QA, communication and verified closure.</p>
       </div>
+
       <div class="tab-panel" id="about-defense" role="tabpanel" aria-labelledby="tab-defense" hidden>
         <span class="label">NON-CLASSIFIED · PUBLICLY DISCLOSABLE</span>
         <h3>Hellenic Army Signals / IT Operations</h3>
-        <p>Military service as a Transmitter Cryptographer with secure communications, mission-critical IT support, classified correspondence handling and technical failure reporting. After assignment to the Research & IT office, I communicated with technical teams connected to Supreme Military Command of Epirus and Macedonia / NATO Rapid Deployable Corps – Greece (NRDC-GR) for escalation and reporting.</p>
-        <p class="boundary">Public material intentionally excludes frequencies, cryptographic material, credentials, network topology, classified message content and non-public procedures.</p>
+        <p>Military service as a Transmitter Cryptographer with secure communications, mission-critical IT support, classified correspondence handling and technical failure reporting. After assignment to the Research &amp; IT office, I communicated with technical teams connected to Supreme Military Command of Epirus and Macedonia / NATO Rapid Deployable Corps – Greece (NRDC-GR) for escalation and reporting.</p>
+        <p class="boundary">Public material intentionally excludes frequencies, cryptographic material, credentials, network topology, classified message content and non-public procedures. The references below verify the public systems and organizations named, not my individual service record.</p>
+        <div class="reference-links" aria-label="Official public references">
+          <a href="https://stelexi.army.gr/ekdiloseis/episkepsi-arhigoy-genikoy-epiteleioy-stratoy-sto-kentro-ekpaideyseos-pyrovolikoy-kai/">KEYP / Lamia</a>
+          <a href="https://stelexi.army.gr/opika-sustimata/systima-epikoinonion-zonis-machis-ermis/">HERMES</a>
+          <a href="https://stelexi.army.gr/organosi/stoicheia-organosis-genikou-epiteleiou-stratou/diefthynseis-somaton/diefthynsi-ylikou-polemou-dyp/drastiriotites/aftomatopoiimeno-systima-pyromachikon-stratou-aspys/">ASPYS</a>
+          <a href="https://stelexi.army.gr/organosi/stoicheia-organosis-genikou-epiteleiou-stratou/diefthynseis-somaton/diefthynsi-ylikou-polemou-dyp/drastiriotites/">OSEYS / DYP</a>
+          <a href="https://nrdc.gr/nrdc-gr-change-of-command-4/">NRDC-GR</a>
+        </div>
       </div>
+
       <div class="tab-panel" id="about-education" role="tabpanel" aria-labelledby="tab-education" hidden>
         <h3>BSc (Hons) Computing — Software Development</h3>
         <p>Second Class Honours, Division 1 (2:1). Aegean College, Greece · University of Essex, UK · Graduated 2026.</p>
@@ -132,7 +159,7 @@
   </main>
 
   <footer>
-    <p><strong>Evidence first.</strong> Production cases are first-hand and sanitized where necessary. Public labs and personal projects are clearly separated from commercial work.</p>
+    <p><strong>Evidence first.</strong> Production cases are first-hand and sanitized where necessary. Public technical exercises and personal projects are clearly separated from commercial work.</p>
     <div>
       <a href="https://github.com/zpthanos">GitHub</a>
       <a href="https://github.com/zpthanos/production-stories">Production stories</a>

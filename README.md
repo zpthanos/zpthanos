@@ -1,10 +1,13 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/customer-success-hero-mobile-v4.svg" />
-    <img src="./assets/customer-success-hero-v4.svg" width="100%" alt="Athanasios Zaprios — technical support, customer engineering and production operations" />
+    <img src="./assets/customer-success-hero-v4.svg" width="100%" alt="Athanasios Zaprios — Technical Support and Customer Engineering Specialist" />
   </picture>
 
-  <p><strong>From unclear customer report to reproducible issue, verified resolution and better support guidance.</strong></p>
+  <p>
+    <strong>Technical Support &amp; Customer Engineering Specialist</strong><br>
+    Production operations · APIs &amp; integrations · issue reproduction · QA · incident response
+  </p>
 
   <p>
     <strong>60</strong> production sites &nbsp;·&nbsp;
@@ -14,7 +17,7 @@
   </p>
 
   <p>
-    <a href="https://zpthanos.github.io/zpthanos/"><strong>Search my evidence by role →</strong></a>
+    <a href="https://zpthanos.github.io/zpthanos/"><strong>Explore the evidence registry →</strong></a>
     &nbsp;·&nbsp;
     <a href="https://github.com/zpthanos/production-stories"><strong>Production casebook</strong></a>
     &nbsp;·&nbsp;
@@ -24,13 +27,19 @@
 
 ---
 
+## Evidence, not a second CV
+
+My CV explains the experience. This GitHub keeps the proof behind it: first-hand production cases, executable technical work, troubleshooting evidence, QA, incident handling, integrations, customer communication and reusable documentation.
+
+The interactive registry lets you search by **role, technology, symptom or situation**. Try things like `API`, `checkout`, `incident`, `unhappy customer`, `QA`, `security`, `requirements`, `onboarding` or `NATO`.
+
 ## How I work a problem
 
 **Customer report → clarify → reproduce → investigate → resolve or escalate → verify → communicate → document**
 
-My CV describes the experience. This GitHub keeps the evidence behind it: real production cases, executable technical work, QA, incident handling, integrations and documentation.
+The useful part is not knowing every answer immediately. It is reducing uncertainty quickly, collecting the right evidence, keeping the customer informed and leaving the next person with a better path.
 
-## Technical evidence
+## Start with proof
 
 | Evidence | What you can inspect |
 |---|---|
@@ -41,9 +50,7 @@ My CV describes the experience. This GitHub keeps the evidence behind it: real p
 | [The Washland Portal](https://github.com/zpthanos/The-Washland-Portal) | PHP 8.2, MySQL, PDO, validation, CRUD, JSON endpoints and explicit HTTP behaviour |
 | [CivicFlow](https://github.com/zpthanos/civicflow-portfolio) | Requirements engineering, business rules, acceptance criteria, traceability, test strategy and delivery planning |
 
-## Production evidence
-
-A few useful places to start:
+A few useful production cases:
 
 - [Critical malware recovery](https://github.com/zpthanos/production-stories/blob/main/stories/06-malware-recovery.md) — incident ownership, safe recovery and full customer-journey validation.
 - [Payment / checkout troubleshooting](https://github.com/zpthanos/production-stories/blob/main/stories/03-payoneer-funnelkit-conflict.md) — reproduction, integration troubleshooting and regression verification.
