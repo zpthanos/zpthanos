@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="690" viewBox="0 0 720 690" role="img" aria-label="Evidence registry snapshot — customer support, customer success and technical account ownership">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#10203A"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="704" height="674" rx="24" fill="url(#bg)" stroke="#1E3A5F" stroke-width="2"/>
+  <rect x="30" y="28" width="190" height="36" rx="18" fill="#20B8A6"/>
+  <text x="125" y="52" text-anchor="middle" fill="#031711" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">WHAT I CAN PROVE</text>
+  <text x="30" y="108" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">One profile. Three customer-facing</text>
+  <text x="30" y="141" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">strengths.</text>
+  <text x="30" y="176" fill="#AFC0CD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Search the registry for what matters to your role.</text>
+
+  <rect x="30" y="210" width="660" height="118" rx="12" fill="#0B1728" stroke="#1E3A5F"/>
+  <text x="50" y="242" fill="#20B8A6" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">CUSTOMER SUPPORT</text>
+  <text x="50" y="274" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Own the issue through closure</text>
+  <text x="50" y="302" fill="#AFC0CD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Reproduce · investigate · escalate · verify</text>
+
+  <rect x="30" y="346" width="660" height="118" rx="12" fill="#0B1728" stroke="#1E3A5F"/>
+  <text x="50" y="378" fill="#20B8A6" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">CUSTOMER SUCCESS</text>
+  <text x="50" y="410" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Help customers operate confidently</text>
+  <text x="50" y="438" fill="#AFC0CD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Onboard · train · recover trust · improve guidance</text>
+
+  <rect x="30" y="482" width="660" height="118" rx="12" fill="#0B1728" stroke="#1E3A5F"/>
+  <text x="50" y="514" fill="#20B8A6" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">TECHNICAL ACCOUNT OWNERSHIP</text>
+  <text x="50" y="546" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Keep the technical relationship moving</text>
+  <text x="50" y="574" fill="#AFC0CD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Clarify · coordinate · communicate · follow through</text>
+
+  <text x="30" y="638" fill="#2F8FBE" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">REPORT → REPRODUCE → INVESTIGATE → VERIFY</text>
+  <text x="30" y="661" fill="#2F8FBE" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">→ COMMUNICATE → DOCUMENT</text>
+</svg>
