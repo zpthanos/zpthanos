@@ -1,0 +1,125 @@
+.hero-copy > .eyebrow {
+  margin-bottom: 14px;
+  color: #a9bbc9;
+  font-size: .82rem;
+  letter-spacing: .1em;
+}
+
+.hero h1 {
+  max-width: 920px;
+  font-size: clamp(2.55rem, 5.4vw, 5.45rem);
+  line-height: .96;
+  letter-spacing: -.045em;
+}
+
+.hero-scope {
+  max-width: 850px;
+}
+
+.customer-scope {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 28px;
+}
+
+.customer-scope span {
+  padding: 7px 10px;
+  border: 1px solid rgba(255,255,255,.16);
+  border-radius: 7px;
+  background: rgba(255,255,255,.04);
+  color: #c9d6df;
+  font-size: .8rem;
+}
+
+.about-section {
+  padding-bottom: clamp(105px, 11vw, 160px);
+}
+
+.tab-panel {
+  max-width: none;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--blue);
+  border-radius: 12px;
+  background: linear-gradient(180deg, #f7fafc 0%, var(--ice) 100%);
+  box-shadow: 0 12px 32px rgba(7,17,31,.06);
+}
+
+.professional-intro {
+  max-width: 900px;
+  margin-bottom: 22px !important;
+}
+
+.professional-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 22px;
+}
+
+.professional-card {
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  background: var(--white);
+}
+
+.professional-card small {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--teal);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .68rem;
+  font-weight: 500;
+  letter-spacing: .07em;
+}
+
+.professional-card h4 {
+  margin: 0 0 8px;
+  font-size: 1.02rem;
+}
+
+.professional-card p {
+  margin: 0;
+  color: #536371;
+  font-size: .9rem;
+  line-height: 1.55;
+}
+
+.professional-proof {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.professional-proof span {
+  padding: 7px 9px;
+  border-radius: 6px;
+  background: #e3edf3;
+  color: #405260;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .72rem;
+}
+
+footer {
+  position: relative;
+  z-index: 2;
+  border-top: 1px solid rgba(255,255,255,.08);
+}
+
+@media (max-width: 900px) {
+  .professional-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 720px) {
+  .hero h1 {
+    font-size: clamp(2.45rem, 12vw, 4.25rem);
+  }
+  .about-section {
+    padding-bottom: 96px;
+  }
+}

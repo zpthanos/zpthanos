@@ -3,13 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Athanasios Zaprios — Technical Support & Customer Engineering Specialist. Search an evidence registry of production cases, technical work, QA, integrations and incident handling.">
+  <meta name="description" content="Athanasios Zaprios — Technical Support & Customer Engineering Specialist. Search an evidence registry of production cases, customer support, customer success, technical account ownership, QA, integrations and incident handling.">
   <title>Athanasios Zaprios | Technical Support & Customer Engineering Specialist</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="cta.css">
+  <link rel="stylesheet" href="polish.css">
 </head>
 <body>
   <header class="site-header">
@@ -25,10 +26,18 @@
   <main id="top">
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow">TECHNICAL SUPPORT &amp; CUSTOMER ENGINEERING SPECIALIST</p>
-        <h1>Athanasios Zaprios</h1>
+        <p class="eyebrow">ATHANASIOS ZAPRIOS</p>
+        <h1>Technical Support &amp; Customer Engineering Specialist</h1>
         <p class="hero-line">I turn unclear customer problems into reproducible technical issues, verified resolutions and better support processes.</p>
-        <p class="hero-scope">Production operations · APIs &amp; integrations · incident response · QA · customer ownership</p>
+        <p class="hero-scope">Customer support · customer success · technical account ownership · production operations · APIs &amp; integrations · QA</p>
+
+        <div class="customer-scope" aria-label="Customer-facing experience">
+          <span>Customer issue ownership</span>
+          <span>Onboarding &amp; adoption</span>
+          <span>Account communication</span>
+          <span>Incident coordination</span>
+          <span>Training &amp; handover</span>
+        </div>
 
         <a id="open-registry" class="primary-cta" href="#registry-search" aria-describedby="registry-cta-note">
           <span>
@@ -64,8 +73,11 @@
 
         <p id="search-help" class="search-help">Type a role, technology, symptom or situation. Results update as you type.</p>
 
-        <div class="prompt-label">Try a real problem</div>
+        <div class="prompt-label">Try a real problem or responsibility</div>
         <div class="quick-prompts" aria-label="Suggested evidence searches">
+          <button type="button" data-query="Customer support">Own a customer issue</button>
+          <button type="button" data-query="Customer success">Drive adoption</button>
+          <button type="button" data-query="Technical account manager">Own a technical account</button>
           <button type="button" data-query="API is failing">API is failing</button>
           <button type="button" data-query="Checkout broke">Checkout broke</button>
           <button type="button" data-query="Customer is unhappy">Customer is unhappy</button>
@@ -143,8 +155,36 @@
       </div>
 
       <div class="tab-panel" id="about-professional" role="tabpanel" aria-labelledby="tab-professional">
-        <h3>Customer-facing technical support with production ownership.</h3>
-        <p>Nearly four years across customer support, B2B operations and IT systems, including more than two years owning production technical issues across roughly 30 client accounts and 60 websites. My strongest work sits between the customer report and the engineering handoff: reproduction, evidence gathering, integrations, QA, communication and verified closure.</p>
+        <span class="label">CUSTOMER-FACING TECHNICAL OPERATIONS</span>
+        <h3>Support ownership with customer-success and technical-account responsibilities.</h3>
+        <p class="professional-intro">Nearly four years across customer support, B2B operations and IT systems, including more than two years owning production technical issues across roughly 30 client accounts and 60 websites. The common thread is staying responsible for the customer outcome while going deep enough technically to make the problem useful to Engineering.</p>
+
+        <div class="professional-grid">
+          <article class="professional-card">
+            <small>CUSTOMER SUPPORT</small>
+            <h4>Own the issue through closure</h4>
+            <p>Clarify reports, reproduce faults, gather evidence, troubleshoot customer journeys, coordinate escalation and verify the fix before closing the thread.</p>
+          </article>
+          <article class="professional-card">
+            <small>CUSTOMER SUCCESS</small>
+            <h4>Help customers operate with confidence</h4>
+            <p>Onboarding, training, handover, post-launch guidance, adoption support, relationship recovery and turning repeated friction into reusable documentation.</p>
+          </article>
+          <article class="professional-card">
+            <small>TECHNICAL ACCOUNT OWNERSHIP</small>
+            <h4>Keep the technical relationship moving</h4>
+            <p>Act as a customer-facing point of contact, clarify requirements, set expectations, communicate during incidents and coordinate developers, QA, hosting and specialists.</p>
+          </article>
+        </div>
+
+        <div class="professional-proof" aria-label="Professional proof points">
+          <span>~30 client accounts</span>
+          <span>60 production sites</span>
+          <span>12 WooCommerce stores</span>
+          <span>onboarding &amp; training</span>
+          <span>incident communication</span>
+          <span>verified closure</span>
+        </div>
       </div>
 
       <div class="tab-panel" id="about-defense" role="tabpanel" aria-labelledby="tab-defense" hidden>

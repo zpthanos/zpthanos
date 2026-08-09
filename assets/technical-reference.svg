@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Technical reference — practical support, systems and delivery toolkit">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#10203A"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="1184" height="174" rx="24" fill="url(#bg)" stroke="#1E3A5F" stroke-width="2"/>
+  <rect x="28" y="28" width="176" height="34" rx="17" fill="#20B8A6"/>
+  <text x="116" y="51" text-anchor="middle" fill="#031711" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">TECHNICAL REFERENCE</text>
+  <text x="28" y="103" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">Tools are useful when they help resolve the customer problem.</text>
+  <text x="28" y="137" fill="#AFC0CD" font-family="Segoe UI,Arial,sans-serif" font-size="16">Support operations · APIs · troubleshooting · QA · ecommerce · infrastructure &amp; security</text>
+  <rect x="895" y="42" width="255" height="104" rx="14" fill="#0B1728" stroke="#2F8FBE" stroke-width="1.5"/>
+  <text x="1022" y="76" text-anchor="middle" fill="#2F8FBE" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">PRACTICAL, NOT DECORATIVE</text>
+  <text x="1022" y="105" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Evidence-led tooling</text>
+  <text x="1022" y="130" text-anchor="middle" fill="#AFC0CD" font-family="Segoe UI,Arial,sans-serif" font-size="13">Used across support &amp; delivery</text>
+</svg>
