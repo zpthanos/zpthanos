@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Athanasios Zaprios — Technical Support & Customer Engineering Specialist. Search an evidence registry of production cases, customer support, customer success, technical account ownership, QA, integrations and incident handling.">
-  <title>Athanasios Zaprios | Technical Support & Customer Engineering Specialist</title>
+  <meta name="description" content="Athanasios Zaprios — customer-facing delivery evidence across client success, support, technical account ownership, production operations, QA and integrations. Pick a customer situation and inspect the real production story behind it.">
+  <title>Athanasios Zaprios | Customer & Delivery Evidence</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -27,9 +27,9 @@
     <section class="hero">
       <div class="hero-copy">
         <p class="eyebrow">ATHANASIOS ZAPRIOS</p>
-        <h1>Technical Support &amp; Customer Engineering Specialist</h1>
-        <p class="hero-line">I turn unclear customer problems into reproducible technical issues, verified resolutions and better support processes.</p>
-        <p class="hero-scope">Customer support · customer success · technical account ownership · production operations · APIs &amp; integrations · QA</p>
+        <h1>What’s happening with your customer?</h1>
+        <p class="hero-line">Pick a situation. I’ll show you a real production story where I handled something similar, what I did and how it ended.</p>
+        <p class="hero-scope">Customer relationships · support ownership · account delivery · production operations · APIs &amp; integrations · QA</p>
 
         <div class="customer-scope" aria-label="Customer-facing experience">
           <span>Customer issue ownership</span>
@@ -41,12 +41,12 @@
 
         <a id="open-registry" class="primary-cta" href="#registry-search" aria-describedby="registry-cta-note">
           <span>
-            <small>EVIDENCE REGISTRY</small>
-            <strong>Search the proof behind the CV</strong>
+            <small>CUSTOMER STORIES</small>
+            <strong>Pick a situation and inspect the evidence</strong>
           </span>
           <b aria-hidden="true">↘</b>
         </a>
-        <p id="registry-cta-note" class="cta-note">Type a problem, technology, role or customer situation. I’ll surface the strongest evidence first.</p>
+        <p id="registry-cta-note" class="cta-note">Choose a customer situation below or search freely. The registry surfaces the closest first-hand cases first.</p>
 
         <div class="metrics" aria-label="Professional scope">
           <div><strong>60</strong><span>production sites</span></div>
@@ -59,35 +59,34 @@
       <section id="registry-search" class="evidence-search" aria-labelledby="search-title">
         <div class="search-heading">
           <div>
-            <p class="eyebrow">EVIDENCE REGISTRY</p>
-            <h2 id="search-title">I need someone who can…</h2>
+            <p class="eyebrow">CUSTOMER STORY FINDER</p>
+            <h2 id="search-title">Show me what happens when…</h2>
           </div>
           <span class="shortcut" title="Press / to search" aria-hidden="true">/</span>
         </div>
 
         <label class="search-box" for="evidence-input">
           <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="evidence-input" type="search" autocomplete="off" placeholder="debug an API integration, recover a customer, verify a release…" aria-describedby="search-help">
+          <input id="evidence-input" type="search" autocomplete="off" placeholder="a customer is unhappy, requirements are unclear, checkout fails…" aria-describedby="search-help">
           <button id="clear-search" type="button" aria-label="Clear search">Clear</button>
         </label>
 
-        <p id="search-help" class="search-help">Type a role, technology, symptom or situation. Results update as you type.</p>
+        <p id="search-help" class="search-help">Describe the customer situation, problem, technology or responsibility. Results update as you type.</p>
 
-        <div class="prompt-label">Try a real problem or responsibility</div>
-        <div class="quick-prompts" aria-label="Suggested evidence searches">
-          <button type="button" data-query="Customer support">Own a customer issue</button>
-          <button type="button" data-query="Customer success">Drive adoption</button>
-          <button type="button" data-query="Technical account manager">Own a technical account</button>
-          <button type="button" data-query="API is failing">API is failing</button>
-          <button type="button" data-query="Checkout broke">Checkout broke</button>
-          <button type="button" data-query="Customer is unhappy">Customer is unhappy</button>
-          <button type="button" data-query="Production incident">Production incident</button>
-          <button type="button" data-query="Need release confidence">Need release confidence</button>
-          <button type="button" data-query="Requirements are vague">Requirements are vague</button>
-          <button type="button" data-query="Security and recovery">Security &amp; recovery</button>
-          <button type="button" data-query="Onboarding and handover">Onboarding &amp; handover</button>
-          <button type="button" data-query="Reduce repeat tickets">Reduce repeat tickets</button>
-          <button type="button" data-query="NATO secure operations">NATO / secure ops</button>
+        <div class="prompt-label">Pick a real customer situation</div>
+        <div class="quick-prompts" aria-label="Suggested customer-story searches">
+          <button type="button" data-query="Customer is unhappy">The customer is unhappy</button>
+          <button type="button" data-query="Requirements are vague">The request is vague</button>
+          <button type="button" data-query="Onboarding and handover">The customer needs onboarding</button>
+          <button type="button" data-query="Competing priorities">Several customers need help</button>
+          <button type="button" data-query="Proactive business value">I spot an opportunity</button>
+          <button type="button" data-query="Beyond original request">The original request isn't enough</button>
+          <button type="button" data-query="End-to-end account ownership">I own the account end-to-end</button>
+          <button type="button" data-query="Repeat support problem">The same problem keeps returning</button>
+          <button type="button" data-query="Production incident">Something broke in production</button>
+          <button type="button" data-query="API is failing">An integration is failing</button>
+          <button type="button" data-query="Need release confidence">A release needs to be safe</button>
+          <button type="button" data-query="NATO secure operations">Secure operations context</button>
         </div>
 
         <div id="suggestions" class="suggestions" hidden></div>
@@ -106,8 +105,8 @@
       <div id="search-summary" class="search-summary">
         <div>
           <span class="label">DEFAULT VIEW</span>
-          <h3>Production judgment, technical reproduction and verified closure.</h3>
-          <p>The registry prioritizes first-hand production evidence, then executable work that shows how I investigate and verify.</p>
+          <h3>Customer ownership, delivery judgment and verified closure.</h3>
+          <p>The registry prioritizes first-hand customer and production evidence, then executable work that shows how I investigate and verify.</p>
         </div>
         <button id="registry-toggle" class="text-button" type="button">Browse full registry</button>
       </div>
@@ -126,16 +125,16 @@
       <div class="section-heading">
         <div>
           <p class="eyebrow">HOW I WORK A PROBLEM</p>
-          <h2>From report to verified resolution</h2>
+          <h2>From customer need to verified outcome</h2>
         </div>
       </div>
       <ol class="process-flow">
-        <li><span>01</span><strong>Clarify</strong><small>Turn the report into a testable problem.</small></li>
+        <li><span>01</span><strong>Clarify</strong><small>Turn the request or report into a testable need.</small></li>
         <li><span>02</span><strong>Reproduce</strong><small>Expected vs actual, steps, scope and evidence.</small></li>
-        <li><span>03</span><strong>Investigate</strong><small>Logs, browser evidence, integrations and system context.</small></li>
-        <li><span>04</span><strong>Resolve / Escalate</strong><small>Fix what I can. Hand Engineering useful evidence when needed.</small></li>
-        <li><span>05</span><strong>Verify</strong><small>Retest the full customer journey, not only the changed component.</small></li>
-        <li><span>06</span><strong>Communicate</strong><small>Keep the customer clear on impact, status and next action.</small></li>
+        <li><span>03</span><strong>Investigate</strong><small>Customer context, logs, browser evidence, integrations and system constraints.</small></li>
+        <li><span>04</span><strong>Resolve / Coordinate</strong><small>Fix what I can and give the right people useful evidence when others are needed.</small></li>
+        <li><span>05</span><strong>Verify</strong><small>Retest the complete customer journey, not only the changed component.</small></li>
+        <li><span>06</span><strong>Communicate</strong><small>Keep the customer clear on impact, status, ownership and next action.</small></li>
         <li><span>07</span><strong>Document</strong><small>Leave a better path for the next occurrence.</small></li>
       </ol>
     </section>
@@ -155,25 +154,25 @@
       </div>
 
       <div class="tab-panel" id="about-professional" role="tabpanel" aria-labelledby="tab-professional">
-        <span class="label">CUSTOMER-FACING TECHNICAL OPERATIONS</span>
-        <h3>Support ownership with customer-success and technical-account responsibilities.</h3>
-        <p class="professional-intro">Nearly four years across customer support, B2B operations and IT systems, including more than two years owning production technical issues across roughly 30 client accounts and 60 websites. The common thread is staying responsible for the customer outcome while going deep enough technically to make the problem useful to Engineering.</p>
+        <span class="label">CUSTOMER-FACING DELIVERY</span>
+        <h3>Own the customer outcome and go deep enough to move the work forward.</h3>
+        <p class="professional-intro">More than four years across customer-facing work, B2B operations and IT systems, including more than two years owning production issues across roughly 30 client accounts and 60 websites. The common thread is taking responsibility for the customer outcome, coordinating the right people and verifying that the agreed result actually works.</p>
 
         <div class="professional-grid">
           <article class="professional-card">
-            <small>CUSTOMER SUPPORT</small>
+            <small>ISSUE OWNERSHIP</small>
             <h4>Own the issue through closure</h4>
             <p>Clarify reports, reproduce faults, gather evidence, troubleshoot customer journeys, coordinate escalation and verify the fix before closing the thread.</p>
           </article>
           <article class="professional-card">
-            <small>CUSTOMER SUCCESS</small>
+            <small>ADOPTION &amp; ENABLEMENT</small>
             <h4>Help customers operate with confidence</h4>
             <p>Onboarding, training, handover, post-launch guidance, adoption support, relationship recovery and turning repeated friction into reusable documentation.</p>
           </article>
           <article class="professional-card">
-            <small>TECHNICAL ACCOUNT OWNERSHIP</small>
-            <h4>Keep the technical relationship moving</h4>
-            <p>Act as a customer-facing point of contact, clarify requirements, set expectations, communicate during incidents and coordinate developers, QA, hosting and specialists.</p>
+            <small>ACCOUNT DELIVERY</small>
+            <h4>Keep the customer relationship moving</h4>
+            <p>Clarify requirements, set expectations, communicate during incidents and coordinate developers, QA, hosting providers and specialists through delivery.</p>
           </article>
         </div>
 
@@ -203,7 +202,7 @@
 
       <div class="tab-panel" id="about-education" role="tabpanel" aria-labelledby="tab-education" hidden>
         <h3>BSc (Hons) Computing — Software Development</h3>
-        <p>Second Class Honours, Division 1 (2:1). Aegean College, Greece · University of Essex, UK · Graduated 2026.</p>
+        <p>Second Class Honours, Division 1 (2:1). Aegean College, Greece · University of Essex, UK · Graduated October 2025.</p>
       </div>
     </section>
   </main>
@@ -217,6 +216,8 @@
     </div>
   </footer>
 
+  <script src="evidence-data.js"></script>
+  <script src="intents.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
