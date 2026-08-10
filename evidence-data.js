@@ -4,7 +4,7 @@ const story = (id, title, file, description, signals, keywords, priority) => ({
   url: `${STORIES}${file}`, signals, keywords, priority
 });
 
-const evidence = [
+window.evidence = [
   {
     id: 'production-stories', title: 'Production Engineering Stories', type: 'REAL PRODUCTION',
     description: '21 first-hand, sanitized cases covering customer delivery, incidents, integrations, QA, relationship recovery and support improvement.',
