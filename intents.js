@@ -1,6 +1,6 @@
 const intent = (label, prompt, aliases, summary, terms, strongest) => ({ label, prompt, aliases, summary, terms, strongest });
 
-const intents = [
+window.intents = [
   intent('Customer recovery', 'Customer is unhappy', ['the customer is unhappy', 'unhappy customer', 'frustrated customer', 'relationship recovery', 'escalated customer'], 'Prioritizing ownership, expectation reset, requirements clarification, communication and confidence recovery.', ['customer ownership', 'communication', 'requirements', 'trust recovery'], ['client-recovery', 'client-engagements', 'ambiguous-request', 'handover', 'production-stories']),
   intent('Ambiguous requirements', 'Requirements are vague', ['the request is vague', 'vague requirements', 'unclear request', 'ambiguous request', 'discovery', 'business need'], 'Prioritizing clarification, business intent, implementation input, acceptance and reviewable outcomes.', ['requirements', 'ambiguity reduction', 'technical translation', 'delivery'], ['ambiguous-request', 'client-engagements', 'beyond-request', 'civicflow', 'client-recovery']),
   intent('Onboarding & handover', 'Onboarding and handover', ['customer needs onboarding', 'the customer needs onboarding', 'onboarding', 'handover', 'training', 'adoption', 'enablement'], 'Prioritizing practical enablement, workflow setup, training, documentation and customer independence.', ['onboarding', 'handover', 'training', 'customer enablement'], ['handover', 'client-engagements', 'support-knowledge', 'production-stories', 'site-editor']),
