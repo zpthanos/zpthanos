@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/customer-success-hero-mobile-v4.svg" />
-    <img src="./assets/customer-success-hero-v4.svg" width="100%" alt="Athanasios Zaprios — client delivery and account ownership across approximately 30 B2B accounts and 60 production sites, including 30 e-commerce sites" />
+    <img src="./assets/customer-success-hero-v4.svg" width="100%" alt="Athanasios Zaprios — client relationships and technical delivery across 60 production sites, including 30 e-commerce sites" />
   </picture>
 </div>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>Customer Success · Technical Support · Client Delivery · Web Operations</strong><br>
-  ~30 B2B accounts · 60 production sites · 30 e-commerce sites · EU-remote
+  60 production sites · 30 e-commerce sites · 22 business owners trained · EU-remote
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 | Relationship evidence at a glance | Scope |
 | --- | --- |
-| B2B client accounts | ~30 |
+| Business owners trained | 22 |
 | Production sites supported | 60 |
 | E-commerce sites (within the production portfolio) | 30 |
 | Early-stage HORECA SaaS exposure | 500+ businesses |
