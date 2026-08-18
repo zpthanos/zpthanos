@@ -18,6 +18,8 @@
 <p align="center">
   <a href="https://zpthanos.github.io/zpthanos/"><strong>Client Evidence Registry</strong></a>
   &nbsp;·&nbsp;
+  <a href="https://zpthanos.github.io/CaseReady/"><strong>CaseReady Support Intake</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/zpthanos/production-stories"><strong>21 Client &amp; Production Cases</strong></a>
   &nbsp;·&nbsp;
   <a href="mailto:a.zaprios@gmail.com"><strong>Contact</strong></a>
@@ -69,6 +71,7 @@
 
 These repositories are included to show that my client communication is backed by practical troubleshooting, QA, delivery and web-operations capability.
 
+- **[CaseReady](https://zpthanos.github.io/CaseReady/)** — a deterministic guided intake that turns the same verified facts into a customer confirmation, internal support brief and engineering escalation without storing customer information on a backend.
 - **[Production Engineering Stories](https://github.com/zpthanos/production-stories)** — 21 first-hand, sanitized cases across client delivery, incidents, integrations, QA, relationship recovery and support improvement.
 - **[WooCommerce Playwright](https://github.com/zpthanos/WooCommerce-Playwright)** — executable checkout verification with accessibility checks, CI, traces and reports.
 - **[BrowserStack Business Testing](https://github.com/zpthanos/Browserstack-Business-Testing)** — cross-browser automation, release evidence and testing operations.

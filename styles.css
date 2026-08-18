@@ -64,6 +64,22 @@ button, input { font: inherit; }
 .site-header nav a:hover,
 .site-header nav a:focus-visible { color: var(--teal); }
 
+.site-header nav .nav-product {
+  color: var(--white);
+  font-weight: 600;
+}
+
+.site-header nav .nav-product::after {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-left: 7px;
+  border-radius: 50%;
+  background: var(--teal);
+  content: "";
+  vertical-align: 2px;
+}
+
 main { overflow: hidden; }
 
 .hero {
@@ -288,6 +304,7 @@ h1 {
 .suggestions small { color: var(--muted); }
 
 .results-section,
+.product-section,
 .process-section,
 .about-section {
   padding: clamp(68px, 8vw, 112px) clamp(20px, 6vw, 92px);
@@ -486,6 +503,125 @@ h1 {
 .empty-state h3 { margin-bottom: 7px; }
 .empty-state p { margin-bottom: 0; color: var(--muted); }
 
+.product-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(360px, .95fr);
+  gap: clamp(34px, 6vw, 86px);
+  align-items: center;
+  background: #eaf0f4;
+}
+
+.product-copy h2 {
+  max-width: 780px;
+  margin-bottom: 20px;
+  font-size: clamp(2.2rem, 4.4vw, 4.2rem);
+  line-height: 1;
+  letter-spacing: -.04em;
+}
+
+.product-copy > p:not(.eyebrow) {
+  max-width: 720px;
+  color: #465665;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.product-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.product-actions a {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 46px;
+  padding: 11px 16px;
+  border: 1px solid var(--navy);
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.product-primary {
+  background: var(--navy);
+  color: var(--white);
+}
+
+.product-primary:hover,
+.product-primary:focus-visible {
+  border-color: var(--teal);
+  background: var(--teal);
+}
+
+.product-secondary {
+  background: transparent;
+  color: var(--navy);
+}
+
+.product-secondary:hover,
+.product-secondary:focus-visible {
+  border-color: var(--teal);
+  color: #0a7166;
+}
+
+.handoff-panel {
+  padding: clamp(24px, 4vw, 38px);
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 12px;
+  background: var(--navy);
+  box-shadow: 0 24px 60px rgba(7,17,31,.16);
+  color: var(--white);
+}
+
+.handoff-panel > .label {
+  margin-bottom: 20px;
+  color: #8fa2b2;
+}
+
+.handoff-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: 16px;
+  padding: 17px 0 17px 22px;
+  border-top: 1px solid rgba(255,255,255,.12);
+}
+
+.handoff-row::before {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--teal);
+  content: "";
+}
+
+.support-output::before { background: var(--blue); }
+.resolver-output::before { background: #d49a4a; }
+
+.handoff-row span {
+  color: #9fb0bd;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .76rem;
+}
+
+.handoff-row strong {
+  font-size: .93rem;
+  line-height: 1.45;
+}
+
+.handoff-note {
+  margin: 20px 0 0;
+  color: #92a7b7;
+  font-size: .82rem;
+  line-height: 1.5;
+}
+
 .process-section {
   background: var(--navy);
   color: var(--white);
@@ -640,11 +776,13 @@ footer a:focus-visible { color: var(--teal); }
   .metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .evidence-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .process-flow { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .product-section { grid-template-columns: 1fr; }
+  .handoff-panel { max-width: 720px; }
 }
 
 @media (max-width: 720px) {
-  .site-header nav a:nth-child(2),
-  .site-header nav a:nth-child(3) { display: none; }
+  .site-header nav a:nth-child(3),
+  .site-header nav a:nth-child(4) { display: none; }
 
   .hero { padding-top: 54px; }
   h1 { font-size: clamp(3rem, 15vw, 4.8rem); }
@@ -666,10 +804,12 @@ footer a:focus-visible { color: var(--teal); }
   .process-flow { grid-template-columns: 1fr; }
   .process-flow li { min-height: auto; }
   .process-flow span { margin-bottom: 16px; }
+  .handoff-row { grid-template-columns: 1fr; gap: 5px; }
   footer { flex-direction: column; }
 }
 
 @media (max-width: 430px) {
+  .site-header nav a:first-child { display: none; }
   .search-box {
     padding-left: 12px;
   }
